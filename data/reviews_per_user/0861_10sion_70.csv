@@ -1,0 +1,491 @@
+movie_title,title,review,rating,helpful,total,date
+The Blair Witch Project," genre expectations: horror
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,1,8,18 August 2019
+Moneyball," genre expectations: sports
+","Anticipation 2
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,1,1,3 August 2019
+Angels & Demons," genre expectations: thriller
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,0,0,6 December 2019
+Black Swan," genre expectations: thriller
+","Anticipation 2
+Conflict 2
+Engagement 1
+Entertainment 2
+Production 1
+Total 8",8,0,1,17 January 2020
+The Young Victoria," genre expectations: romance
+","Anticipation 0
+Conflict 2
+Engagement 1
+Entertainment 1
+Production 0
+Total 4",4,0,0,5 December 2019
+Ghost," genre expectations: thriller
+","Anticipation 0
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 4",4,0,2,23 March 2020
+Friday Night Lights," genre expectations: sports
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 1
+Total 6",6,0,1,15 August 2019
+Gravity," genre expectations: thriller
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 2
+Total 7",7,0,0,5 May 2020
+Fury," genre expectations: war
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,0,0,23 November 2019
+Dawn of the Dead," genre expectations: horror
+","Anticipation 0
+Conflict 1
+Engagement 0
+Entertainment 1
+Production 1
+Total 3",3,1,2,28 November 2019
+Happy Gilmore," genre expectations: sports
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 1
+Total 6",6,1,1,12 January 2020
+The Notebook," genre expectations: romance
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 1
+Production 1
+Total 6",6,0,0,28 June 2020
+The Irishman," genre expectations: crime
+","Anticipation 2
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 2
+Total 9",9,0,2,4 June 2020
+Superbad," genre expectations: life
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,3,4,22 August 2019
+Insomnia," genre expectations: crime
+","Anticipation 1
+Conflict 2
+Engagement 1
+Entertainment 2
+Production 1
+Total 7",7,1,1,13 October 2019
+Juno," genre expectations: life
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,0,0,21 October 2019
+Butch Cassidy and the Sundance Kid," genre expectations: western
+","Anticipation 1
+Conflict 2
+Engagement 1
+Entertainment 2
+Production 1
+Total 7",7,0,0,26 March 2020
+Crash," genre expectations: life
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,0,0,25 February 2020
+The Beach," genre expectations: thriller
+","Anticipation 0
+Conflict 2
+Engagement 1
+Entertainment 1
+Production 0
+Total 4",4,2,3,5 May 2020
+Final Destination 2," genre expectations: horror
+","Anticipation 0
+Conflict 1
+Engagement 0
+Entertainment 1
+Production 0
+Total 2",2,0,2,30 October 2019
+Alien," genre expectations: science fiction
+","Anticipation 1
+Conflict 2
+Engagement 1
+Entertainment 2
+Production 2
+Total 8",8,1,2,20 February 2020
+Full Metal Jacket," genre expectations: war
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 10",10,0,0,8 March 2020
+Empire of the Sun," genre expectations: war
+","Anticipation 2
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 1
+Total 7",7,0,0,18 December 2019
+Glory," genre expectations: war
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,0,2,12 February 2020
+Corpse Bride," genre expectations: fantasy
+","Anticipation 1
+Conflict 2
+Engagement 1
+Entertainment 1
+Production 2
+Total 7",7,0,0,29 October 2019
+Forrest Gump," genre expectations: fantasy
+","Anticipation 2
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 2
+Total 9",9,1,1,12 April 2020
+21 Jump Street," genre expectations: action
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,1,1,14 September 2019
+American Hustle," genre expectations: crime
+","Anticipation 2
+Conflict 2
+Engagement 1
+Entertainment 2
+Production 1
+Total 8",8,0,1,26 February 2020
+Incendies," genre expectations: war
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,0,2,15 October 2019
+Predator," genre expectations: science fiction
+","Anticipation 1
+Conflict 1
+Engagement 0
+Entertainment 1
+Production 1
+Total 4",4,0,8,14 August 2019
+Burn After Reading," genre expectations: crime
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,1,2,26 January 2020
+Aliens," genre expectations: science fiction
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 2
+Total 7",7,0,2,11 March 2020
+Quantum of Solace," genre expectations: action
+","Anticipation 1
+Conflict 0
+Engagement 1
+Entertainment 2
+Production 1
+Total 5",5,0,3,6 April 2020
+Batman Begins," genre expectations: action
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,0,0,12 December 2019
+Foxcatcher," genre expectations: crime
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 9",9,0,1,26 August 2019
+Lawrence of Arabia," genre expectations: war
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 10",10,0,1,30 January 2020
+The Theory of Everything," genre expectations: romance
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,0,0,26 February 2020
+22 Jump Street," genre expectations: action
+","Anticipation 1
+Conflict 1
+Engagement 0
+Entertainment 1
+Production 1
+Total 4",4,0,1,25 September 2019
+Children of Men," genre expectations: thriller
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 1
+Production 1
+Total 7",7,0,1,16 November 2019
+Dumb and Dumber," genre expectations: romance
+","Anticipation 1
+Conflict 1
+Engagement 0
+Entertainment 2
+Production 1
+Total 5",5,0,1,22 December 2019
+Prisoners," genre expectations: thriller
+","Anticipation 0
+Conflict 2
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,1,2,29 April 2020
+2001: A Space Odyssey," genre expectations: science fiction
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 10",10,0,3,16 October 2019
+Invictus," genre expectations: sports
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 1
+Total 6",6,0,1,8 March 2020
+Mama," genre expectations: horror
+","Anticipation 0
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 0
+Total 3",3,0,0,15 June 2020
+Reservoir Dogs," genre expectations: crime
+","Anticipation 2
+Conflict 2
+Engagement 1
+Entertainment 2
+Production 2
+Total 9",9,0,1,2 January 2020
+Zombieland," genre expectations: horror
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,0,1,20 October 2019
+Psycho," genre expectations: horror
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 10",10,1,1,31 October 2019
+Zero Dark Thirty," genre expectations: thriller
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,0,0,9 April 2020
+Crazy Heart," genre expectations: romance
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,0,1,25 January 2020
+Nick and Norah's Infinite Playlist," genre expectations: romance
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 1
+Total 6",6,0,0,20 February 2020
+One Flew Over the Cuckoo's Nest," genre expectations: life
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 9",9,0,0,21 December 2019
+Anchorman: The Legend of Ron Burgundy," genre expectations: life
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,0,0,28 June 2020
+The Big Short," genre expectations: life
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,0,1,10 April 2020
+Platoon," genre expectations: war
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 9",9,2,3,24 June 2019
+Prometheus," genre expectations: science fiction
+","Anticipation 0
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 4",4,0,0,9 June 2020
+Raging Bull," genre expectations: sports
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 10",10,0,0,1 January 2020
+Fifty Shades of Grey," genre expectations: romance
+","Anticipation 0
+Conflict 1
+Engagement 0
+Entertainment 1
+Production 0
+Total 2",2,0,2,24 April 2020
+Win Win," genre expectations: sports
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,0,0,6 November 2019
+Any Given Sunday," genre expectations: sports
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,0,1,27 October 2019
+Casino Royale," genre expectations: action
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,1,4,24 March 2020
+Space Jam," genre expectations: sports
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 2
+Production 1
+Total 6",6,1,2,16 December 2019
+Flight," genre expectations: thriller
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 1
+Total 8",8,0,0,18 May 2020
+Final Destination," genre expectations: horror
+","Anticipation 1
+Conflict 1
+Engagement 1
+Entertainment 1
+Production 1
+Total 5",5,0,1,28 October 2019
+Rear Window," genre expectations: thriller
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 10",10,1,1,15 April 2020
+Casino," genre expectations: crime
+","Anticipation 2
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 10",10,2,3,24 January 2020
+Apollo 13," genre expectations: life
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 1
+Production 1
+Total 6",6,0,0,14 June 2020
+Interview with the Vampire: The Vampire Chronicles," genre expectations:horror
+","Anticipation 1
+Conflict 2
+Engagement 1
+Entertainment 1
+Production 1
+Total 6",6,0,2,2 November 2019
+Gangs of New York," genre expectations: crime
+","Anticipation 1
+Conflict 2
+Engagement 2
+Entertainment 2
+Production 2
+Total 9",9,4,4,30 March 2020
+Born on the Fourth of July," genre expectations: life
+","Anticipation 1
+Conflict 2
+Engagement 1
+Entertainment 2
+Production 2
+Total 8",8,0,2,5 July 2019
+The Social Network," genre expectations: life
+","Anticipation 1
+Conflict 1
+Engagement 2
+Entertainment 2
+Production 1
+Total 7",7,0,1,22 April 2020

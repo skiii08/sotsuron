@@ -1,0 +1,101 @@
+movie_title,title,review,rating,helpful,total,date
+Blade Runner 2049," 7/10
+",Review (1~5)#Content: Script 4 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,1,8,6 October 2017
+Wind River," 8/10
+",Review (1~5)#Content: Script 4 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects n/a#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 8,Null,0,3,27 October 2017
+Se7en," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 9,Null,4,6,13 April 2017
+Unbreakable," 7/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 4 | Visual Effects n/a#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 7,Null,0,1,28 March 2017
+Passengers," 8/10
+","'Come on, now. Every cloud has a silver lining. Guess, I am going to die of old age on this ship!' 'Oh, we all die.''Even androids end up on the scrap heap. I'm your only customer, why are you always polishing a glass?' 'Trick of the trade. Makes people nervous when a bartender just stands there.''So, lay some bartender wisdom on me. I'm lost in space here.' 'You're not where you want to be. You feel like you're supposed to be somewhere else.' 'You said it.' 'Well.Say you could snap your fingers and be wherever you wanted to be. I'll bet you'd still feel this way. Not in the right place. Point is, you can't get so hung up on where you'd rather be that you forget how to make the most of where you are.' 'What are you telling me?' 'Take a break from worrying about what you can't control. Live a little.' 'Live a little.' — from 'Passengers'——Review (1~5)#TrailerFraudIndex (lower, better): 1#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 5 | Visual Effects 4#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 8",Null,1,2,11 March 2017
+The Fifth Element," 10/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 4#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 10,Null,1,4,3 April 2017
+The Prestige," 7/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 4 | Film Editing 4#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 3 | Lighting 3 | Visual Effects 3#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,0,2,29 May 2017
+Tinker Tailor Soldier Spy," 8/10
+","Review (1~5)#TrailerFraudIndex (lower, better): 1#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 3 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 4 | Visual Effects -#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 8",Null,0,1,12 March 2017
+Alien," 7/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 4 | Film Editing 3#Visual: Costume Design 4 | Makeup & Hairstyling 3 | Scenic Design 4 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,1,1,27 April 2017
+Interstellar," 10/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 10,Null,0,1,12 November 2017
+Baby Driver," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 4 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 9,Null,1,4,7 October 2017
+Split," 7/10
+","Review (1~5)#TrailerFraudIndex (lower, better): 2#Content: Script 3 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 5 | Visual Effects 4#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 7",Null,1,8,26 March 2017
+Wanted," 6/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 5 | Film Editing 5#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 3 | Lighting 3 | Visual Effects 4#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 6,Null,0,1,20 April 2017
+Warrior," 8/10
+",Review (1~5)#Content: Script 4 | Acting 5 | Cinematography 4 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 5 | Scenic Design 4 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 8,Null,2,3,22 April 2017
+Dark City," 6/10
+",Review (1~5)#Content: Script 3 | Acting 3 | Cinematography 4 | Film Editing 3#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 4 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 3#Overall (1~10): 6,Null,1,1,17 May 2017
+Dunkirk," 7/10
+",Review (1~5)#Content: Script 3 | Acting 4 | Cinematography 5 | Film Editing 4#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 7,Null,2,7,1 August 2017
+Aliens," 6/10
+",Review (1~5)#Content: Script 2 | Acting 3 | Cinematography 3 | Film Editing 3#Visual: Costume Design 3 | Makeup & Hairstyling 4 | Scenic Design 3 | Lighting 3 | Visual Effects 4#Sound: Score & Soundtracks 3 | Sound Editing & Mixing 3#Overall (1~10): 6,Null,2,5,1 June 2017
+Jackie," 7/10
+","'I have lived a blessed life. And yet, every night, when I climb into bed, turn off the lights, and stare into the dark, I wonder... Is this all there is?' 'You wonder?' 'Every soul on this planet does. But then, when morning comes, we all wake up and make a pot of coffee. Why do we bother? Because we do. You did this morning. You will again tomorrow. But God, in his infinite wisdom, has made sure it is just enough for us.'  'The darkness may never go away, but it won't always be this heavy.' — from 'Jackie'——Review (1~5)#TrailerFraudIndex (lower, better): 1#Content | Script: 3 | Acting: 4 | Cinematography: 5 | Film Editing: 4#Visual | Costume Design: 4 | Makeup & Hairstyling: 4 | Scenic Design: 4 | Lighting: 4 | Visual Effects: 4#Sound | Score & Soundtracks: 4 | Sound Editing & Mixing: 4#Overall (1~10): 7",Null,0,1,2 March 2017
+The Usual Suspects," 7/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 4 | Film Editing 4#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 3 | Lighting 3 | Visual Effects 3#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,0,1,16 April 2017
+Die Hard 2," 7/10
+",Review (1~5)#Content: Script 4 | Acting 3 | Cinematography 3 | Film Editing 3#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 3 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,1,2,28 May 2017
+No Country for Old Men," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 3 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 5 | Visual Effects 4#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 9,Null,1,1,12 May 2017
+Schindler's List," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 5 | Visual Effects 4#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 9,Null,9,14,8 April 2017
+Hidden Figures," 8/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 4#Overall (1~10): 8,Null,1,8,7 April 2017
+Mulholland Drive," 7/10
+",Review (1~5)#Content: Script 4 | Acting 5 | Cinematography 4 | Film Editing 4#Visual: Costume Design 3 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects 3#Sound: Score & Soundtracks 3 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,0,1,19 April 2017
+Guardians of the Galaxy," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 9,Null,0,3,10 May 2017
+Silence," 8/10
+","Review (1~5)#TrailerFraudIndex (lower, better): 1#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 5 | Visual Effects 4#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 8",Null,1,2,23 March 2017
+Logan," 8/10
+",Review (1~5)#Content: Script 4 | Acting 5 | Cinematography 5 | Film Editing 4#Visual: Costume Design 4 | Makeup & Hairstyling 5 | Scenic Design 4 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 8,Null,1,7,14 March 2017
+Avatar," 7/10
+",Review (1~5)#Content: Script 3 | Acting 3 | Cinematography 4 | Film Editing 4#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 7,Null,1,2,29 May 2017
+La La Land," 8/10
+","'You... play into 90 year olds at The Lighthouse. Where are the kids? Where are the young people? You're so obsessed with Kenny Clarke and Thelonious Monk. These guys were revolutionaries. How are you going to be a revolutionary, if you're such a traditionalist? You holding on to the past..., but jazz is about the future.' —John Legend from 'LA LA LAND'——Review (1~5)#TrailerFraudIndex (lower, better): 1#Content | Script: 4 | Acting: 5 | Cinematography: 5 | Film Editing: 5#Visual | Costume Design: 5 | Makeup & Hairstyling: 5 | Scenic Design: 5 | Lighting: 5 | Visual Effects: 5#Sound | Score & Soundtracks: 5 | Sound Editing & Mixing: 5#Overall (1~10): 8",Null,0,6,2 March 2017
+Total Recall," 7/10
+",Review (1~5)#Content: Script 4 | Acting 3 | Cinematography 4 | Film Editing 4#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 3 | Visual Effects 3#Sound: Score & Soundtracks 3 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,0,4,10 April 2017
+Beauty and the Beast," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 9,Null,6,12,18 April 2017
+Sicario," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 4 | Lighting 5 | Visual Effects 3#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 9,Null,0,0,11 May 2017
+Pulp Fiction," 8/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects 3#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 4#Overall (1~10): 8,Null,0,2,11 April 2017
+Guardians of the Galaxy Vol. 2," 7/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 7,Null,1,3,5 June 2017
+Die Hard," 8/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 4 | Film Editing 4#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 8,Null,0,0,27 May 2017
+Joker," 8/10
+",Review (1~5)#Content: Script 4 / Acting 5 / Cinematography 5 / Film Editing 5#Visual: Costume Design 5 / Makeup & Hairstyling 5 / Scenic Design 5 / Lighting 5 / Visual Effects 5#Sound: Score & Soundtracks 5 / Sound Editing & Mixing 5#Overall (1~10): 8,Null,0,3,15 October 2019
+Die Hard with a Vengeance," 6/10
+",Review (1~5)#Content: Script 3 | Acting 3 | Cinematography 3 | Film Editing 3#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 3 | Lighting 3 | Visual Effects 2#Sound: Score & Soundtracks 2 | Sound Editing & Mixing 3#Overall (1~10): 6,Null,1,2,28 May 2017
+Kong: Skull Island," 6/10
+",Review (1~5)#Content: Script 3 | Acting 3 | Cinematography 4 | Film Editing 4#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 6,Null,1,4,24 May 2017
+The Shawshank Redemption," 10/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 3 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects n/a#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 4#Overall (1~10): 10,Null,0,0,29 March 2017
+Prometheus," 10/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 10,Null,7,10,8 May 2017
+Wonder Woman," 6/10
+",Review (1~5)#Content: Script 3 | Acting 4 | Cinematography 4 | Film Editing 4#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 4 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 6,Null,3,10,5 June 2017
+The Silence of the Lambs," 9/10
+",Review (1~5)#Content: Script 5 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 3 | Makeup & Hairstyling 4 | Scenic Design 5 | Lighting 5 | Visual Effects 3#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 9,Null,0,1,14 April 2017
+The Wolverine," 6/10
+",Review (1~5)#Content: Script 3 | Acting 4 | Cinematography 4 | Film Editing 4#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects 5#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 6,Null,0,2,19 May 2017
+Identity," 7/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 4 | Film Editing 4#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 3 | Lighting 3 | Visual Effects 3#Sound: Score & Soundtracks 3 | Sound Editing & Mixing 3#Overall (1~10): 7,Null,0,1,15 April 2017
+Live Free or Die Hard," 7/10
+",Review (1~5)#Content: Script 3 | Acting 4 | Cinematography 5 | Film Editing 5#Visual: Costume Design 4 | Makeup & Hairstyling 4 | Scenic Design 4 | Lighting 4 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 7,Null,0,0,30 May 2017
+Life," 4/10
+",Review (1~5)#Content: Script 2 | Acting 3 | Cinematography 3 | Film Editing 3#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 4 | Lighting 4 | Visual Effects 4#Sound: Score & Soundtracks 3 | Sound Editing & Mixing 4#Overall (1~10): 4,Null,2,7,26 May 2017
+Kingsman: The Secret Service," 7/10
+",Review (1~5)#Content: Script 4 | Acting 4 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 4 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 7,Null,0,2,2 August 2017
+John Wick: Chapter 2," 8/10
+","Review (1~5)#TrailerFraudIndex (lower, better): 1#Content: Script 4 | Acting 5 | Cinematography 5 | Film Editing 5#Visual: Costume Design 5 | Makeup & Hairstyling 5 | Scenic Design 5 | Lighting 5 | Visual Effects 5#Sound: Score & Soundtracks 5 | Sound Editing & Mixing 5#Overall (1~10): 8",Null,1,3,14 March 2017
+Moon," 7/10
+",Review (1~5)#Content: Script 4 | Acting 3 | Cinematography 3 | Film Editing 3#Visual: Costume Design 3 | Makeup & Hairstyling 3 | Scenic Design 3 | Lighting 3 | Visual Effects 3#Sound: Score & Soundtracks 4 | Sound Editing & Mixing 4#Overall (1~10): 7,Null,0,3,2 June 2017
+Hacksaw Ridge," 10/10
+","'All I saw was a skinny kid. I didn't know who you were. You've done more than any other man could have done in the service of his country. And I have never been more wrong about someone in my life. I hope one day you can forgive me. We have to go back up tomorrow. I realize that tomorrow is your Sabbath. Most of these men don't believe the same way you do. But they believe so much in how much you believe. And what you did on that ridge, it's nothing short of a miracle, and they want a piece of it. And they're not going to go up there without you.' —from 'Hacksaw Ridge'——Review (1~5)#TrailerFraudIndex (lower, better): 1#Content | Script: 5 | Acting: 5 | Cinematography: 5 | Film Editing: 5#Visual | Costume Design: 5 | Makeup & Hairstyling: 5 | Scenic Design: 5 | Lighting: 5 | Visual Effects: 5#Sound | Score & Soundtracks: 5 | Sound Editing & Mixing: 5#Overall (1~10): 10",Null,6,10,3 March 2017

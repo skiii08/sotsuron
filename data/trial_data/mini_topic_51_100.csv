@@ -1,0 +1,99 @@
+movie,sentence_count,username,rating,helpful,total,date,title,review,topic,sentiment_score,subjectivity,person_name
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+","This is one of the most intriguing movie in American cinema , about one of the most intriguing story in American history .",topic,4,S,None
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+",Everyone in the world should watch this movie at least once .,recommendation,5,S,None
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+","The problem with this film is that while Oliver Stone continually ducks behind the curtain defending himself that he was only making a work of fiction , he uses enough historical imagery and data that the end product is as I have described it in the "" one line description : "" a bad history term paper .",direction,2,S,Oliver Stone
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+","I""ll not recount the historical inaccuracies that permeate the film concerning the individuals involved save to note that attempting to make a hero of Jim Garrison would be laughable if the reputations otherwise damaged in the film did not belong to real people .",plot,2,S,Jim Garrison
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+",I would encourage anyone who believes that the character Kevin Costner portrayed bore any philosophical or intellectual similarity to Jim Garrison should read a biography of Garrison some time .,character,3,S,"Kevin Costner, Jim Garrison"
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+","He knew he had no case , he knew his "" star witness "" was perjuring himself .",plot,3,O,None
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+","But the call to glory was too great for Garrison to let those "" little inconveniences "" get in his way .",character,3,S,Garrison
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+","The real life Jim Garrison ultimately lost his case against Clay Shaw and Stone loses his case as well by attempting to glue together a variety of conspiracy theories , many of which had been debunked long before the release of the film in 1991 .",plot,3,O,"Jim Garrison, Clay Shaw, Stone"
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+","The problem , however , is that those theories are presented in "" JFK "" as historical verities , and large numbers of viewers haven""t the historical grounding in the facts of the assassination and the scores of investigations conducted since to know where Stone is taking "" artistic license "" and the actual facts of the case .",plot,3,S,Stone
+JFK 1991,8,wrcong,5,17,39,22 November 2004," A bad high school term paper
+","The result is that actual people end up being smeared by innuendo and "" factual evidence "" long since discredited .",plot,2,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+","I am the type of person that""s not really into politics or political movies but I enjoyed JFK .",enjoyment,4,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+",It raised a lot of questions and fueled great discussions withing my circle of friends .,discussion,4,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+",The acting was excellent .,acting,5,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+",I will admit that the 3 + hour time length turned me off a bit,length,2,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+",and it was hard to stay awake .,engagement,2,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+","There were parts that could""ve been speed up but overall , it was really well written and directed .",writing and direction,4,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+","I got sick every time they actually showed the bullit hitting Kennedy , just as sick as the time that CNN kept showing the planes hitting the twin towers .",graphic content,2,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+",I realize that it is part of history,history,3,O,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+",but some things are unbearable to watch .,viewing experience,2,S,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+","I wasn""t born when Kennedy was shot",personal context,3,O,None
+JFK 1991,8,Shila_Bhimji,8,7,24,10 January 2005," raised a lot of eyebrows
+",but the movie gave me a feeling of what it was like for those who had been there or doing something in their lives when that moment happened .,emotion,4,S,None
+JFK 1991,9,ETL,Null,0,10,15 February 2000," The Greatest Movie of ALL TIME!
+","Some movies make everything you ate for lunch rise up , exit through your mouth and splash onto the floor .",disgust,1,S,None
+JFK 1991,9,ETL,Null,0,10,15 February 2000," The Greatest Movie of ALL TIME!
+",This movie is not one of those movies .,evaluation,3,S,None
+JFK 1991,9,ETL,Null,0,10,15 February 2000," The Greatest Movie of ALL TIME!
+","It is historically accurate and if you don""t believe me ... READ ! "" JFK the book on the film "" includes all the information that was used to write the screenplay .",accuracy,4,O,None
+JFK 1991,9,ETL,Null,0,10,15 February 2000," The Greatest Movie of ALL TIME!
+",Almost every line in the movie is backed up by three of four sources .,accuracy,4,O,None
+JFK 1991,9,ETL,Null,0,10,15 February 2000," The Greatest Movie of ALL TIME!
+",The movie is also entertaining and moving ! It is the greatest .,enjoyment,5,S,None
+JFK 1991,9,ETL,Null,0,10,15 February 2000," The Greatest Movie of ALL TIME!
+",Oliver Stone is the greatest director of all time !,direction,5,S,Oliver Stone
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",One of the most important films .,importance,4,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","Many will disagree with that ,",disagreement,3,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","but it""s not a statement just about the film itself , it""s also about the fact that Oliver Stone had the balls to make this interesting political masterpiece .",direction,5,S,Oliver Stone
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","Anyone with half of a brain knows that the Warren Report was the biggest joke on the American public ever conceived ,",report,1,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",and Stone decided to rock the house with his theory about the Kennedy assassination .,theory,3,S,Stone
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","Is all of it true ? Of course not ,",truth,3,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",but that is entirely irrelevant .,relevance,3,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",Do you think the magic bullet theory was true ? Case closed .,theory,3,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","Time and time again , the US government has tried to fool us into believing their ridiculous theory to try and cover up the lies ...",government,2,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","And considering most people truly are stupid , it has worked .",people,2,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","Why do you think that the full details are still not to be released for many years ? Could it be that by that time , everyone guilty will be dead or the fact that we as a nation won""t care as much anymore because it""ll be old news ? Gee , I wonder .",secrecy,2,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","The simple fact that someone put forth a theory about the JFK incident on film for the public to see is extremely important because it made people think , and still does .",film,4,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","The people that bash this film because it""s "" propaganda "" have entirely missed the point",criticism,2,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",and are the same ones so easily fooled by the government .,government,2,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","Beyond that , JFK is an excellent film is all respects .",film quality,5,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","It""s about the investigation and the one and only court case that was brought to raise questions about the Warren Report to display the government for what it is , liars and murderers , by New Orleans District Attorney Jim Garrison .",investigation,3,O,Jim Garrison
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","Filled with an excellent cast and directed superbly , JFK raises many questions",direction,5,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",and still provides classic entertainment .,entertainment,4,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+","A bit long for some ,",length,3,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",but most likely for those with a closed mind or those that are afraid to believe anything other than what the government tells us . Baaa - baaaa .,audience,2,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",Carry on sheep people .,audience,2,S,None
+JFK 1991,31,Manthorpe,10,3,15,17 June 2004," Think for yourself, question authority.
+",""" Here""s Love Connection , watch this",show,3,O,None

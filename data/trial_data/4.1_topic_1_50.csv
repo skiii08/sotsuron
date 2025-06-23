@@ -1,0 +1,99 @@
+movie,sentence_count,username,rating,helpful,total,date,title,review,topic,sentiment_score,subjectivity,person_name
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+",but what these words leave behind the controversies over world politics described by this fascinating movie .,politics,4,S,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+","Filled with overrated performances , direction , cinematography & above them all screenplay of this movie will give you a closer look of controversy behind great politician till date "" John f. Kennedy "" .",performances,2,S,John f. Kennedy
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+","Filled with "" Kevin Costner "" one of the breath - taking performance as "" Jim garrison "" , breath taking screenplay , one of the "" Tommy Lee Jones "" finest performances , made "" JFK "" one of the most important movie to see before death .",performances,5,S,"Kevin Costner, Jim garrison, Tommy Lee Jones"
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+",""" JFK "" will take you closer to the controversies & let you know what lies beneath .",plot,4,S,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+",The movie will give you the closer view of bigger lies that you have ever heard before .,plot,2,S,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+",The movie give you the closer look of some unseen controversies till date .,plot,3,O,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+",The movie also brings you the change after fall of an empire .,plot,3,O,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+",This movie present before you an overrated drama which will make you read those history pages back,drama,2,S,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+","and correct the mistake""s in there .",history,3,O,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+","This movie will make you to bite your nails , crack the popcorn & let you know that are we safe , is our country on the good hands .",suspense,4,S,None
+JFK 1991,6,kooooolvikas,10,4,17,14 October 2007," one of the most original,controversial & overrated movie ever made !!
+",This movie brings an originality amongst us & let us know what we are missing since we are republic .,originality,4,S,None
+JFK 1991,5,Knowlege,9,2,13,12 August 1998," One of the most informative movies I've ever seen!
+","Yes , all their information is based on theories but for someone who has never seen the footage they showed in that movie it made me believe their was a conspiracy ! Now I didn""t grow up in the 60""s so I never saw it on live TV .",plot,3,S,None
+JFK 1991,5,Knowlege,9,2,13,12 August 1998," One of the most informative movies I've ever seen!
+",That incident was 18 years before I took my first breaths,plot,3,O,None
+JFK 1991,5,Knowlege,9,2,13,12 August 1998," One of the most informative movies I've ever seen!
+",but it made me truly believe their was someone on high pulling the strings .,plot,3,S,None
+JFK 1991,5,Knowlege,9,2,13,12 August 1998," One of the most informative movies I've ever seen!
+","Now that""s how I judge a movie .",review criteria,3,S,None
+JFK 1991,5,Knowlege,9,2,13,12 August 1998," One of the most informative movies I've ever seen!
+","If it makes me feel real emotion , then in my book it""s a good movie , but JFK was great !",overall impression,5,S,None
+JFK 1991,5,brendyrafferty,8,0,0,16 November 2019," Long viewing but so much worth it
+","I seen this movie when it first came out on "" da movies "" .",viewing experience,3,O,None
+JFK 1991,5,brendyrafferty,8,0,0,16 November 2019," Long viewing but so much worth it
+",Oliver Stone obviously wanted to put his best into this movie and he did .,direction,5,S,Oliver Stone
+JFK 1991,5,brendyrafferty,8,0,0,16 November 2019," Long viewing but so much worth it
+",But could have been edited a tad better .,editing,2,S,None
+JFK 1991,5,brendyrafferty,8,0,0,16 November 2019," Long viewing but so much worth it
+",Who am I to question his reasoning,direction,3,S,None
+JFK 1991,5,brendyrafferty,8,0,0,16 November 2019," Long viewing but so much worth it
+",but this is a cracker of a movie and one you should watch .,overall quality,5,S,None
+JFK 1991,5,brendyrafferty,8,0,0,16 November 2019," Long viewing but so much worth it
+",Why did JFK die whereas so many corrupt and inept presidents did not ?,plot,3,O,JFK
+JFK 1991,5,imdb2-11,Null,0,10,5 January 2004," Horrible Fake Eye Glasses
+",My enjoyment of this otherwise fine film was ruined by the horrible fake eye glasses worn throughout by Costner / Garrison .,acting,2,S,"Costner, Garrison"
+JFK 1991,5,imdb2-11,Null,0,10,5 January 2004," Horrible Fake Eye Glasses
+","They contained flat plastic "" lenses "" that reflect the light in exactly the way real curved lenses don""t .",props,3,O,None
+JFK 1991,5,imdb2-11,Null,0,10,5 January 2004," Horrible Fake Eye Glasses
+","Maybe I""m a completely anal glasses wearing nerd ,",ERROR,3,ERROR,None
+JFK 1991,5,imdb2-11,Null,0,10,5 January 2004," Horrible Fake Eye Glasses
+","but everytime he came on screen I was as disturbed by these flat lenses as much as if he""d wearing once of those joke Groucho Marx glasses / nose / moustache - combos .",props,2,S,Groucho Marx
+JFK 1991,5,imdb2-11,Null,0,10,5 January 2004," Horrible Fake Eye Glasses
+",For $ 50 they could have given Kev non - prescription curved lenses .,props,2,S,Kev
+JFK 1991,5,imdb2-11,Null,0,10,5 January 2004," Horrible Fake Eye Glasses
+","Why on earth didn""t they ?",props,2,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+",""" Kevin Costner , in the role he was born to play ... And play and play "" Lesson One people , if Ed Asner is in a movie ,",acting,4,S,"Kevin Costner, Ed Asner"
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","and a political one at that , Hollywood is giving you are rare glimpse behind its usual smoke and mirrors psyche job .",genre,3,O,Hollywood
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","Lesson Two ; you can accurately date any film within 3 years , if you note Laurie Metcalf in a role of prominence .",casting,3,O,Laurie Metcalf
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","Lesson Three ; Kevin Costner shops at a specialty big man""s hat boutique .",casting,3,O,Kevin Costner
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","Lesson Four ; Oliver Stone""s straightjacket size is a 44 Short .",director,2,S,Oliver Stone
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","This movie reminds me of one of my Dad""s favorite lines about how you can dress a monkey in a tuxedo ,",humor,3,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","and he""ll still crap himself .",humor,2,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+",Film is a slick high budget tuxedo clothing an insipid childish and groundless conspiracy theory .,plot,2,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","Good cast , great acting , little else .",cast,4,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","Why aren""t there any good conservative filmmakers , or how about an entire industry to balance the Lefty interpretations of history .",industry,2,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","As Ed Harris""s imaginary character says in ` A Beautiful Mind "" , one thing we should all remember is that while McCarthy may have lost his marbles in exposing Communists in the entertainment business ,",quote,3,O,Ed Harris
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","but that doesn""t make the people he rooted out any less guilty .",plot,3,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","Gee that""s funny , how come other than passing comments like this , none of these great social historians have yet tackled that chapter of Baby Boomism .",social commentary,2,S,None
+JFK 1991,12,glgioia,Null,1,11,11 January 2003," Warning contains *Common Sense*
+","They wouldn""t dare ! Truth ai nt their trade .",truthfulness,2,S,None
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+",Oliver Stone made some of the best movies .,direction,5,S,Oliver Stone
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+",This is one of them .,film quality,4,S,None
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+","I""ve heard that when Oliver Stone originally planned to tell the story that on the day of Kennedy""s assassination , American people witnessed a coup dÃ © tente in the country that transfered the power from the president to powers that""s yet to come out into the limelight .",plot,3,O,Oliver Stone
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+",But he was asked not to do that .,production,3,O,None
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+","Whether this is true or not , the conversation between Doanld Sutherland and Kevin Cosner 2 hours into the movie touches on this subject .",cast,3,O,"Doanld Sutherland, Kevin Cosner"
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+","It""s a fact that over 70 % of the American public believes that there was a conspiracy behind Kennedy""s assassination , and this movie addresses the doubt that many of us has in very good detail .",plot,4,S,None
+JFK 1991,10,ebiros2,Null,0,6,14 December 2011," One of the most intriguing movie in history of American cinema
+","Even my friend who used to be in the military said that Kennedy""s reaction in his limousine was that of someone clearly shot from the front - not from the back .",opinion,3,S,None
