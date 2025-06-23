@@ -1,0 +1,52 @@
+映画レビュー分析結果 - 2025年06月19日 14:05:08
+============================================================
+全映画数: 1150
+
+=== 統計情報 ===
+総映画数: 1150
+レビュー総数: 932464
+最小レビュー数: 101
+最大レビュー数: 10046
+平均レビュー数: 810.8
+中央値レビュー数: 567
+
+=== レビュー数の分布 ===
+1000+: 273 映画 (23.7%)
+101-200: 147 映画 (12.8%)
+201-500: 363 映画 (31.6%)
+501-1000: 367 映画 (31.9%)
+
+グラフを '/Users/watanabesaki/PycharmProjects/sotsuron/data/analyze/review_count_distribution.png' に保存しました
+
+=== レビュー数上位10映画 ===
+Joker 2019: 10046 レビュー
+Avengers: Endgame 2019: 8723 レビュー
+The Shawshank Redemption 1994: 7799 レビュー
+Star Wars: Episode IX - The Rise of Skywalker 2019: 7460 レビュー
+Captain Marvel 2019: 7183 レビュー
+The Dark Knight 2008: 6709 レビュー
+Star Wars: Episode VIII - The Last Jedi 2017: 6691 レビュー
+The Lord of the Rings: The Fellowship of the Ring 2001: 5317 レビュー
+Once Upon a Time... in Hollywood 2019: 5059 レビュー
+Star Wars: Episode VII - The Force Awakens 2015: 4764 レビュー
+
+=== レビュー数下位10映画 ===
+Kagemusha 1980: 101 レビュー
+Stop-Loss 2008: 102 レビュー
+The Fan 1996: 103 レビュー
+Au Revoir les Enfants 1987: 104 レビュー
+McFarland, USA 2015: 104 レビュー
+The Young Victoria 2009: 108 レビュー
+Victory 1981: 108 レビュー
+Million Dollar Arm 2014: 109 レビュー
+Chak de! India 2007: 111 レビュー
+The Rocker 2008: 112 レビュー
+
+=== パーセンタイル ===
+10パーセンタイル: 179.0
+25パーセンタイル: 294.2
+50パーセンタイル: 565.0
+75パーセンタイル: 963.2
+90パーセンタイル: 1634.7
+95パーセンタイル: 2269.0
+99パーセンタイル: 4028.9
