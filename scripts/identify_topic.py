@@ -97,100 +97,72 @@ def process_uncached_batch_combined(reviews):
     batch_content = "\n".join([f"{j + 1}: {review}" for j, review in enumerate(reviews)])
 
     prompt_intro = (
-        "Classify each of the following sentences.\n"
-        "For each sentence, provide: Topic (1-2 English words, not a sentence), "
-        "Sentiment (1-5: 5=Very Positive, 3=Neutral, 1=Very Negative), "
-        "Subjectivity ('S' for subjective, 'O' for objective), "
-        "Person Name (extract any person's name mentioned, or 'None' if no names).\n"
-        "Return results in format:\n"
+        "Classify each of the following movie review sentences.\n"
+        "For each sentence, provide the following 4 fields:\n"
+        "- Topic: a 1-2 word phrase describing the main aspect of the movie the sentence discusses.\n"
+        "- Sentiment: a number from 1 (Very Negative) to 5 (Very Positive).\n"
+        "- Subjectivity: 'S' for Subjective (opinion-based), 'O' for Objective (fact-based).\n"
+        "- Person Name: any person named in the sentence, or 'None'.\n"
+        "Use one of these topic words if it fits:\n"
+        "plot, direction, performance, screenplay, cinematography, visual_effects, design, "
+        "costume_makeup, audio, character, genre, theme, emotion, entertainment, criticism, "
+        "commercial, audience, comparison, accuracy, quality, content\n"
+        "If none fit, you may use another word at the **same level of specificity**.\n"
+        "Avoid vague terms like 'other', 'aspect', or overly broad/specific words.\n"
+        "Return results in the following strict format:\n"
         "<number>: <Topic>|<Sentiment>|<Subjectivity>|<Person Name>\n\n"
     )
 
     messages = [
         {
             "role": "system",
-            "content": """You are tasked with analyzing movie review sentences. For each sentence, you need to provide four pieces of information:
+            "content": (
+                "You are an annotation system for sentence-level movie review analysis.\n"
+                "For each sentence, provide a concise annotation including:\n\n"
+                "TOPIC:\n"
+                "Identify the **main subject** of the sentence.\n"
+                "Choose from the following list **as your first and strictest priority**:\n"
+                "\"plot\", \"direction\", \"performance\", \"screenplay\", \"cinematography\",  \"adaptation\",\"visual_effects\",\"design\", \"costume_makeup\", \"audio\", \"casting\",\"character\", \"genre\", \"theme\",\"emotion\", \"entertainment\", \"criticism\", \"pacing\",\"comparison\", \"impact\",\"expectation\", \"recommendation\",  \"action\",\"lines\", \"rating_score\"\n"
 
-TOPIC: This is a movie review sentence. Identify the main topic in 1-2 English words.
+                "You **must choose** from these example words **unless absolutely none of them fits**.\n"
+                "In such rare cases, you may introduce a **new topic word** — but **only if all of the following are true**:\n"
+                "- It is similar in granularity and focus to the examples above\n"
+                "- It refers to a concrete, interpretable aspect of the movie\n"
+                "- It is not vague (\"thing\", \"aspect\") or too general (\"movie\")\n"
+                "️ If you use a new topic not on the list, **prefix it with an asterisk** `*` in the output.\n"
+                "Example: `*narrative`, `*structure`, `*tone`\n"
+                "This fallback is allowed **only as a last resort**. Stick to the example terms wherever possible.\n"
 
-Ask yourself: "What major aspect of movies is this sentence discussing?"
-TOPIC PRINCIPLE: Choose the most SPECIFIC and MEANINGFUL word that captures what the sentence is discussing.
-Good examples (specific, clear meaning):
+                
+                "SENTIMENT:\n"
+                "- 5: Very Positive (e.g., excellent, love, amazing)\n"
+                "- 4: Positive (e.g., good, solid, enjoyable)\n"
+                "- 3: Neutral (e.g., factual description)\n"
+                "- 2: Negative (e.g., bad, weak, disappointing)\n"
+                "- 1: Very Negative (e.g., terrible, worst, hate)\n"
+                "- Only adjust from 3 if clear positive/negative expressions are present.\n"
+                "NEUTRAL PATTERNS (keep as 3):\n"
+                "- Conditional statements: 'if you want', 'when you need'\n"
+                "- Pure facts without judgment\n\n"
+    
+    
+                "SUBJECTIVITY:\n"
+                "'S' for Subjective: Contains evaluations, judgments, or emotional expressions\n"
+                "'O' for Objective: Describes facts, events, or content without evaluation\n"
 
-"cast", "acting", "performance" (about actors/performances)
-"direction", "cinematography", "editing" (technical filmmaking)
-"screenplay", "dialogue", "writing" (script-related)
-"plot", "story", "theme" (narrative content)
-"costume", "makeup", "production" (visual design)
-"sound", "score", "music" (audio elements)
-"effects", "animation", "visuals" (special effects/animation)
-"pacing", "timing", "length" (film structure)
-"accuracy", "realism", "authenticity" (factual aspects)
-"emotion", "impact", "reaction" (audience response)
-"entertainment", "enjoyment", "engagement" (viewing experience)
-"recommendation", "opinion", "criticism" (evaluative statements)
-
-Other possible aspects: genre elements, cultural context, adaptation quality, commercial aspects, target audience, originality, comparisons to other films, etc.
-Avoid (vague, overlapping):
-
-"topic", "content", "overall", "aspect", "element", "thing"
-
-Note: These examples are guidelines, not restrictions. Use any specific, meaningful word that best captures the sentence's focus.
-
-SENTIMENT: Rate the sentiment on a 1-5 scale:
-
-5: Very Positive (excellent, amazing, love, fantastic, perfect, breath-taking, finest)
-4: Positive (good, nice, enjoyable, solid, decent, great, fascinating)
-3: Neutral (okay, average, factual statements without emotion)
-2: Negative (bad, disappointing, poor, weak, overrated)
-1: Very Negative (terrible, awful, hate, horrible, worst)
-
-
-
-CORE RULE:
-
-Plot summaries and factual descriptions = Default to 3 (Neutral)
-Only adjust sentiment when clear evaluative words (good/bad/amazing/terrible) are present
-Ask: "Is this sentence describing WHAT HAPPENS or HOW GOOD/BAD it is?"
-
-
-SUBJECTIVITY: Determine if the sentence is:
-
-'S' for Subjective: Contains evaluations, judgments, or emotional expressions
-'O' for Objective: Describes facts, events, or content without evaluation
-
-
-
-KEY PRINCIPLE: Focus on the sentence's PRIMARY PURPOSE
-
-If the main purpose is to EVALUATE (express opinion/feeling) → 'S'
-If the main purpose is to DESCRIBE (state facts/events) → 'O'
-
-Examples:
-
-"This fascinating movie shows..." → 'S' (evaluation word makes it subjective)
-"The movie shows the corruption..." → 'O' (describing content factually)
-"Will give you a closer look..." → 'O' (describing what the movie does)
-"Made me feel emotional..." → 'S' (expressing personal reaction)
-
-
-PERSON NAME: Extract any person's name mentioned in the sentence:
-
-If a person's name (actor, director, composer, etc.) is mentioned, extract it exactly as written
-If multiple names are mentioned, list them separated by commas (e.g., "Tom Hanks, Meryl Streep")
-If no person's name is mentioned, write 'None'
-Examples: "Hans Zimmer", "Tom Hanks, Steven Spielberg", "Leonardo DiCaprio, Martin Scorsese", "None"
-
-OUTPUT FORMAT - CRITICAL:
-For each sentence, provide the analysis in this exact format:
-1: score|4|S|Hans Zimmer
-2: plot|2|S|None
-3: cast|3|O|Tom Hanks, Meryl Streep
-4: direction|5|S|Christopher Nolan
-
-Format: NUMBER: TOPIC|SENTIMENT|SUBJECTIVITY|PERSON_NAME
-Use only the number, colon, topic word(s), pipe symbols, and values.
-Do NOT include explanations or additional text."""
+                "- Ask: Is the sentence saying how something **is**, or how **good/bad** it is?\n\n"
+                "PERSON NAME:\n"
+                "- If a person's name (actor, director, composer, etc.) appears, extract it as-is.\n"
+                "- If multiple names, separate with commas.\n"
+                "- If no name is present, write 'None'.\n\n"
+                "OUTPUT FORMAT - CRITICAL:\n"
+                "1: score|4|S|Hans Zimmer\n"
+                "2: plot|2|S|None\n"
+                "3: cast|3|O|Tom Hanks, Meryl Streep\n"
+                "4: direction|5|S|Christopher Nolan\n\n"
+                "Format: NUMBER: TOPIC|SENTIMENT|SUBJECTIVITY|PERSON_NAME\n"
+                "Use only this structure. Do NOT include explanations, examples, or extra text."
+            )
         },
         {
             "role": "user",
@@ -266,7 +238,7 @@ def parse_combined_batch_results(result_text, expected_count):
     print(f"クリーンアップ後: '{clean_text}'")
 
     # 新しいパターンで抽出（トピック|センチメント|主観性|人名）
-    pattern = r'(\d+)\s*:\s*([a-zA-Z\s]+)\s*\|\s*([1-5])\s*\|\s*([SO])\s*\|\s*([^|\n]+)'
+    pattern = r'(\d+)\s*:\s*(\*?[a-zA-Z_\s]+)\s*\|\s*([1-5])\s*\|\s*([SO])\s*\|\s*([^|\n]+)'
     matches = re.findall(pattern, clean_text, re.IGNORECASE)
     print(f"マッチ結果: {matches}")
 
@@ -335,7 +307,7 @@ def classify_movie_reviews(input_path, output_path):
 
     # 11件目から20件目を処理（デバッグ用）
     original_count = len(df)
-    df = df.iloc[1:2]  # 10番目のインデックス（11件目）から20番目のインデックス（20件目）まで
+    df = df.iloc[301:400]  # 10番目のインデックス（11件目）から20番目のインデックス（20件目）まで
     print(f"全{original_count}件中、11件目から20件目（19件）を処理します（デバッグモード）")
 
     # レビューの前処理
@@ -420,7 +392,7 @@ def classify_movie_reviews(input_path, output_path):
 
 
 if __name__ == "__main__":
-    input_file = "/Users/watanabesaki/PycharmProjects/sotsuron/segmented_reviews.csv"  # 入力ファイル名
-    output_file = "/Users/watanabesaki/PycharmProjects/sotsuron/topic_1_2.csv"  # 出力ファイル名
+    input_file = "/data/current data/segmented_reviews.csv"  # 入力ファイル名
+    output_file = "/data/current data/trial/topic_301_400.csv"  # 出力ファイル名
 
     classify_movie_reviews(input_file, output_file)

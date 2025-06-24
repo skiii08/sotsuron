@@ -1,0 +1,199 @@
+movie,sentence_count,username,rating,helpful,total,date,title,review,topic,sentiment_score,subjectivity,person_name
+Jack Reacher 2012,10,Bruce722,9,93,123,11 May 2013," Great film.
+","I wasn""t a huge fan of some of the cinematic elements and there were some flaws in one of the plot twists but nothing that really hurt the movie - watching experience .",cinematography,2,S,None
+Jack Reacher 2012,10,Bruce722,9,93,123,11 May 2013," Great film.
+","All - in - all , I""d say this was a great movie that most people would very much enjoy watching .",entertainment,5,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","It""s just a popcorn flick .",genre,3,O,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","You want a normal Hollywood popcorn flick , this will do .",genre,3,O,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","No real thought is involved -- some people get hurt , some get killed , and some stuff gets blown up .",plot,2,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","You""d have to be in an altered state of consciousness to get any real deep meaning out of this film .",theme,2,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","It""s basically just a male fantasy about being hyper - competent .",theme,2,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","When Jack Reacher gives his Tom Cruise - style rant about how much everybody would really live like him if they could ,",performance,3,O,Tom Cruise
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","and you think about it for a second , you wonder how anybody could be so dumb as to suggest that or write that particular line of script .",screenplay,2,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","Yeah , I""d just love to be roaming the country on buses ( I have a little bit of experience here",emotion,3,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+",and I am sure it has not gotten that much better ) with a single t- shirt to my name . Great . Sign me up .,entertainment,2,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","Still , if you were trying to preserve neurons , you obviously wouldn""t be watching this .",audience,2,S,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","You don""t consume a milkshake with whipped cream and a cherry on top in order to drop pounds .",theme,3,O,None
+Jack Reacher 2012,12,carbuff,6,0,1,12 May 2015," Tom Cruise doing what he does best, which isn't exactly subtle or brilliant.
+","Oops , I think I""ve already forgotten the plot , as if it matters .",plot,2,S,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+","Writer / director Christopher McQuarrie brings author Lee Child""s novel One Shot to the big screen",adaptation,3,O,"Christopher McQuarrie, Lee Child"
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",and then relies on Tom Cruise to push his weight around .,performance,3,S,Tom Cruise
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",A crazed sniper guns down five people at random on a Pittsburgh riverfront .,plot,3,O,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",Detective Emerson(David Oyelowo)seems to have a cut and dried case with enough evidence to implicate an ex - military sniper named James Barr(Joseph Sikora ) .,character,3,O,"David Oyelowo, Joseph Sikora"
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+","As the gunman is questioned by Emerson and DA Rodin(Richard Jenkins ) , Barr wants to only speak to Jack Reacher(Cruise ) .",character,3,O,"Richard Jenkins, Joseph Sikora, Tom Cruise"
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+","Reacher seems to be a ghost ; a former military investigator that has left no trace , falling off the grid .",character,3,O,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",Reacher sees the story in the paper,plot,3,O,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+","and shows up gathering clues to aid a beautiful and talented defense attorney Helen Rodin(Rosamund Pike ) , daughter of the DA .",character,3,O,Rosamund Pike
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",Reacher originally came to bury Barr ;,plot,3,O,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",but wants to be certain of the snipers guilt or innocence .,plot,3,O,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",Reacher himself becomes a suspect in the unraveling of a growing chain of gang related activity .,plot,3,O,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",Even DA Rodin appears guilty ;,character,3,O,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+","but guilty of what ? There is plenty of violence , brutal violence .",theme,2,S,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+",The only complaint I really have is there is no time for Reacher to get real close and personal with the pretty attorney he is aiding .,emotion,2,S,None
+Jack Reacher 2012,12,michaelRokeefe,7,1,4,27 March 2014," Vigalante justice verses the truth.
+","This Cruise vehicle gets supporting help from : Michael Raymond - James , Alexia Fast , Vladimir Sizov , Werner Herzong and the ever impressive Robert Duvall .",casting,3,O,"Tom Cruise, Michael Raymond-James, Alexia Fast, Vladimir Sizov, Werner Herzog, Robert Duvall"
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+",Reading some of the reviews I wonder what people were expecting ... Its a hybrid action with elements of crime / thriller mixed in .,genre,3,S,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+",I swear people were expecting an episode of Dr Who .,expectation,3,S,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","The plot is simple : bad guys frame good guy ,",plot,3,O,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+",and good guy calls on a tough SOB to help out .,plot,3,O,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","Although I don""t think Cruise is a good candidate for Jack Reacher , I think he did OK except for the last scene .",casting,2,S,Cruise
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","I liked the film , although there are some pretty bad errors made in this film with regards to technique and setup .",criticism,3,S,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","There are just some things I wouldn""t do if I was the perps or Reacher .",plot,3,S,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","SPOILER : For people that complain about the end fight ... About how ridiculous that Cruise couldn""t be hit by the sniper ... Let me put it this way , getting shot at by another sharpshooter will completely reset your priorities .",criticism,3,S,Cruise
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","The Gunny had all the advantages , shooting from the dark , while the Russian is nice",plot,3,O,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","and outlined for him on the ridge under the light , not to mention having lost his night vision while Gunny was compensating for it .",plot,3,O,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+",Now try hitting a sprinting target at 150 - 200yrds in the situation he is in .,plot,3,O,None
+Jack Reacher 2012,10,celestial5150,7,1,4,18 June 2013," Predictable but decent hybrid action film
+","However , what IS stupid is how they didn""t turn the car into swiss cheese , with that many assault rifles , Reacher should be dead .",plot,2,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","I""d been looking foreword to watching this",expectation,4,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","but ultimately wasn""t overly impressed .",emotion,2,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","I actually found it kind of dull and long winded , which is a weird thing to say about an action movie ,",emotion,2,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+",but something was just off and it seemed to drag .,pacing,2,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","I""ve only read one of the Jack Reacher books",content,3,O,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","and initially didn""t care about the casting but what I found happened here was that this just became another Tom Cruise vehicle with him redoing his generic action hero performance and adding some bad one liners .",casting,2,S,Tom Cruise
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","What was up with those cheesy one liners anyway , very dumb .",lines,2,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","What I do remember from the books was that Reacher read a bit like Sherlock Holmes , very smart , analytical and one step ahead of what""s taking place .",character,3,O,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+",He was cool not a bully as Cruise came across here .,character,2,S,Tom Cruise
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","The story / mystery also felt very 80""s",genre,3,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","and wasn""t even all that interesting , just your standard old school action crime thriller .",genre,2,S,None
+Jack Reacher 2012,8,juneebuggy,5,0,1,9 November 2015," Average crime thriller with Cruise doing his generic action hero performance
+","Back up cast included David Oyelowo , Richard Jenkins , Robert Duvall and Rosamund Pike as a sort of Bond Girl . 10/27/15",casting,3,O,"David Oyelowo, Richard Jenkins, Robert Duvall, Rosamund Pike"
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+","I have a cold . My nose is running and I""m sneezing and coughing .",*health,3,O,None
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+","But I""d rather produce another 7 days of mucus than suffer this film again .",entertainment,1,S,None
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+","The plot is tissue - thin ( its only redeeming feature , since I need to dispose of snot .",plot,2,S,None
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+",) The acting is poor .,performance,2,S,None
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+","They could have hired a gay scientologist to play that part of a lamp post during the "" dramatic "" scenes .",casting,1,S,None
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+","The script is as wet as a Labrador""s chew - toy ,",screenplay,2,S,None
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+","and the concluding insinuation that there will be a consequent TV series is ... Well , insulting , and nauseating . Cough . Sneeze . Retch .",plot,2,S,None
+Jack Reacher 2012,11,sirnylon,1,6,21,21 April 2013," I'd rather have the flu than watch this again
+",My current disease has more merit ( but less mucus ) than this nasty Cruise - control vehicle .,criticism,1,S,Tom Cruise
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","What can be mistaken as "" cool """,entertainment,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","and entertaining these days is beyond me , and Jack Reacher certainly falls into this category .",entertainment,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",Tom Cruise stars and gives a kind of robotic performance that borders on camp but is super serious at the same time .,performance,2,S,Tom Cruise
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","And that""s the thing everything in this film has a tough outer shell ,",character,3,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","but underneath is well nothing , there""s no filling .",character,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",The film is way to long for story that is actually pretty superficial and simplistic and some curious storytelling is in place here .,plot,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",The audience is constantly in front of the characters because we are given privy to the information that other characters need right away,audience,3,O,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",and this creates a sort of non - tension that makes me think it was a bad call .,plot,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","The way I see great detective films is , give the audience the same information as the characters",plot,3,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",and let them try to figure it out for themselves .,plot,3,O,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","The storytelling inertia of this film , and similar films is going to give the audience the answer",plot,3,O,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","and it discouraged me from paying too much attention to the details , of which there aren""t many to begin with .",plot,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","The story itself is well , basic and thoroughly uninteresting",plot,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",but attempts to be controversial in certain aspects and that just took me out of the immersion wanted by the filmmakers .,theme,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",This type of film also asks viewers to forgive too much of camera movement,cinematography,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","and therefore characters tend to be wherever the plot needs them to be at that moment , but that""s not even my biggest gripe .",plot,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+","The film is just boring and uninteresting ,",entertainment,2,S,None
+Jack Reacher 2012,11,damjanraknic,5,2,5,27 June 2013," Just plain boring and uninteresting
+",and no amount of Tom Cruise beating up people and being a stone - faced bad a * * can get me to like this . Sorry .,performance,2,S,Tom Cruise
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",Well the movie is good,entertainment,4,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",but suffers from lot of flaws .,criticism,2,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+","After watching the movie , I thought Jack Reacher had the potential to be a great movie",expectation,4,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",but due to certain flaws it was nothing but a good one time watch .,entertainment,2,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+","The screenplay does not do any justice to the Lee Child""s novel .",screenplay,2,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",I recommend everyone who saw the movie and liked it should read the novel if they have not done it already .,recommendation,4,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",First the pace of the movie is too fast,pacing,2,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",and it tries to cover lot of things in a very short time without any character development .,character,2,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",Then some of the scenes like the bathroom scene lighten the mood,emotion,4,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",but they are so out of character for Jack Reacher that it changes everything any reader knows about Jack Reacher .,character,2,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",The physical aspect of Jack Reacher is as much important as his detective skills .,character,3,O,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",He is someone who prides himself that no one has been able to break his nose but guess this aspect due to the casting of Tom Cruise had to be changed completely .,casting,3,S,Tom Cruise
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",The Character of Jack Reacher had the potential to be in the league to James Bond or Jason Bourne,character,4,S,None
+Jack Reacher 2012,9,roblew,6,6,15,12 January 2013," A one time watch ...shows Potential but needs better screenplay and casting
+",but sadly it will go down just another character like Alex Cross,character,2,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+","I never read the book ( s ) so I can""t write about how closely the movie followed the author""s original work .",accuracy,3,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+",My review is strictly from an entertainment POV .,entertainment,3,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+",I enjoyed the movie and will recommend it to friends .,recommendation,5,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+","As a movie "" snob "" I am a harsh movie critic",criticism,3,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+",and believe most of the movies today are just junk formula movies or remakes of remakes .,criticism,2,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+",So I would tend to think the Jack Reacher character could be a fresh addition to the current movie market .,character,4,S,None
