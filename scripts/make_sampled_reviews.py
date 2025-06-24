@@ -6,10 +6,10 @@ from collections import defaultdict
 import datetime
 
 # 設定パラメータ
-MOVIES_DIR = "/data/reviews_per_movie"
-OUTPUT_DIR = "/data/analyze"
+MOVIES_DIR = "/Users/watanabesaki/PycharmProjects/sotsuron/data/reviews_per_movie"
+OUTPUT_DIR = "/Users/watanabesaki/PycharmProjects/sotsuron"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, f"sampled_reviews_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.csv")
-SAMPLE_RATIO = 0.35  # 映画全体の35%を選択（300-400映画を目標）
+SAMPLE_RATIO = 0.7  # 映画全体の70%を選択（300-400映画を目標）
 
 # 出力ディレクトリが存在しない場合は作成
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -65,19 +65,19 @@ def sample_reviews():
             print(f"エラー ({movie_file}): {e}")
             continue
 
-        # レビュー数に応じたサンプルサイズを調整（1映画あたり平均10-15件に調整）
-        if len(reviews) > 1000:  # 大ヒット作品
-            sample_size = 20
-        elif len(reviews) > 500:  # 人気作品
-            sample_size = 15
-        elif len(reviews) > 200:  # 中程度の人気
-            sample_size = 12
-        elif len(reviews) > 100:  # やや人気
-            sample_size = 8
-        elif len(reviews) > 50:  # 少し人気
-            sample_size = 6
-        else:  # マイナー作品も最低限カバー
-            sample_size = max(3, int(len(reviews) * 0.6))  # 最低3件、最大60%
+        # レビュー数に応じたサンプルサイズを調整
+        if len(reviews) > 1000:
+            sample_size = 80
+        elif len(reviews) > 500:
+            sample_size = 65
+        elif len(reviews) > 200:
+            sample_size = 50
+        elif len(reviews) > 100:
+            sample_size = 35
+        elif len(reviews) > 50:
+            sample_size = 25
+        else:
+            sample_size = max(15, int(len(reviews) * 0.75))
 
         # レビューの長さによるカテゴリ分け
         reviews_by_length = defaultdict(list)
