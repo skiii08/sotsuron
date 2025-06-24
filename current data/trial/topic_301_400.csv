@@ -1,0 +1,199 @@
+movie,sentence_count,username,rating,helpful,total,date,title,review,topic,sentiment_score,subjectivity,person_name
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+",and not played the lead role .,casting,3,O,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+","Like Liam N. , Tom C. Is getting too old for these types of roles .",casting,2,S,"Liam N., Tom C."
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+","Additionally , Cruise does not portray this character with enough intensity",performance,2,S,Cruise
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+",and is not believable as a highly trained military expert .,performance,2,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+","Of course I do have some bias since I totally enjoyed the action packed , fast paced Bourne series .",entertainment,4,S,None
+Jack Reacher 2012,11,drumsolodub,7,7,15,23 December 2012," Worth the price of admission
+","In the fantasy world created by movies and books Bourne would kick Reacher""s behind .",comparison,3,O,None
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+","Why call this movie Jack Reacher ? For anyone who has read the Jack Reacher series by Lee Child , Tom Cruise is not Jack Reacher .",casting,2,S,"Lee Child, Tom Cruise"
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+",They have tried to emulate the clipped dialogue from the books,screenplay,3,O,None
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+","and have made reference to Jack Reacher""s analytical thought processes",screenplay,3,O,None
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+",but it just serves to be a poor imitation of the real thing .,screenplay,2,S,None
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+",I suppose the reason for using Tom Cruise in the title role was to assure a box office success .,commercial,3,S,Tom Cruise
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+","However , many who are familiar with the Reacher series will be as disappointed as I was with this movie .",criticism,2,S,None
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+",They should have called it Tom Cruise Fails At Attempt to Portray Jack Sreacher .,casting,2,S,Tom Cruise
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+","For one thing he""s about a foot shorter than the title character and that""s one hurdle he can""t jump over .",casting,2,S,None
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+","Also I don""t like his attitude in this movie .",performance,2,S,None
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+","I don""t think the Reacher character has the conceited egocentricity displayed by Tom Cruise .. Should have called it TomCruise Trying To Be James Bond",character,2,S,Tom Cruise
+Jack Reacher 2012,10,elizabethjsmith66,5,2,8,23 April 2013," Reacher Failed
+",And Failing Miserably .,criticism,1,S,None
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+","As a Movie in general , great ! As Jack Reacher 1/10 , pathetic .",entertainment,4,S,None
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+",He comes nowhere within ballpark .,character,2,S,None
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+",Or astronomical range of being anywhere close to the character Jack Reacher .,character,2,S,None
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+",Maybe it should be called Tom Cruise : Tough Gu .,comparison,3,O,Tom Cruise
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+",That would be a more accurate name for the movie .,criticism,3,O,None
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+",As action it was great .,action,4,S,None
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+",Him representing Jack Reacher made me curl up in the corner an cry here at the hospital an ask the nice nurse for meds to make the pain stop .,emotion,2,S,None
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+","Jack Reacher 6""5 "" 240 lb .",character,3,O,Jack Reacher
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+","Tom cruise 5""6 "" ? 140 lb ? I don""t know .",comparison,3,O,Tom Cruise
+Jack Reacher 2012,13,peterostini,7,2,7,17 January 2013," WHAT was he thinking!?
+",( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ),*expression,3,O,None
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","The character Jack Reacher was a part of Military Police in US army was called upon by the request of James Barr before goes into coma in hospital bed , a sharpshooter and the prime suspect who shot five people .",plot,3,O,"Jack Reacher, James Barr"
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","Reluctantly accepting the request yet wants to know the truth , Reacher joins Barr""s defence attorney Helen Rodin charmingly played by Rosamund Pike .",plot,3,O,"Reacher, Helen Rodin, Rosamund Pike"
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+",Reacher is a person who would not hesitate to put his neck for justice,character,3,O,Reacher
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+",but one may wonder why here he is on defence side .,plot,3,S,None
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","Jack Reacher movie was based on novel "" One Shot "" by Lee Child .",adaptation,3,O,Lee Child
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+",The main character was brilliantly portrayed by Tom Cruise,performance,5,S,Tom Cruise
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+",and I would not hesitate to say that he did his best in bringing the character to live .,performance,4,S,None
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","I do understand if the fiction novel""s fans vehemently disagree",criticism,3,S,None
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","and in fact , some gave negative review on Cruise playing the fictional role as Jack Reacher .",criticism,2,S,Tom Cruise
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","My disagreement to them is that even though Matt Damon who was terrific in Bourne series , he is considered timid to my perception of Jason Bourne .",comparison,3,S,Matt Damon
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","I read the third series of Ludlum""s Bourne Ultimatum after watching the movie .",adaptation,3,O,None
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+","But in my mind , Matt Damon never replaced my perception of Jason Bourne who is also the dark side of David Webb .",comparison,3,S,Matt Damon
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+",I am not here to review on Bourne,criticism,3,S,None
+Jack Reacher 2012,10,ajral,7,5,12,10 January 2013," A fine thriller film
+",but for Jack Reacher and Tom Cruise did his best which made the movie to be watched by all action and thriller fans .,performance,4,S,Tom Cruise
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",I have seen this Movie .,content,3,O,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+","If i can give a score in Minus , i would give it .",rating_score,1,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+","Very bad story line , horrible acting , unbearable dialogues .",plot,1,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",Its full of Horrors .,genre,3,O,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+","My Advice , do not buy the DVD or Blu - Ray of this Movie , when it comes out .",recommendation,2,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",I have had nearly 2 Hours of Painful Time .,emotion,2,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+","Unfortunately i had nothing better to do ,",emotion,3,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+","but after watching this Movie , i believe , i could have gone to Toilet with my iPhone and Played some games for 2 hours and come out with sore legs on the toilet seat .",entertainment,1,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",I do not have enough words to describe this Awful Masterpiece by Tom Cruise .,performance,2,S,Tom Cruise
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",I always liked Tom Cruise movies,performance,3,S,Tom Cruise
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",but this movie has changed my mentality completely .,emotion,2,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+","After watching Piranha 3DD , i thought nooone can make a movie worse then Piranha 3DD ,",comparison,2,S,None
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",but now that Award goes to Tom Cruise for Making this Crap of a Movie .,performance,1,S,Tom Cruise
+Jack Reacher 2012,11,Zeedai,1,12,25,10 April 2013," Horrible Movie
+",Ruined the whole Book .,adaptation,1,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","When considering some of Cruise""s more recent action flick offerings , this one has to be categorized a step up .. One that seems to have surprised many reviewers .",performance,4,S,Cruise
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","It""s not it""s a great movie , it is a bit too long , although to it""s credit does not seem so ,",pacing,3,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+",and the story is pretty nondescript .,plot,2,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","Let""s just say it manages to stay out of its "" own way ,",plot,3,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","and does no real harm ( how""s that for a backhanded endorsement ) .",criticism,3,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+",The true reason it works to the degree it does is because of the cast .. Especially Cruise and Pike .,casting,5,S,"Cruise, Pike"
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","They both command audience attention and rightfully so , the parts do not require super acting skills , and we know they have the talent to handle these parts adequately .",performance,4,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","It""s been quite a long time since I""ve actually gone to a theater to see one of his films ,",entertainment,3,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","and this would be another where i""d not be inclined to spend that kind of money on .",commercial,2,S,None
+Jack Reacher 2012,9,bjarias,7,1,2,30 September 2014," .. think this one surprised quite a few folks
+","But seeing as easy as it is to watch again on the www , I""d have to say should I come across the title again , I would maybe give it another viewing .",entertainment,4,S,None
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+","Saw the 2nd Reacher recently , it was lacking in many ways .",content,2,S,None
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+","So figured I""d check out the first movie . It""s okay",content,3,S,None
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+",but nothing to rave about .,content,2,S,None
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+","The plot is decent , action was decent , acting(or should I say over acting ) was so so .",performance,2,S,None
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+",Action scenes moved along and sequenced okay with the plot .,plot,3,S,None
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+","One of Cruise""s better movies none the less .",performance,4,S,Tom Cruise
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+",His star is definitely fading .,performance,2,S,Tom Cruise
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+",The supporting actors / actress really made this movie compared to the 2nd Reacher movie this is the better of the two .,casting,4,S,None
+Jack Reacher 2012,9,carmodcanada,4,2,3,21 February 2017," Better than 2nd Reacher movie
+","If you""ve seen this move for the first time , don""t waste your time with the 2nd Reacher movie , it doesn""t compare to this one .",comparison,2,S,None
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+","Did any of the people involved actually read the Jack Reacher series ? Tom Cruise , really ? Let""s see ... Jack Reacher 6""5 , 250 lbs .",accuracy,2,S,Tom Cruise
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+","Tom Cruise ... 5""7 and maybe 165 lbs . Total miscasting .",casting,2,S,Tom Cruise
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+",What a disappointment .,emotion,1,S,None
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+","I would have found Dwayne Johnson more believable . I love the books ,",casting,3,S,Dwayne Johnson
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+",but this movie was the pits .,emotion,1,S,None
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+","It may have been a more enjoyable movie if I hadn""t read the books .",entertainment,3,S,None
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+","It""s time for Tom Cruise to get into real acting .",performance,2,S,Tom Cruise
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+",And Lee Child should have more input into the makings of his books .,adaptation,2,S,Lee Child
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+",I was extremely disappointed in the whole experience,emotion,2,S,None
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+",and wanted to ask for my money back .,emotion,2,S,None
+Jack Reacher 2012,13,angiehayden-684-118033,1,3,10,13 May 2013," No spoiler, the movie was the spoiler
+",If there are any other Jack Reacher movies produced they need to consider a more appropriate actor .,casting,2,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+",But it was not without its charms .,entertainment,3,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+","Apart from the horrible slow pacing , the nonsensical character arcs , stupid writing and generally cliché story .",pacing,1,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+","It has some VERY funny scenes , some where meant to be funny , others not . Tom Cruise is good",entertainment,4,S,Tom Cruise
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+","but i think the director for this movie wasn""t seeing what the rest of us where .",direction,2,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+",Just a woeful excuse for a movie .,criticism,1,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+","Not only does it bash you over the head with the same infomation throughout the whole movie , its also very heavy handed with morals and makes absolutely no sense , even the ending doesn""t really made sense since jack reacher is supposedly a cop / spook",plot,2,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+","but nobody comes after him , the cops just forget he exists , the gangsters friends and bosses also forgot he exists",plot,2,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+",and he rides off happily into the sunset with a stolen car with not a care in the world .,plot,3,O,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+",Apart from some damn fine action scenes and some very funny stuff this is a bad BAD movie and one of the worst i have ever seen at the cinemas .,entertainment,2,S,None
+Jack Reacher 2012,8,miruleyall,1,12,30,7 January 2013," One of the worst movies i have ever seen
+",The rate at which you have to suspend your disbelief is just too damn high .,plot,2,S,None
+Jack Reacher 2012,8,deewells,8,26,56,10 December 2012," One shot at the truth or zero and not a hero?
+","US Army Police Major Jack Reacher arrives in town to investigate 5 sniper shootings by Barr ( Joseph Sikau ) whose only words to the Police are "" get Jack Reacher "" .",plot,3,O,Joseph Sikau
+Jack Reacher 2012,8,deewells,8,26,56,10 December 2012," One shot at the truth or zero and not a hero?
+","Based on the thriller "" One Shot "" by British author Jim Grant aka Lee child , directed by Tom Cruise and the talented Joseph Deschanel .",adaptation,3,O,"Jim Grant, Lee Child, Tom Cruise, Joseph Deschanel"
+Jack Reacher 2012,8,deewells,8,26,56,10 December 2012," One shot at the truth or zero and not a hero?
+",Detective Emmerson ( David Oyelowo ) thinks he has got an iron clad case .,character,3,O,David Oyelowo
+Jack Reacher 2012,8,deewells,8,26,56,10 December 2012," One shot at the truth or zero and not a hero?
+",Everything changes when Reacher arrives to clear his name .,plot,3,O,None
