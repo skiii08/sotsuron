@@ -204,8 +204,8 @@ def process_file(input_file, output_file):
 
 
 # ファイルパス
-input_file = '/Users/watanabesaki/PycharmProjects/sotsuron/cleaned_reviews.csv'
-output_file = '/Users/watanabesaki/PycharmProjects/sotsuron/segmented_reviews.csv'
+input_file = '/data/current data/cleaned_reviews.csv'
+output_file = '/data/current data/segmented_reviews.csv'
 
 if __name__ == "__main__":
     process_file(input_file, output_file)
