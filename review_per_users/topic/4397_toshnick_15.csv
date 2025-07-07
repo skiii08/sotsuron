@@ -1,0 +1,37 @@
+movie_title,title,review,rating,helpful,total,date,topic,sentiment_score,subjectivity,person_name
+Captain Marvel," Brilliant film
+","Awesome film loved it they have a few superhero film""s with women in it",10,5,10,13 September 2019,genre_style,4,S,None
+Captain Marvel," Brilliant film
+",but this one tops them all off and brie Larson kicked some things .,10,5,10,13 September 2019,acting_performance,4,S,Brie Larson
+Thor: Ragnarok," So good
+",Such a awesome film specially as Thor is my favourite marvel superhero,10,2,9,13 September 2019,genre_style,5,S,None
+Captain America: The Winter Soldier," Awesome captain America sequel
+","As sequels goes this has to be one of the best sequels in the MCU "" I""m with to the end of the line "" ðŸ¤ ™",10,1,3,13 September 2019,commercial_context,5,S,None
+Rocky II," What a sequel
+",I thought the first one was brilliant this one was just as awesome ðŸ¥ŠðŸ¥Š,10,1,1,13 September 2019,comparative_analysis,5,S,None
+Captain America: Civil War," Civil war!
+",I really liked this film was backwards,10,1,3,13 September 2019,viewing_experience,4,S,None
+Captain America: Civil War," Civil war!
+",and forwards all the way through between stark and Steve Rogers ðŸ¤ ™,10,1,3,13 September 2019,story_plot,3,O,None
+Avengers: Endgame," Wow
+","This was amazing don""t think they""ll make a film like this ever again I cried laughed all the way Avengers ........ Assemble ðŸ¤ ™",10,2,5,13 September 2019,emotion,5,S,None
+Batman Begins," Batman!
+",Amazing film specially to introduce the film trilogy ðŸ¤ ™,10,1,1,13 September 2019,story_plot,4,S,None
+Avengers: Infinity War," Avengers
+",This was such an epic movie from start to finish had me hooked,10,0,0,13 September 2019,viewing_experience,5,S,None
+Logan," Brilliant
+",Bit like avengers endgame has you on a rollercoaster ride full of emotions,Null,1,2,13 September 2019,viewing_experience,4,S,None
+Logan," Brilliant
+",but I really enjoyed it ðŸ¤ ™,Null,1,2,13 September 2019,viewing_experience,4,S,None
+Avengers: Age of Ultron," Avengers!
+","This was an awesome movie I just love the avengers movie""s",10,0,0,13 September 2019,viewing_experience,5,S,None
+Rocky," Awesome
+","I love the rocky film""s and this was a awesome start to the franchise ðŸ¥ŠðŸ¥Š",10,0,0,13 September 2019,viewing_experience,5,S,None
+Thor," Decent debut for Thor
+",For an opening film I really liked this showed the history of Asgard and the war with the ice giants,8,0,2,13 September 2019,story_plot,4,S,None
+Thor," Decent debut for Thor
+",but also how hot headed Thor can be,8,0,2,13 September 2019,character_development,3,O,None
+The Dark Knight Rises," Batman one of the best!
+",This was such a brilliant conclusion everything about this film was amazing ðŸ¤ ™,10,2,3,13 September 2019,viewing_experience,5,S,None
+Black Panther," Amazing
+","This has to be one of the best marvel film""s ever as an introduction film goes this was mind blowing",10,2,10,13 September 2019,viewing_experience,5,S,None

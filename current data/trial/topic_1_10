@@ -1,0 +1,19 @@
+movie,sentence_count,username,rating,helpful,total,date,title,review,topic,sentiment_score,subjectivity,person_name
+Jack Reacher 2012,6,TomvanWoerkom,5,8,17,17 April 2013," Expectations too high
+","It""s a great book and it doesn""t really matter if the actors were changed a bit to reach a bigger group ,",casting_choices,4,S,None
+Jack Reacher 2012,6,TomvanWoerkom,5,8,17,17 April 2013," Expectations too high
+",but the movie is way overrated .,viewing_experience,2,S,None
+Jack Reacher 2012,6,TomvanWoerkom,5,8,17,17 April 2013," Expectations too high
+","There""s way too less action and Tom Cruise just doesn""t fit in as main character .",casting_choices,2,S,Tom Cruise
+Jack Reacher 2012,6,TomvanWoerkom,5,8,17,17 April 2013," Expectations too high
+",I guess the author could do a much better job by selecting better qualified actors for those roles instead of finding famous actors .,casting_choices,2,S,None
+Jack Reacher 2012,6,TomvanWoerkom,5,8,17,17 April 2013," Expectations too high
+","I think this movie has been overrated by the public and it doesn""t deserve a positive note .",viewing_experience,2,S,None
+Jack Reacher 2012,6,TomvanWoerkom,5,8,17,17 April 2013," Expectations too high
+","Just because the story is a quite unfamiliar story for Hollywood , I""ll give it a 5/10",story_plot,3,S,None
+Jack Reacher 2012,6,TomvanWoerkom,5,8,17,17 April 2013," Expectations too high
+","and than I""m still generous .",viewing_experience,3,S,None
+Jack Reacher 2012,7,david-568-421697,9,4,12,30 December 2012," Long time Reacher fan - loved it!
+",I was surprised how much I enjoyed this interpretation of this great Jack Reacher story .,viewing_experience,4,S,None
+Jack Reacher 2012,7,david-568-421697,9,4,12,30 December 2012," Long time Reacher fan - loved it!
+","It had a powerful , yet whip smart edge .",writing_dialogue,4,S,None

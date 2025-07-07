@@ -1,0 +1,341 @@
+movie_title,title,review,rating,helpful,total,date,topic,sentiment_score,subjectivity,person_name
+The Ring," Confusing
+",but was extremely implausible and confusing .,5,1,2,30 May 2004,story_plot,2,S,None
+The Ring," Confusing
+",Naomi Watts was very good as were the rest of the cast .,5,1,2,30 May 2004,acting_performance,4,S,Naomi Watts
+The Ring," Confusing
+","The director borrowed from many other horror films ( the titles from The Shining , the boy from The Omen , the flies from the Amityville Horror ) .",5,1,2,30 May 2004,filmmaking_direction,3,O,None
+The Ring," Confusing
+","It had some great scary moments ,",5,1,2,30 May 2004,viewing_experience,4,S,None
+The Ring," Confusing
+",but is not a great film .,5,1,2,30 May 2004,viewing_experience,2,S,None
+The Ring," Confusing
+",The cinematography was excellent and the music was very good .,5,1,2,30 May 2004,technical_visuals,5,S,None
+Public Enemies," Awful Film
+",This is a story not worth telling .,1,4,10,6 July 2009,story_plot,2,S,None
+Public Enemies," Awful Film
+","Although well acted , it was incredibly boring from the beginning and went nowhere .",1,4,10,6 July 2009,viewing_experience,2,S,None
+Public Enemies," Awful Film
+",The love story developed in about 2 seconds and never evolved .,1,4,10,6 July 2009,character_development,2,S,None
+Public Enemies," Awful Film
+",Mann failed to show why this couple even liked each other .,1,4,10,6 July 2009,character_development,2,S,Mann
+Public Enemies," Awful Film
+","So , with a poorly developed love story , there was nothing left",1,4,10,6 July 2009,story_plot,2,S,None
+Public Enemies," Awful Film
+",but the main predictable and aimless story .,1,4,10,6 July 2009,story_plot,2,S,None
+Public Enemies," Awful Film
+",What do we learn from this film ? Nothing .,1,4,10,6 July 2009,themes_messages,1,S,None
+Public Enemies," Awful Film
+","A guy has an addiction to robbing banks ? This is a D- version of "" Heat "" but with one storyline and a shadow of a love story .",1,4,10,6 July 2009,comparative_analysis,2,S,None
+Public Enemies," Awful Film
+","Mann thinks he""s being original by having Dillinger casually walk around a section of the police department that is dedicated to tracking him down .",1,4,10,6 July 2009,filmmaking_direction,2,S,Mann
+Public Enemies," Awful Film
+","We""ve seen the kind of character bravado in WAY too many films .",1,4,10,6 July 2009,character_development,2,S,None
+Public Enemies," Awful Film
+","It is no longer original . It""s boring .",1,4,10,6 July 2009,story_plot,2,S,None
+Public Enemies," Awful Film
+",This was incredibly painful to watch because it dulls the mind so much .,1,4,10,6 July 2009,viewing_experience,1,S,None
+Public Enemies," Awful Film
+","It is by far , Mann""s WORST film ever . D-",1,4,10,6 July 2009,filmmaking_direction,1,S,Mann
+American Hustle," Awful
+",This movie was terrible .,4,14,27,31 December 2013,viewing_experience,1,S,None
+American Hustle," Awful
+","It was too long , confusing , boring , poorly directed and poorly written .",4,14,27,31 December 2013,filmmaking_direction,1,S,None
+American Hustle," Awful
+",The pace was all over the place .,4,14,27,31 December 2013,editing_pacing,2,S,None
+American Hustle," Awful
+","It was a poor man""s Scorsese .",4,14,27,31 December 2013,comparative_analysis,2,S,Martin Scorsese
+American Hustle," Awful
+",Christian Bale did a Robert Deniro ripoff .,4,14,27,31 December 2013,comparative_analysis,2,S,"Christian Bale, Robert De Niro"
+American Hustle," Awful
+","The actors should have been reigned in by the director ,",4,14,27,31 December 2013,filmmaking_direction,2,S,None
+American Hustle," Awful
+",but were given too much freedom .,4,14,27,31 December 2013,filmmaking_direction,2,S,None
+American Hustle," Awful
+","I""m surprised that the film has made so much money ,",4,14,27,31 December 2013,commercial_context,3,S,None
+American Hustle," Awful
+","but that doesn""t mean it""s a good film .",4,14,27,31 December 2013,viewing_experience,2,S,None
+American Hustle," Awful
+","It""s a film that COULD have been great ,",4,14,27,31 December 2013,expectation,3,S,None
+American Hustle," Awful
+",but it failed in almost every way .,4,14,27,31 December 2013,viewing_experience,1,S,None
+American Hustle," Awful
+","David O. Russell was trying to be Martin Scorsese : ( 1 ) Christian Bale was doing a Deniro imitation ( 2 ) Same narration style as many of Scorsese""s films ( 3 ) Mob / Casino theme ( 4 ) Out of control wife and mistress ( 5 ) Similar music supervision style ( such a Scorsese ripoff , it""s embarrassing)The cinematography was unfocused ! Sometime the camera would pan slightly for no reason .",4,14,27,31 December 2013,comparative_analysis,2,S,"David O. Russell, Martin Scorsese"
+American Hustle," Awful
+","Most of the actors "" East Coast accents were borderline cartoonish .",4,14,27,31 December 2013,acting_performance,2,S,None
+American Hustle," Awful
+","I suspect ( and hope ) that a lot of the dialog was improvised because it was distracting , slowed down the film",4,14,27,31 December 2013,writing_dialogue,2,S,None
+American Hustle," Awful
+","and didn""t help propel the storyline .",4,14,27,31 December 2013,story_plot,2,S,None
+American Hustle," Awful
+",Where were the producers ? They should have demanded rewrites and a better edit .,4,14,27,31 December 2013,editing_pacing,2,S,None
+American Hustle," Awful
+","I can""t believe this film was released this way .",4,14,27,31 December 2013,viewing_experience,2,S,None
+American Hustle," Awful
+","If this foreshadows the future quality of films , I""m going to stop watching films .",4,14,27,31 December 2013,expectation,2,S,None
+American Hustle," Awful
+","In the hands of a different director , this could have been good .",4,14,27,31 December 2013,filmmaking_direction,3,S,None
+American Hustle," Awful
+","This is a contender for the Oscars ? It""s all vapid hype ! This film deserves no awards .",4,14,27,31 December 2013,recommendation,2,S,None
+American Hustle," Awful
+","Deniro and Lous C. K""s performances were very good ,",4,14,27,31 December 2013,acting_performance,4,S,"Robert De Niro, Louis C.K."
+American Hustle," Awful
+",but not good enough to make me think the film was worth watching .,4,14,27,31 December 2013,recommendation,2,S,None
+American Hustle," Awful
+","I""d heard from others that the film was bad ,",4,14,27,31 December 2013,comparative_analysis,2,S,None
+American Hustle," Awful
+","but I didn""t expect it to be TERRIBLE .",4,14,27,31 December 2013,expectation,1,S,None
+The Revenant," Ridiculous, Too Simple
+",This was a huge disappointment .,4,14,27,2 January 2016,viewing_experience,2,S,None
+The Revenant," Ridiculous, Too Simple
+",An event happens in this film that is completely unbelievable .,4,14,27,2 January 2016,story_plot,2,S,None
+The Revenant," Ridiculous, Too Simple
+",It is a key component of the plot,4,14,27,2 January 2016,story_plot,3,O,None
+The Revenant," Ridiculous, Too Simple
+",and it is absolutely unrealistic .,4,14,27,2 January 2016,story_plot,2,S,None
+The Revenant," Ridiculous, Too Simple
+",I became disengaged after this huge mistake .,4,14,27,2 January 2016,viewing_experience,2,S,None
+The Revenant," Ridiculous, Too Simple
+","Aside from that , this is a very basic boring film with a plot that has been seen over and over again in film history .",4,14,27,2 January 2016,story_plot,2,S,None
+The Revenant," Ridiculous, Too Simple
+","The cinematography was excellent as was all of the acting ,",4,14,27,2 January 2016,technical_visuals,5,S,None
+The Revenant," Ridiculous, Too Simple
+","but that""s not enough to make a great film .",4,14,27,2 January 2016,viewing_experience,2,S,None
+The Revenant," Ridiculous, Too Simple
+","If the plot is hackneyed , then great acting and camera work can""t save it .",4,14,27,2 January 2016,story_plot,3,O,None
+The Revenant," Ridiculous, Too Simple
+",I was stunned by the music - in a bad way .,4,14,27,2 January 2016,audio_music,2,S,None
+The Revenant," Ridiculous, Too Simple
+","Is challenging music dead ? The producers took a risk of having the audience barely understand most of the dialogue ,",4,14,27,2 January 2016,audio_music,3,O,None
+The Revenant," Ridiculous, Too Simple
+","but they don""t trust viewers with challenging music ? What will people remember about this film ? They will remember all of the hype about how the crew filmed in freezing locations .",4,14,27,2 January 2016,commercial_context,3,O,None
+The Revenant," Ridiculous, Too Simple
+",Suffering does not make a film good .,4,14,27,2 January 2016,themes_messages,2,S,None
+Tropic Thunder," Awful Film
+",This film is terrible .,4,2,4,20 June 2009,viewing_experience,1,S,None
+Tropic Thunder," Awful Film
+","Maybe if you""re 11 years old , it""s entertaining ,",4,2,4,20 June 2009,viewing_experience,3,S,None
+Tropic Thunder," Awful Film
+","but it was so boring and insulting to my intelligence I couldn""t stand it .",4,2,4,20 June 2009,viewing_experience,1,S,None
+Tropic Thunder," Awful Film
+",I tried to watch it again because it was on cable,4,2,4,20 June 2009,viewing_experience,3,S,None
+Tropic Thunder," Awful Film
+","and I thought maybe I was too harsh the first time I saw it ,",4,2,4,20 June 2009,viewing_experience,2,S,None
+Tropic Thunder," Awful Film
+","but upon the second viewing , I was reminded of how awful it was and couldn""t continue watching it .",4,2,4,20 June 2009,viewing_experience,1,S,None
+Tropic Thunder," Awful Film
+","It is impossible to believe that the Ben Stiller character is so stupid that he""d believe he and his fellow actors were being filmed by hidden cameras in the jungle .",4,2,4,20 June 2009,story_plot,2,S,Ben Stiller
+Tropic Thunder," Awful Film
+","Jack Black""s character had one dimension and was annoying and boring .",4,2,4,20 June 2009,character_development,2,S,Jack Black
+Tropic Thunder," Awful Film
+",Nick Nolte was underutilized as was Danny McBride .,4,2,4,20 June 2009,acting_performance,2,S,"Nick Nolte, Danny McBride"
+Tropic Thunder," Awful Film
+",This is a story not worth telling .,4,2,4,20 June 2009,story_plot,2,S,None
+Tropic Thunder," Awful Film
+",Everything is predictable and boring .,4,2,4,20 June 2009,story_plot,2,S,None
+Tropic Thunder," Awful Film
+","Ben Stiller is an excellent actor and should stick to acting , not directing .",4,2,4,20 June 2009,acting_performance,5,S,Ben Stiller
+Meet the Fockers," Disappointing film
+","I really enjoyed "" Meet the Parents """,4,4,8,29 December 2004,viewing_experience,5,S,None
+Meet the Fockers," Disappointing film
+",and was afraid to see the sequel because I was afraid i would be disappointed .,4,4,8,29 December 2004,expectation,2,S,None
+Meet the Fockers," Disappointing film
+","After seeing it , I was shocked at how disappointed I was with this film .",4,4,8,29 December 2004,viewing_experience,2,S,None
+Meet the Fockers," Disappointing film
+","Apparently , Barbra Streisand turned down the film several times before agreeing to do it .",4,4,8,29 December 2004,commercial_context,3,O,Barbra Streisand
+Meet the Fockers," Disappointing film
+",She should have gone with her gut instinct .,4,4,8,29 December 2004,emotion,2,S,None
+Meet the Fockers," Disappointing film
+",""" Meet the Fockers "" is mediocre , cheap and embarrassing .",4,4,8,29 December 2004,viewing_experience,2,S,None
+Meet the Fockers," Disappointing film
+",It is full of bathroom humor and sex jokes .,4,4,8,29 December 2004,story_plot,2,S,None
+Meet the Fockers," Disappointing film
+",The actors did the best they could with the uninteresting script .,4,4,8,29 December 2004,acting_performance,3,S,None
+Meet the Fockers," Disappointing film
+","Ben Stiller played the same uptight character who was in "" Along Came Polly .",4,4,8,29 December 2004,character_development,3,O,Ben Stiller
+Meet the Fockers," Disappointing film
+","""I regret seeing this film .",4,4,8,29 December 2004,emotion,2,S,None
+Drive," Entertaining but flawed
+","First of all , Ryan Gosling is no Steve Mcqueen , although he is trying to be .",5,0,1,5 October 2011,acting_performance,2,S,"Ryan Gosling, Steve Mcqueen"
+Drive," Entertaining but flawed
+","There are great actors who can reveal their characters without a large amount of dialogue ,",5,0,1,5 October 2011,acting_performance,4,S,None
+Drive," Entertaining but flawed
+",but Gosling is not one of these actors .,5,0,1,5 October 2011,casting_choices,2,S,None
+Drive," Entertaining but flawed
+","I didn""t buy him as the scorpion jacket wearing loner Travis Bickle type .",5,0,1,5 October 2011,acting_performance,2,S,None
+Drive," Entertaining but flawed
+",We learned nothing about what made him become this person .,5,0,1,5 October 2011,character_development,2,S,None
+Drive," Entertaining but flawed
+",The music was completely wrong .,5,0,1,5 October 2011,audio_music,2,S,None
+Drive," Entertaining but flawed
+","A brooding score would have been more appropriate to underscore Gosling""s character .",5,0,1,5 October 2011,audio_music,4,S,None
+Drive," Entertaining but flawed
+",This would have helped tell us who he really was .,5,0,1,5 October 2011,story_plot,3,O,None
+Drive," Entertaining but flawed
+","Instead , Cliff Martinez delivered a "" Traffic "" knockoff that was focused on the implausible romance between Mulligan and him .",5,0,1,5 October 2011,audio_music,2,S,Cliff Martinez
+Drive," Entertaining but flawed
+","As for the 80""s songs in the film , I found them offensive .",5,0,1,5 October 2011,audio_music,2,S,None
+Drive," Entertaining but flawed
+","I believe these filmmakers were using 80""s sounding songs and 80""s titles to be quirky .",5,0,1,5 October 2011,themes_messages,3,S,None
+Drive," Entertaining but flawed
+","They probably thought it was a great idea because it""s unexpected and retro ,",5,0,1,5 October 2011,themes_messages,3,S,None
+Drive," Entertaining but flawed
+",but it was inappropriate and embarrassing .,5,0,1,5 October 2011,acting_performance,1,S,None
+Drive," Entertaining but flawed
+",Why did they do that ? Albert Brooks was excellent as were many of the supporting actors .,5,0,1,5 October 2011,acting_performance,5,S,Albert Brooks
+Drive," Entertaining but flawed
+","This could have been a great film , but it is not .",5,0,1,5 October 2011,viewing_experience,2,S,None
+Million Dollar Baby," Unbelievably good!
+","Before I saw this film , I assumed it was going to be nothing but a feel good movie about a female boxer who ended up winning an important fight .",9,2,3,22 January 2005,expectation,3,S,None
+Million Dollar Baby," Unbelievably good!
+",I had no idea it would have such an effect on me .,9,2,3,22 January 2005,emotion,3,S,None
+Million Dollar Baby," Unbelievably good!
+",It was much more complex than I expected it to be with unpredictable twists and turns .,9,2,3,22 January 2005,story_plot,4,S,None
+Million Dollar Baby," Unbelievably good!
+",All of the actors were great .,9,2,3,22 January 2005,acting_performance,5,S,None
+Million Dollar Baby," Unbelievably good!
+",Morgan Freeman deserves a best supporting actor win .,9,2,3,22 January 2005,acting_performance,5,S,Morgan Freeman
+Million Dollar Baby," Unbelievably good!
+",I think Clint Eastwood should be nominated for best actor .,9,2,3,22 January 2005,acting_performance,4,S,Clint Eastwood
+Million Dollar Baby," Unbelievably good!
+",The film is comedic .,9,2,3,22 January 2005,genre_style,3,O,None
+Million Dollar Baby," Unbelievably good!
+",The film is dramatic and tragic .,9,2,3,22 January 2005,genre_style,3,O,None
+Million Dollar Baby," Unbelievably good!
+","Clint Eastwood""s simple original musical score is very very good , too .",9,2,3,22 January 2005,audio_music,5,S,Clint Eastwood
+Million Dollar Baby," Unbelievably good!
+",This should be the best film of the year .,9,2,3,22 January 2005,expectation,5,S,None
+Million Dollar Baby," Unbelievably good!
+","It""s almost perfect .",9,2,3,22 January 2005,viewing_experience,5,S,None
+Mystic River," Very good film...
+",This was a very good film with great acting .,7,0,0,25 February 2004,acting_performance,5,S,None
+Mystic River," Very good film...
+",I would like to comment on themusic .,7,0,0,25 February 2004,audio_music,3,O,None
+Mystic River," Very good film...
+","Although it was effective , the score was too repetitive and simple .",7,0,0,25 February 2004,audio_music,2,S,None
+Mystic River," Very good film...
+",There were many opportunities to have a sub - theme instead of incessant variations of the main theme .,7,0,0,25 February 2004,audio_music,2,S,None
+Mystic River," Very good film...
+","It""s admirable that Eastwood attempted to write the score ,",7,0,0,25 February 2004,audio_music,4,S,Eastwood
+Mystic River," Very good film...
+",but hiring a professional composer would have been a wise decision .,7,0,0,25 February 2004,audio_music,2,S,None
+Mystic River," Very good film...
+",This was not a predictable film and was never dull .,7,0,0,25 February 2004,story_plot,4,S,None
+Mystic River," Very good film...
+",Tim Robbins did a wonderful job ofplaying a damaged personality .,7,0,0,25 February 2004,acting_performance,5,S,Tim Robbins
+Whiplash," Flawed and Flashy SPOILERS
+",What a wooden film .,4,9,16,5 February 2015,viewing_experience,1,S,None
+Whiplash," Flawed and Flashy SPOILERS
+","As a viewer , you can not really get to know any of these characters .",4,9,16,5 February 2015,character_development,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+",Nothing great comes from an abusive teacher .,4,9,16,5 February 2015,themes_messages,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+","Hitting student in the face , really ? No .",4,9,16,5 February 2015,story_plot,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+","It was unclear what JK Simmons "" character really was after .",4,9,16,5 February 2015,character_development,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+",Was it perfection ? Is the only way to achieve perfection by humiliating students with verbal and physical abuse ? The drumming was excellent .,4,9,16,5 February 2015,themes_messages,3,O,None
+Whiplash," Flawed and Flashy SPOILERS
+","I""m a musician and I""ve never heard of students bleeding all over their drums . It""s ridiculous .",4,9,16,5 February 2015,themes_messages,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+","The only thing JK Simmons "" character cared about was tempo .",4,9,16,5 February 2015,character_development,3,O,JK Simmons
+Whiplash," Flawed and Flashy SPOILERS
+",Talk about unidimensional .,4,9,16,5 February 2015,character_development,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+","He crucified students only if they couldn""t determine his tempo after a few beats .",4,9,16,5 February 2015,story_plot,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+",What about dynamics ? What about interacting with the band ? The script was superficial and lacking .,4,9,16,5 February 2015,writing_dialogue,2,S,None
+Whiplash," Flawed and Flashy SPOILERS
+",People probably like this film because Simmons was an interesting character,4,9,16,5 February 2015,character_development,3,S,None
+Whiplash," Flawed and Flashy SPOILERS
+",and the drumming was interesting .,4,9,16,5 February 2015,audio_music,3,S,None
+Whiplash," Flawed and Flashy SPOILERS
+","You""d think such a brilliant teacher would be a more impressive jazz pianist - another boring scene .",4,9,16,5 February 2015,acting_performance,2,S,None
+Ray," Well done
+",Jamie Fox was excellent at portraying Ray Charles .,7,0,1,6 February 2005,acting_performance,5,S,Jamie Fox
+Ray," Well done
+",It was great to see Curtis Armstrong finally get a solid role .,7,0,1,6 February 2005,acting_performance,4,S,Curtis Armstrong
+Ray," Well done
+",This certainly was overdue .,7,0,1,6 February 2005,expectation,3,S,None
+Ray," Well done
+",The music supervision on this film was excellent .,7,0,1,6 February 2005,audio_music,5,S,None
+Ray," Well done
+","For the most part , it really felt like all of the musical numbers were played live .",7,0,1,6 February 2005,audio_music,4,S,None
+Ray," Well done
+",Fox really seemed to be playing the piano .,7,0,1,6 February 2005,acting_performance,4,S,Fox
+Ray," Well done
+","As far as being best picture of the year ... I wouldn""t vote for it .",7,0,1,6 February 2005,recommendation,2,S,None
+Ray," Well done
+",I think that Sideways and Million Dollar Baby are far more unique and interesting films .,7,0,1,6 February 2005,comparative_analysis,3,S,None
+Ray," Well done
+",Taylor Hackford continues to prove that he is a very versatile director .,7,0,1,6 February 2005,filmmaking_direction,4,S,Taylor Hackford
+Ray," Well done
+","It""s nice to see that he works in all genres .",7,0,1,6 February 2005,filmmaking_direction,3,S,None
+Scream," All hype - bad movie
+","It""s amazing how the "" insane "" killers can act so normal for most of the movie .",Null,0,0,1 November 1999,acting_performance,5,S,None
+Scream," All hype - bad movie
+",This film is no better than all of the other stupid slasher movies .,Null,0,0,1 November 1999,genre_style,1,S,None
+Scream," All hype - bad movie
+","Oh , it""s so cool to kill people .",Null,0,0,1 November 1999,emotion,3,S,None
+Scream," All hype - bad movie
+","Don""t waste your time .",Null,0,0,1 November 1999,recommendation,1,S,None
+Scream," All hype - bad movie
+","If you want to watch an intelligent horror movie , see "" Rosemary""s Baby . """,Null,0,0,1 November 1999,recommendation,3,O,None
+Vanilla Sky," Excellent excellent film...
+",Mr . Crowe pulled off a very difficult feat .,9,0,0,23 December 2001,acting_performance,4,S,Mr. Crowe
+Vanilla Sky," Excellent excellent film...
+","What an unpredictable , extremely entertaining film this was ... It was exciting , romantic , horrifying , sad and inspiring .",9,0,0,23 December 2001,viewing_experience,5,S,None
+Vanilla Sky," Excellent excellent film...
+",The chemistry between Cruise andCruz is amazing .,9,0,0,23 December 2001,acting_performance,5,S,"Cruise, Cruz"
+Vanilla Sky," Excellent excellent film...
+","And like Crowe""s other films , it was succint .",9,0,0,23 December 2001,writing_dialogue,4,S,Crowe
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",I believe that people think this film is good because they have convinced themselves that it must be .,4,74,135,20 December 2015,viewing_experience,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+","Hardcore "" Star Wars "" fans are so in love with these characters that just seeing them interact with each other is enough to say the film is amazing .",4,74,135,20 December 2015,character_development,5,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",This film is far from amazing .,4,74,135,20 December 2015,viewing_experience,1,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+","The story is very basic , boring and far from challenging .",4,74,135,20 December 2015,story_plot,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",The Lord Of The Rings films were far more challenging and interesting .,4,74,135,20 December 2015,comparative_analysis,3,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+","It""s hard to believe that "" Finn "" would have the motivation and courage to do what he did .",4,74,135,20 December 2015,character_development,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",There was barely a subplot .,4,74,135,20 December 2015,story_plot,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+","It doesn""t make sense that Hans Solo""s son would have any need to put on an act and cry in order to trick his father and kill him .",4,74,135,20 December 2015,story_plot,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+","It doesn""t make any sense .",4,74,135,20 December 2015,story_plot,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",There was no chemistry between Princess Leia and Hans Solo .,4,74,135,20 December 2015,acting_performance,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",I felt sorry for both actors because their performances were so wooden .,4,74,135,20 December 2015,acting_performance,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",The comedy was mostly expected and dumb .,4,74,135,20 December 2015,writing_dialogue,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+","I cringed when Hans Solo called Finn , "" Big Deal .",4,74,135,20 December 2015,writing_dialogue,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",""" Visually , it was incredible because of the use of miniatures instead of relying solely on CGI .",4,74,135,20 December 2015,technical_visuals,5,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+","Unfortunately , this is not a painting . It is a film .",4,74,135,20 December 2015,themes_messages,2,S,None
+Star Wars: Episode VII - The Force Awakens," All hype - no substance * warning spoilers
+",It needed a better story and performances .,4,74,135,20 December 2015,story_plot,2,S,None
+The Social Network," An amazing piece of work!
+","Fincher is a true original and must have a lot of power in all areas of the film process because as usual , he avoided making a "" Hollywood Movie .",9,5,9,3 October 2010,filmmaking_direction,5,S,Fincher
+The Social Network," An amazing piece of work!
+",""" And since it wasn""t a hackneyed movie that we""ve seen so many times before , he made it very interesting with the help of music , sound design , manic conversations , wonderful photography .",9,5,9,3 October 2010,technical_visuals,5,S,None
+The Social Network," An amazing piece of work!
+",The acting is all superb .,9,5,9,3 October 2010,acting_performance,5,S,None
+The Social Network," An amazing piece of work!
+",I am still amazed how multi talented Justin Timberlake is .,9,5,9,3 October 2010,acting_performance,5,S,Justin Timberlake
+The Social Network," An amazing piece of work!
+",Jesse Eisenberg stole the show .,9,5,9,3 October 2010,acting_performance,5,S,Jesse Eisenberg
+The Social Network," An amazing piece of work!
+",He played a cold nerdy brilliant workaholic with nothing else on his mind .,9,5,9,3 October 2010,character_development,3,O,None
+The Social Network," An amazing piece of work!
+",He created a character who was easily annoyed by improper questions and anything mundane .,9,5,9,3 October 2010,character_development,3,O,None
+The Social Network," An amazing piece of work!
+",Thank God there was no happy ending with all sides doing a group hug .,9,5,9,3 October 2010,story_plot,4,S,None
+The Social Network," An amazing piece of work!
+",This is a fascinating film with tons of facts and evidence that of which I had been grossly unaware . Highly recommend !,9,5,9,3 October 2010,recommendation,5,S,None

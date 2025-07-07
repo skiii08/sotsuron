@@ -1,0 +1,52 @@
+分析結果を '/Users/watanabesaki/PycharmProjects/sotsuron/current data/topic_1_10000.csv' に保存しました
+
+=== トピック分析結果の統計 ===
+- plot: 1829件 (18.3%)
+- performance: 1130件 (11.3%)
+- character: 1016件 (10.2%)
+- emotion: 673件 (6.7%)
+- entertainment: 626件 (6.3%)
+- theme: 427件 (4.3%)
+- genre: 404件 (4.0%)
+- direction: 337件 (3.4%)
+- comparison: 332件 (3.3%)
+- recommendation: 309件 (3.1%)
+
+=== センチメント分析結果の統計 ===
+- 1 (非常にネガティブ): 200件 (2.0%)
+- 2 (ネガティブ): 2163件 (21.6%)
+- 3 (中立): 4186件 (41.9%)
+- 4 (ポジティブ): 2283件 (22.8%)
+- 5 (非常にポジティブ): 1167件 (11.7%)
+
+=== 主観性分析結果の統計 ===
+- S (主観的): 7071件 (70.7%)
+- O (客観的): 2898件 (29.0%)
+- ERROR (分類ERROR): 30件 (0.3%)
+
+=== 人名抽出結果の統計 ===
+- 人名が検出された件数: 2064件
+- 人名が検出されなかった件数: 7935件
+- 検出された人名（上位5件）:
+  * Tom Cruise: 212件
+  * Charlize Theron: 70件
+  * Van Damme: 68件
+  * John Carpenter: 54件
+
+=== 分析結果の詳細 ===
+1. [adaptation|3(中立)|S(主観的)|None] It"s a great book and it doesn"t really matter if the actors...
+2. [rating_score|2(ネガティブ)|S(主観的)|None] but the movie is way overrated .
+3. [action|2(ネガティブ)|S(主観的)|Tom Cruise] There"s way too less action and Tom Cruise just doesn"t fit ...
+4. [casting|2(ネガティブ)|S(主観的)|None] I guess the author could do a much better job by selecting b...
+5. [rating_score|2(ネガティブ)|S(主観的)|None] I think this movie has been overrated by the public and it d...
+6. [rating_score|3(中立)|S(主観的)|None] Just because the story is a quite unfamiliar story for Holly...
+7. [rating_score|3(中立)|S(主観的)|None] and than I"m still generous .
+8. [adaptation|4(ポジティブ)|S(主観的)|None] I was surprised how much I enjoyed this interpretation of th...
+9. [emotion|4(ポジティブ)|S(主観的)|None] It had a powerful , yet whip smart edge .
+10. [character|3(中立)|S(主観的)|None] I"d not thought of Reacher that way before ,
+
+キャッシュ統計:
+- トピックキャッシュ: 9984件
+- センチメントキャッシュ: 9984件
+- 主観性キャッシュ: 9984件
+- 人名キャッシュ: 9984件

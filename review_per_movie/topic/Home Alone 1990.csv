@@ -1,0 +1,1999 @@
+username,rating,helpful,total,date,title,review,topic,sentiment_score,subjectivity,person_name
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",How could this film get only a 6 .,viewing_experience,2,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","5 ? Yes , it""s a kid""s movie ,",genre_style,3,O,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",but I know plenty of adults(not including myself ) who loved this film .,viewing_experience,4,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","It touches our hearts , and tickles our funny bones .",emotion,4,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",Not to mention I think in one way or another we could relate to it .,themes_messages,4,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","That""s why it remains a classic Christmas comedy .",recommendation,4,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","Home Alone is not only one of the highest box office successes of all time ,",commercial_context,3,O,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",but it deserves more praise .,recommendation,4,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",Mac showed a talent that very little child stars have now - a - days .,acting_performance,4,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",He brought in a great comedy about a boy who accidentally is left home alone when his family goes on vacation,story_plot,3,O,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",and takes on two burglars .,story_plot,3,O,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","Yeah , it""s quit unrealistic about the burglars ,",story_plot,2,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","but honestly , this is a terrific family film .",viewing_experience,5,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","Joe Pesci and Daniel Stern are the perfect comedy duo of two idiots who can""t rob the place because a 8 year old child has out witted them",casting_choices,5,S,"Joe Pesci, Daniel Stern"
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",and set some clever and very funny traps around the house .,story_plot,4,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+","Please give this movie a chance , it""s just terrific",recommendation,5,S,None
+Smells_Like_Cheese,10,399,445,23 November 2003," A timeless classic
+",and I guarantee nothing but great laughs for you and the whole family . 10/10,viewing_experience,5,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","Home Alone ( 1990 ) Rating : 8/10 It might be dumb and corny , but I""ve actually liked this highly entertaining flick .",viewing_experience,4,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","The plot""s unbelievable ,",story_plot,2,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","but who cares : it""s funny ! Macaulay Culkin plays 8 year - old Kevin , a misunderstood kid who lives in a big ass house with his family .",character_development,3,O,Macaulay Culkin
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","They""re about to leave for Paris , where they""re gon na spend Christmas .",story_plot,3,O,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","About 20 people are running around the house , frenetically preparing for the trip .",story_plot,3,O,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","Kevin""s mad at everyone , because no one pays attention to him , unless it""s to yell at him .",character_development,3,O,Kevin
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","Hence , Kevin goes to sleep wishing that his whole family would disappear ,",story_plot,3,O,Kevin
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","and the next morning , they do ! The thing is that they somehow woke up late , left home in a hurry , and hey , they forget Lil Kev ! At first , he""s happy as a monkey ,",story_plot,3,O,Kevin
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","but after a while , things get messy .",story_plot,3,O,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","Two dumbass robbers are planning to rob his house ,",story_plot,3,O,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","but Kev ain""t gon na let them ! Okay , I know , this is one stupid story ,",story_plot,2,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","but it""s developed into a wonderful family film , as enjoyable as it is warmhearted .",viewing_experience,4,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+",Mac Culkin is awesome in the lead .,acting_performance,5,S,Mac Culkin
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","He really carries the film : he""s got style , he""s funny and he""s even a good actor ! Too bad his personal life screwed up , because he had the talent to become a grown - up movie star .",acting_performance,4,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","The idiotic criminals are also really cool , because they cast good actors instead of some Ernest - style lame - o over - actors .",casting_choices,3,S,Ernest
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","Oscar - winner Joe Pesci and Daniel Stern ( the narrator on The Wonder Years ) are hilarious ,",acting_performance,4,S,"Joe Pesci, Daniel Stern"
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+",but they also bring a bit more depth to what could have been cardboard characters .,character_development,4,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","Pesci plays an aggressive thug , and anyone who""s seen him in a Scorsese film knows how good he is at it .",acting_performance,4,S,Pesci
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","Stern plays a total dufus , and he""s also really convincing at it .",acting_performance,4,S,Stern
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","The film""s humor might seem dumb ,",writing_dialogue,3,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","but hey , it""s funny .",viewing_experience,4,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","John Hughes "" screenplay has Kevin protecting his home by turning the thieves into human Wile E. Coyotes ,",writing_dialogue,3,O,John Hughes
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","and like the cartoon , it made me laugh .",emotion,4,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","The gags might be old ,",writing_dialogue,3,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","but they""re played with inventiveness , and the acting is always right .",acting_performance,4,S,None
+Twizm,8,119,138,1 May 2002," Funny and highly entertaining.
+","I just love this film , and you will too if you look beyond the fact that it""s a family film .",viewing_experience,5,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",""" Home Alone "" has succeeded in establishing itself as a Christmas tradition , spawning off three sequels ( including a made - for - television flop ) , and a whole franchise in and of it .",commercial_context,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Macaulay Culkin plays Kevin McCallister , the average American child .",character_development,3,O,Macaulay Culkin
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",He has an attitude almost expected of a Chris Columbus film from the eighties .,themes_messages,3,S,Chris Columbus
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","He lives with a large family , which , right now , being around Christmas time , is about quadrupled , flooded by relatives "" children , all of whom pick on poor , poor Kevin ( sympathy long lost later into the film ) .",story_plot,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","One day Kevin wakes up from his sleep to find his wish has come true : his parents ( John Heard and Catherine O""Hara ) have disappeared .",story_plot,3,O,"John Heard, Catherine O'Hara"
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Enthralled by this , he proceeds to do everything and anything he was not allowed to do before , including eating ice cream in the morning , watching violent gangster films , jumping on the bed , wrecking his brother""s room ,",story_plot,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",and having some fun with a BB gun .,story_plot,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Unfortunately for Kevin , his parents have not just disappeared - they have accidentally left him at home before going to Paris ! Trouble really starts when two pesky burglars , Harry Lime ( Joe Pesci ) and Marv Merchants ( Daniel Stern ) , decide that their next burglary will be at the McCallister residence .",story_plot,3,O,"Kevin, Joe Pesci, Daniel Stern"
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Little do they know Kevin is more than prepared , arming the house with an array of booby - traps that would impress top spies in the American government .",story_plot,4,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","John Hughes , writer / director / producer of my favorite comedy , "" Planes , Trains and Automobiles , "" wrote this film ,",filmmaking_direction,4,S,John Hughes
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",and it is no wonder .,viewing_experience,3,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","It is just like Hughes "" humor .",writing_dialogue,4,S,John Hughes
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","It mixes emotion , belly laughs and a warm - hearted ending all into one little bundle called a movie .",viewing_experience,4,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","John Hughes "" films , in my experience , are usually very good , mainly because he approaches films at a very classic level .",filmmaking_direction,4,S,John Hughes
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","He doesn""t resort to crude , kid jokes , like "" The Master of Disguise "" or "" The Tuxedo , "" to name a few recent flops .",comparative_analysis,2,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","He almost always levels everything out perfectly in his scripts ,",writing_dialogue,4,S,John Hughes
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",and nothing is different here .,writing_dialogue,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Also , he places Kevin and co. In a large brick home in a large neighborhood in Chicago ; a home that very much resembles those in "" Planes .",artistic_design,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",""" and "" Uncle Buck "" ( I would not be surprised if it is the same home ) . As for the acting .",acting_performance,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",Macaulay Culkin is not at his best here .,acting_performance,2,S,Macaulay Culkin
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","His best performance would have to be in an earlier John Hughes film named "" Uncle Buck , "" where he had more of a cute charm than an acting charm .",acting_performance,4,S,"Macaulay Culkin, John Hughes"
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Here , he could barely act his way out of a plastic bag .",acting_performance,1,S,Macaulay Culkin
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Fortunately , with great performances by John Heard , Catherine O""Hara , Pesci and Stern , his bad acting is long forgotten by the time we become absorbed into the film .",acting_performance,4,S,"John Heard, Catherine O'Hara, Pesci, Stern"
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","John Heard and Catherine O""Hara bring Kevin""s parents to life .",acting_performance,4,S,"John Heard, Catherine O'Hara"
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",They seem almost complete opposites .,character_development,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Kevin""s father , Peter ( Heard ) , is very calm and laidback .",character_development,3,O,John Heard
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","His mother , Kate ( O""Hara ) is extremely nervous almost all the time , fretting throughout the film .",character_development,3,O,Catherine O'Hara
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","She is aggravated very easily and , like all mothers , her instinctive nature to care for her child is what drives her to the point she goes to in the film .",character_development,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","And then there""s Pesci and Stern .",acting_performance,3,O,"Pesci, Stern"
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",My favorite lot of the film .,viewing_experience,4,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","They perfectly blend humor , pain and aggravation to the film .",writing_dialogue,4,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Pesci""s character Harry is very strict , easily agitated and picks on Marv for a great many things .",character_development,3,O,Pesci
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Marv , the stereotypical "" tall , stupid one , "" is completely stupid .",character_development,2,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",He does things that would make a hamster blush .,story_plot,3,O,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Yet he is the character I have found many like the most , mainly because he is so stupid you have to feel sorry for him .",character_development,4,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","Stern brings a great trait to the character of Marv ,",acting_performance,4,S,Stern
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",and I am very pleased he got the part .,casting_choices,5,S,Stern
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","It""s a hard choice to decide which baddie is better , so I just say I like them both the same .",character_development,3,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","All in all , "" Home Alone "" is probably the best Christmas movie to rise out of the film industry in the last twenty years .",recommendation,4,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+","It seamlessly blends humor , pain , emotion , human instinct and some great booby - traps all into one little bundle .",story_plot,4,S,None
+MovieAddict2016,10,141,172,18 February 2003," Heartwarming Holiday family classic.
+",This film has stood the test of time greatly . 4 . 5/5 stars -,viewing_experience,5,S,None
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","The overwhelming success of "" Home Alone "" ( it spawned two sequels ) , is enough to guarantee that most people will love this story of a family that departs for Paris on the Christmas holidays , mistakenly leaving an eight - year old boy to fend for himself .",commercial_context,3,S,None
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","And fend he does , when burglars threaten to break in unless he can rig enough booby - traps to keep them out .",story_plot,3,O,None
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","That""s the simple plot in a nutshell .",story_plot,3,O,None
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","Macaulay Culkin seems to have no problem carrying most of the film with a wide variety of looks , gestures and expressions --",acting_performance,4,S,Macaulay Culkin
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","but for my money it""s Daniel Stern and Joe Pesci who get the main laughs as the bumbling burglars intent on outwitting the kid""s traps .",acting_performance,4,S,"Daniel Stern, Joe Pesci"
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","Others in the cast don""t have as much to do",acting_performance,3,S,None
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","but do well enough by their roles , particularly Catherine O""Hara and John Heard as the parents who only discover on the plane that Kevin is missing .",acting_performance,4,S,"Catherine O'Hara, John Heard"
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","The laughs are steady , the color photography is great",technical_visuals,4,S,None
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+","and the slight story is probably every boy""s fantasy of what it might be like to be left home alone .",story_plot,3,O,None
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+",Add to that the holiday flavor of Christmas and a pleasant musical score by John Williams and you have the makings of a classic .,audio_music,4,S,John Williams
+Doylenf,Null,80,96,18 May 2001," Joe Pesci and Daniel Stern as the Grinches Who Almost Steal Christmas...
+",The proof is in the pudding -- they must have done something right ! !,viewing_experience,4,S,None
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+",""" Home Alone "" is a hilarious film about a young boy ( Macaulay Culkin ) who is accidently left home during the Christmas holidays after the rest of his family goes to Europe .",story_plot,3,O,Macaulay Culkin
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+","At first Culkin loves the situation ,",character_development,3,O,Macaulay Culkin
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+",but soon he is scared to death when he learns that burglars Joe Pesci and Daniel Stern are targeting his house .,story_plot,3,O,"Joe Pesci, Daniel Stern"
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+","However , Culkin is pretty smart for an eight - year - old",character_development,3,O,Macaulay Culkin
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+",and he has plans for them when they attack .,story_plot,3,O,None
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+","Chris Columbus "" direction is smart and so is the over - achieving screenplay .",filmmaking_direction,4,S,Chris Columbus
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+","This film has a little bit of something for everyone and the fact that the backdrop is the Christmas holidays , only makes it that much more special .",viewing_experience,4,S,None
+tfrizzell,Null,77,98,4 November 2000," The Best Christmas Film of the Past 20 Years
+",All the performers do well and in the end the film also does . 4 stars out of 5 .,acting_performance,4,S,None
+killdkiller,10,7,7,24 December 2019," Classic!
+","Christmas favourite , every year ! Good acting , storyline , funny and heart warming",viewing_experience,5,S,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","In the Eighties , John Hughes churned out a handful of movies",commercial_context,3,O,John Hughes
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","and scored many , many hits .",commercial_context,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","Quite rightly , as most of them were seriously funny - I""m DEFINITELY not referring to Curly Sue , so relax ! In one particular scene from Uncle Buck , Macaulay Culkin interrogates a babysitter through the letterbox to make sure she""s not a baddie .",story_plot,3,O,Macaulay Culkin
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",This inspired Hughes to write a whole new movie .,writing_dialogue,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","Who would have known that this and its sequel would go on to become two of the biggest hits of all time ? Both Hughes and Chris Columbus seem to prefer setting their movies during the holiday season ( Gremlins , Planes , Trains & Automobiles , Christmas Vacation ) and manage to pull them off without too much sentiment , or sickening amounts of gooey love .",commercial_context,3,O,"Hughes, Chris Columbus"
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",There are two reasons why Home Alone was such a big success .,commercial_context,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","The first is that it""s about a kid who outsmarts grown - ups , something that happens every day , only there""s a worldwide conspiracy of silence .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",This movie yells it out loud and clear .,themes_messages,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","The second is John Williams""s magical score , which elevates the movie way above slapstick family fare to something more serious and regarded .",audio_music,5,S,John Williams
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","It was nominated for an Academy Award , along with the Christmas carol Somewhere In My Memory ,",commercial_context,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","but lost to John Barry""s Dances with Wolves .",commercial_context,3,O,John Barry
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","Damn ! In a mad rush to the airport one morning , the MacCallister family forget one little thing ... Kevin ( Culkin ) .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",He is an eight - year - old kid who wants nothing better than a peaceful Christmas and some time to himself .,character_development,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","It""s hard for him to get this when living in a house with seven other people(the exact same house from Planes , Trains And Automobiles , don""t you know0 .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","With the rest of the MacCallisters in Paris , Kevin runs wild doing whatever he wants , eating whatever he wants",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",and watching whatever TV show he wants .,story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","But there""s one major problem .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","The Wet Bandits , Harry ( Joe Pesci ) and Marv ( Daniel Stern ) , are on the prowl",character_development,3,O,"Joe Pesci, Daniel Stern"
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","and have knocked off every other house in Kevin""s street . His is next .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","And seeing that he""s man - of - the - house now , he HAS to defend it .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","Using whatever tools are at his disposal ( rusty nails , blow torches , Micro Machines ) he sets up a labyrinth of booby traps , so that the Wets can""t break in .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","Their idiot - proof determination proves to be their downfall , as they are tortured and torn - up upon entering Kevin""s domain .",story_plot,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","Although this is not the only point of the film , there is an important message that family is what really matters to a child , or to anyone , and having them home for the holidays is better than wandering a huge house all by yourself .",themes_messages,4,S,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",There are some movies that work best at Christmas,themes_messages,3,S,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",and this is one of them .,themes_messages,4,S,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","I""m not saying that in a couple of decades it will be the new It""s A Wonderful Life ,",comparative_analysis,3,S,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",but it will be remembered fondly at the very least .,viewing_experience,4,S,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+","Don""t be a Scrooge . It""s Christmastime .",themes_messages,3,O,None
+CuriosityKilledShawn,7,54,72,14 December 2006," Merry Christmas Ya Filthy Animal!
+",Go rush to check out Home Alone .,recommendation,4,S,None
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+",This type of family comedy truthfully works better if you are grown up with the stooges .,genre_style,3,O,None
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+",Because this film has a climactic scene with more slapstick than most can take . I can though .,emotion,4,S,None
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+","But if you think this is strictly a kids film , parents will like it too I bet .",expectation,4,S,None
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+",The plot follows a kid ( Macaulay Kulkin ) who gets left behind in a Chicago suburb while his family leaves for Paris .,story_plot,3,O,Macaulay Culkin
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+","And though the house is all his , 2 burglars ( Joe Pesci and Daniel Stern who give the best on - screen duo of 1990 ) want the house .",acting_performance,5,S,"Joe Pesci, Daniel Stern"
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+",But not without the climax .,story_plot,3,O,None
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+","While most of the film is unbelievable ( both good and bad ) , most of the film should keep families in good spirits , unless parents don""t enjoy seeing Pesci getting his head on fire and Stern screaming like a girl .",viewing_experience,3,O,"Joe Pesci, Daniel Stern"
+Quinoa1984,9,49,65,4 November 2000," A well done family comedy
+","Funny , even if it""s not John Hughes "" ( writer / producer here ) best . B+",writing_dialogue,4,S,John Hughes
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",My all time favorite film .,viewing_experience,5,S,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","Macaulay Culkin did superbly as a child actor ,",acting_performance,5,S,Macaulay Culkin
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","but as he grew up , he simply disappeared into oblivion .",acting_performance,2,S,Macaulay Culkin
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","His last good film being Ritchie Rich ( 1994 ) , live - action film adaptation of the Harvey Comics comic book character Richie Rich .",story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",So from his highest grossing film Home Alone to Richie Rich is only a 4 year reign .,commercial_context,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",In this film we have the pairing of two talented actors in Joe Pesci and Daniel Stern(I REALLY LIKE THE WAY THIS GUY ACTS & HIS SENSE OF HUMOR ! ! ! ) .,acting_performance,5,S,"Joe Pesci, Daniel Stern"
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","They are a pair of burglars Harry Lyme ( Pesci ) and Marv Merchants ( Stern ) , specializing in housebreaking when the occupants are off on holiday .",story_plot,3,O,"Joe Pesci, Daniel Stern"
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",This time its on Christmas .,story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","The McCallister""s have planned a trip to Paris .",story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",Meanwhile Harry has his sights set on the McCallister House .,story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","However things don""t necessarily go as planned ... Kevin has been forgotten at home",story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","and the McCallister""s realize this too late .",story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","Now Kevin is all alone against a duo of hardened ( ? ) , professional ( ? ) crooks .",story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",2 vs. 1 is not a fair fight(or so you think ... ) .,story_plot,3,O,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",What happens next is why this film has become the most grossing American comedy film of 1990 .,commercial_context,4,S,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","I WON""T reveal what happens next , so either go see it at a Cinema you like or watch it on DVD / CABLE or ONLINE or buy the DVD either at a DVD store or online .",recommendation,3,S,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+",This film has a decent sequel : Home Alone 2 : Lost in New York which follows the further mishaps in the life of Kevin .,commercial_context,4,S,None
+Vivekmaru45,10,13,15,15 June 2012," 100% Entertainment Guaranteed!
+","Other Macaulay Culkin films worth seeing / having : Uncle Buck , The Good Son , My Girl , Getting Even with Dad , and Richie Rich .",recommendation,4,S,Macaulay Culkin
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",There is no film to put beside Home Alone by way of comparison .,comparative_analysis,3,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","It is a film genre of it""s own .",genre_style,3,O,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",I read and hear reviews of this movie that express disgust and horror,emotion,2,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",and I picture John Hughes chuckling .,comparative_analysis,3,S,John Hughes
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","This was the intent , it was meant to upset the status quo and in "" politically correct "" times that we live in , isn""t it a small surprise to see this film come to the forefront again ? This is a movie that will freak out the uptight for as long as it exists in any media . It was meant to .",themes_messages,4,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","As much as "" Clockwork Orange "" talked about "" ultraviolence "" this movie is all about ultra - bad pranks .",themes_messages,3,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",We can numb ourselves to sex and violence,themes_messages,3,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",but Home Alone is a movie you just will never get used to .,themes_messages,4,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",There will be something in this movie that will get to you .,emotion,3,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","As a last resort to make sure everyone is offended before you leave the theatre , John includes the always discussed paint can scene .",story_plot,3,S,John
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","No reason for this scene , except to make sure he gets you",story_plot,2,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",and also to make sure you leave talking about it .,viewing_experience,3,O,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","Obviously filmed on a budget , and using Hughe""s stock cast , this is a movie simply about a young kid whose parents forget him while they go on vacation .",story_plot,3,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",All the characters are bizarre in one way or another .,character_development,3,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","This movie reminds me of "" Rocky Horror Picture Show "" in that everyone in the film has something odd about them and both movies joyfully celebrate these uniquenesses .",comparative_analysis,3,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+","Not a movie to buy for Mom on Mother""s Day ...",recommendation,2,S,None
+lilballa08,10,38,51,22 August 2006," Hilarious movie with a tight cast!!!
+",But worth seeing just to say you did .,recommendation,3,S,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","Home alone review Home alone is a warm , family comedy film made in 1990 , it was written",genre_style,3,O,John Hughes
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+",and produced by John Hughes and was directed by Chris Columbus .,filmmaking_direction,3,O,"John Hughes, Chris Columbus"
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","The main part of Kevin McCallister is played by Macaulay Culkin , his parents are played by John Heard and Catherine O""Hara and the villains ( the wet bandits ) are played by Joe Pesci and Daniel Stern .",casting_choices,3,O,"Macaulay Culkin, John Heard, Catherine O'Hara, Joe Pesci, Daniel Stern"
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","The signature tune is made by John Williams , musician of "" Star Wars "" , "" Harry Potter "" and "" Lord of the Rings "" .",audio_music,3,O,John Williams
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+",20th Century Fox bought the plan for home alone from Warner Bros,commercial_context,3,O,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","and upped the budget for the movie by $ 4 million , it turned out as a bargain for 20th Century Fox because it raked in $ 476 , 684 , 675 at the box office ;",commercial_context,4,S,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","and as of 2009 , home alone was the highest grossing comedy of all time ! The McCallisters go to Paris for Christmas , however their eight - year - old son Kevin is left behind after sleeping in and not being awoken but being forgotten ... Bad parenting ! In the mother""s defence , she moves Heaven and Earth attempting to get back to her son .",story_plot,3,O,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","At first , Kev loves being alone by himself in his house , eating junk food , jumping on beds , watching scary movies , going through his brothers personal belongings , without anyone telling to do otherwise .",story_plot,3,O,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","But eventually , the young boy has to fight for himself and his home as two wannabe robbers plan to raid his house .",story_plot,3,O,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","He does this while helping repair the broken family of a man who once scared the life out of him , can an eight - year - old really manage to do this ? Mend , cook , clean and kick butt ? After writing my Hobbit review I re - read my previous reviews ,",story_plot,3,O,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+",and of course I came across my Home Alone 2 review .,comparative_analysis,3,O,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","It stated that the home alone""s were really good Christmas films ,",recommendation,4,S,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+",and conveniently my parents had bought me the box set the previous day ... Good parenting ! So I decided to do some Christmassy things ( decorated the cake that my Grandad baked,recommendation,4,S,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+",and put up my tree ) whilst watching it .,viewing_experience,4,S,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","This movie is just as good as it""s sequel , which means this film has to be quality because number two had an automatic advantage due to the fact it was in New York .",comparative_analysis,4,S,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","This film is the first of it""s kind , an individual , not repetitive , a breath of fresh air which I pointed out it""s sequel review ; John Hughes must have been just as tired as me with boring ol "" movies that are remade every year , he must have had to rack his brains for a while in order to think up a plot like that , it""s pure random gold ! Anyway , I love this film , the plot is magic , the actors are magic , the music is magic and I think it well deserves to be the highest grossing comedy of all time ! I think that""s why it""s follow - up had to be something special , in order to not be one of the biggest movie let downs of all time ,",story_plot,5,S,John Hughes
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","and that""s why three and four were .",story_plot,2,S,None
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","So , Well done John Hughes and Chris Columbus ( for one and two , not three and four because they were a massive let down . ) RATING : 8 .",recommendation,4,S,"John Hughes, Chris Columbus"
+benfizzsafc,8,6,6,31 January 2014," Quality at Xmas
+","3/10 Best parts : Kevin""s initial reaction to being left alone The booby trap fight The ending ( oh , how cute ! ? )",story_plot,2,S,Kevin
+Toronto85,8,9,10,17 December 2012," Home Alone
+","An eight year old boy is left home alone at Christmas when his family leave for a France vacation , not realizing he isn""t on the plane with them .",story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+","Two crooks attempt to rob the family home ,",story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+","and it is up to Kevin to protect the place ! Home Alone is one of my all time favourite Christmas movies , I couldn""t get enough of it as a kid growing up .",viewing_experience,5,S,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",There was something powerful as a child seeing another child around the same age face the bad guys,emotion,4,S,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",and be able to defeat them .,story_plot,3,O,Kevin
+Toronto85,8,9,10,17 December 2012," Home Alone
+","Home Alone is basically about a family that leaves for vacation ,",story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",but in the rush of getting out on time they forget that young Kevin McCallister was not with them on their way to the airport .,story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+","So while they take off for Paris , Kevin wakes up to find that he is all alone in this gigantic house .",story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+","It""s all fun and games at first for Kevin , until he discovers that a pair of thieves plan on robbing his house thinking that the place is empty .",story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",Whiz kid Kevin sets up a number of booby traps,story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",and set ups that severely injure the bandits .,story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+","Examples include one of the thieves named Harry getting his head set on fire , the other Marv gets hit in the head with an iron .",story_plot,3,O,"Harry, Marv"
+Toronto85,8,9,10,17 December 2012," Home Alone
+","These kind of stunts could kill a person in real life ,",themes_messages,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",but the magic of movies allows the bandits to shake it off,themes_messages,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",and continue their mischief .,story_plot,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+","The acting in Home Alone is top notch ! Macaulay Culkin is brilliant as Kevin McCallister , the scared yet empowered young boy who takes on the "" Wet Bandits "" .",acting_performance,5,S,Macaulay Culkin
+Toronto85,8,9,10,17 December 2012," Home Alone
+",Those bandits are played by Joe Pesci and Daniel Stern who add so much to the film with their performance .,acting_performance,5,S,"Joe Pesci, Daniel Stern"
+Toronto85,8,9,10,17 December 2012," Home Alone
+","And you get some good screen time from stars such as Catherine O""Hara , John Heard and even John Candy .",acting_performance,4,S,"Catherine O'Hara, John Heard, John Candy"
+Toronto85,8,9,10,17 December 2012," Home Alone
+","The traps that Kevin sets are smart and witty , and the location shots are perfect for the tricks he has planned for Harry and Marv .",story_plot,4,S,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+","All in all Home Alone is a classic film not only for Christmastime ,",viewing_experience,4,S,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",but all year round .,viewing_experience,3,O,None
+Toronto85,8,9,10,17 December 2012," Home Alone
+",This should be seen by everyone at least once . 8/10,recommendation,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",""" Home Alone "" is one of the most popular movies from the early 90""s .",commercial_context,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",Its success was phenomenal and it also made Macaulay Culkin a superstar .,commercial_context,4,S,Macaulay Culkin
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","The plot is quite original and surreal : a child who is home alone and capable of making the bandits""s lives miserable ? Sure , it""s an impossible story ,",story_plot,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","but who cares ? Far from being a perfect movie , it is however okay and fun to watch , entertaining",viewing_experience,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","and contains slapstick humor too although I don""t like some of the language used .",writing_dialogue,2,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","Our story takes place in Chicago at Christmas time , which makes this a Christmas film .",genre_style,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","In fact , the movie has lots of Christmas decorations , lights , snow and many other details which create the feeling and magic so characteristic of Christmas .",artistic_design,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","To accent the Christmas atmosphere even more , there are a cup of nice Christmas carols such as "" Rockin "" Around the Christmas Tree "" ( performed by Brenda Lee ) , "" You""re a mean one , Mr. Grinch "" , "" White Christmas "" , "" Carol of the Bells "" , "" Oh Holly Night "" and "" Have Yourself a Merry Little Christmas "" and some brilliant instrumental musics .",audio_music,5,S,Brenda Lee
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",Kevin McCallister is the hero of the story .,character_development,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","He""s not just any kid , he""s a very smart one .",character_development,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","He also knows all about the intentions of the "" wet bandits "" Harry and Marv",character_development,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","and prepares them lots of unexpected "" surprises "" .",story_plot,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","Their lives won""t be easy with Kevin defending his house .",story_plot,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","Sure , they are the villains and as such they get what they deserve ,",story_plot,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",but they do suffer a lot too .,emotion,3,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",We almost feel sorry for them .,emotion,3,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","The "" wet bandits "" were nicknamed like that by Marv because their "" calling card "" ( according to him ) was to let the water running in every houses they robbed .",story_plot,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","That said , both "" wet bandits "" are hilarious .",acting_performance,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","Harry is more cranky , while Marv is the most stupid of the two ( although both are stupid )",character_development,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","and maybe that""s why people tend to sympathize more with him .",emotion,3,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","Marv""s stupidity also makes him the funniest of the two .",character_development,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","Marv is the typical tall and clumsy guy with no brain , a bit like Averell Dalton from the Lucky Luke comics .",character_development,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",The movie has lots of funny moments .,viewing_experience,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","The funniest for me is when Harry and Marv pretend to be Santa Claus and his elf and the way Harry speaks in that scene , followed by the even funnier part when Kevin fires at Harry""s pants .",story_plot,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",Whenever Kevin fools the bandits in a try to make them believe the whole family is at home when Kevin is all alone is funny too .,story_plot,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","For some reason , I also find funny whenever Kevin screams maniacally ( particularly when he says he""s not afraid anymore and sees Old Marley and screams out loud .",emotion,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","The scenes which Kevin fools and scares the Little Nero""s Pizza boy and Marv with the gangster film "" Angels with Filthy Souls "" are hilarious ,",story_plot,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",but in the case of the Pizza boy it is unfair for him .,themes_messages,2,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",There was no need to scare the hell out of him - he was just delivering pizza,story_plot,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","and wasn""t after Kevin .",story_plot,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",Old Marley is an interesting character .,character_development,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",I always felt sorry for him because of the lies Buzz tells about him .,emotion,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",And the man never did anything bad to anyone .,character_development,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",Buzz is a jerk and Uncle Frank is even worse .,character_development,2,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",Buzz is mean for Kevin and Uncle Frank openly dislikes Kevin .,character_development,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","When Uncle Frank tells Kevin « Look what you did , you little jerk ! » , Kevin""s parents should tell him something like « Frank , stay out of this and shut up ! » .",story_plot,3,O,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",The church is magnificent .,artistic_design,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","It""s one of the biggest and most beautiful churches I""ve ever seen in a movie .",artistic_design,4,S,None
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",Macaulay Culkin is terrific as the clever kid Kevin McCallister .,acting_performance,5,S,Macaulay Culkin
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","Joe Pesci and Daniel Stern are awesome as the "" wet bandits """,acting_performance,5,S,"Joe Pesci, Daniel Stern"
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+",and Roberts Blossom is great as the character Old Marley .,acting_performance,5,S,Roberts Blossom
+Atreyu_II,7,33,46,20 August 2007," Surreal and hilarious
+","It""s also delightful to see John Candy as Gus Polinski , the « Polka King of the Midwest » .",acting_performance,5,S,John Candy
+Movie Nuttball,10,62,92,10 December 2003," Great movie!
+",Home Alone is arguably one of the funniest movies ever ! Its really good .,viewing_experience,5,S,None
+Movie Nuttball,10,62,92,10 December 2003," Great movie!
+",The cast is very good ! It was sweet to see John Candy in it ! The team work of Joe Pesci and Daniel Stern is just not insanely hilarious,acting_performance,5,S,"John Candy, Joe Pesci, Daniel Stern"
+Movie Nuttball,10,62,92,10 December 2003," Great movie!
+",but its also incredible that the two are so good together,acting_performance,5,S,None
+Movie Nuttball,10,62,92,10 December 2003," Great movie!
+","and I like how their scenes of punishment is followed right after the other ! I think John Heard looks like Bruce Willis ! I like Catherine O""Hara , she is a fine actress ! Look for Larry Hankin and Roberts Blossom ! John Williams has another great score here ! This is a perfect movie for people to watch around Christmas",acting_performance,4,S,"John Heard, Bruce Willis, Catherine O'Hara, Larry Hankin, Roberts Blossom, John Williams"
+Movie Nuttball,10,62,92,10 December 2003," Great movie!
+","and if you need a big laugh watch this as it will crack you up ! Also , I strongly recommend Home Alone 2 ! It arguably funnier then this plus Time Curry , Brenda Fricker , and Rod Sell appears in it ! Both movies are strongly recommended !",recommendation,4,S,"Tim Curry, Brenda Fricker, Rod Sell"
+safenoe,10,13,16,18 December 2016," One of the best Christmas movies (a close second to Die Hard).
+",Angels with Filthy Souls ... When I first saw Home Alone I thought this black and white gangster movie that inspires Kevin was a real movie ! !,story_plot,4,S,None
+safenoe,10,13,16,18 December 2016," One of the best Christmas movies (a close second to Die Hard).
+","But I recently found out it wasn""t ,",story_plot,3,O,None
+safenoe,10,13,16,18 December 2016," One of the best Christmas movies (a close second to Die Hard).
+",and much effort into making the clip as authentic as possible .,filmmaking_direction,4,S,None
+safenoe,10,13,16,18 December 2016," One of the best Christmas movies (a close second to Die Hard).
+","Vanity Fair did a great write - up of the making of Angels of Filthy Souls in the article "" Inside the Making of ​ Home Alone​""s Fake Gangster Movie "" by Darryn King , which was published online on 22 Dec "" 15 .",commercial_context,3,O,Darryn King
+safenoe,10,13,16,18 December 2016," One of the best Christmas movies (a close second to Die Hard).
+","Sure , Home Alone may not fit into the traditional canon ( no girl wistfully wishing for a house on 34th Street )",genre_style,3,S,None
+safenoe,10,13,16,18 December 2016," One of the best Christmas movies (a close second to Die Hard).
+","but it""s one of my favorite Christmas movies next to Die Hard of course .",recommendation,4,S,None
+safenoe,10,13,16,18 December 2016," One of the best Christmas movies (a close second to Die Hard).
+","In a way , Home Alone and Die Hard share similar themes of survival against the vicious criminals , with the hero using his wits and ingenuity to fight back and ensure the crooks get their just desserts .",themes_messages,3,O,None
+s2423018,8,10,12,5 January 2009," warm movie
+",This movie made me very warm .,emotion,4,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",A little boy is fighting thieves .,story_plot,3,O,None
+s2423018,8,10,12,5 January 2009," warm movie
+","He is act smartly , so drive back thieves .",story_plot,3,O,None
+s2423018,8,10,12,5 January 2009," warm movie
+",I felt a warm heart of family .,emotion,4,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",I was impressed last scene . It made me cry .,emotion,4,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",There are my favorite scene .,viewing_experience,3,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",The house was decorated beautifully with Christmas ornaments .,artistic_design,4,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",It really beautiful .,artistic_design,4,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",I like very much it .,viewing_experience,4,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",Actually I like Christmas ornaments .,viewing_experience,3,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",My family like Christmas ornaments too . So my house do it .,viewing_experience,3,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+","Moreover , the music of this movie is also wonderful .",audio_music,5,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",I can heal it even by music .,emotion,4,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",This movie made me think of winter .,themes_messages,3,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+","When the winter of every year comes in Japan , it broadcasts .",commercial_context,3,O,None
+s2423018,8,10,12,5 January 2009," warm movie
+",It is a very popular in Japan movie .,commercial_context,3,S,None
+s2423018,8,10,12,5 January 2009," warm movie
+",All children and adults was loved .,viewing_experience,4,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","I""m a young adult , and not a huge fan of the kids movies these days .",viewing_experience,3,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","Some people would classify this as a kids movie ,",genre_style,3,O,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","but I think it""s more of a classic .",genre_style,3,O,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","I grew up seeing this on TV every winter ,",viewing_experience,3,O,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","and it""s still one of my favorites .",viewing_experience,5,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","The sequels are awful , as are most sequels ...",comparative_analysis,2,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+",But the original Home Alone is fantastic .,viewing_experience,5,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+",I STILL laugh when I watch it .,emotion,5,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","It""s really one of those "" feel good "" movies , the kind that make you want to cuddle up on the couch with family and relax and enjoy it .",viewing_experience,5,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","If you haven""t seen it yet , you""re missing out on a great Christmas movie .",recommendation,5,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","Heck , it""s even great for a rainy day .",viewing_experience,5,S,None
+Alishakaye8,10,14,18,22 March 2009," It's not Christmas time until Home Alone comes on TV!
+","Watch it , you""ll love it ! I wish it were on more often !",recommendation,5,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","Home Alone is a nostalgic film for me , having watched it religiously when I was a young kid growing up .",viewing_experience,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",Roger Ebert gave this film a 2 . 5 out of 4 .,comparative_analysis,3,O,Roger Ebert
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",He calls the film unrealistic and says that it goes in another direction from the original premise .,comparative_analysis,2,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",Home Alone plays on the scary scenario every kid fears at some point in their life .,themes_messages,3,O,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",Kevin McCallister ( Macaulay Culkin ) is forgotten at home in Chicago when his family rushes off to the airport for their trip to Paris .,story_plot,3,O,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","Soon after , Kevin is visited by home invaders Marv ( Daniel Stern ) and Harry ( Joe Pesci )",story_plot,3,O,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","and it""s up to him to stop them .",story_plot,3,O,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",Ebert complains that this film deviates from the main premise and simply brings in stunt doubles,comparative_analysis,2,S,Ebert
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","and fills the film with wacky traps that would otherwise cost the McCallister""s tens of thousands of dollars to accomplish what Kevin does .",story_plot,2,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","While this is not far from the true , you""re supposed to suspend some disbelief when watching this .",expectation,3,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",I enjoy Home Alone because an 8 - year old handles two grown up burglars .,story_plot,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","I don""t enjoy watching people getting hurt ,",emotion,2,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","but I think in this case , there is an exception .",expectation,3,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","The moral of the story is that even when you""re young , you can still be responsible",themes_messages,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",and handle your home from being invaded .,themes_messages,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","It shows that it""s wrong to rob people",themes_messages,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",and that even children can be heroes .,themes_messages,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","However , I find that the sequel is much better than this and it""s due to the far superior story setup .",comparative_analysis,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",Kevin being left home alone was a great initial start and opening up to the opportunity of a follow up story .,story_plot,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","To review this film without the mention of Macaulay""s acting is a crime .",acting_performance,5,S,Macaulay
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","Macaulay portrays Kevin with amazing talent and it""s great for the simple fact that the 90s weren""t really big for their child actors as far as I can remember .",acting_performance,5,S,Macaulay
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","Macaulay is able to hit all ends of the acting spectrum showing being scared , showing emotion ,",acting_performance,5,S,Macaulay
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","and showing confidence and hilarious comedic relief , too .",acting_performance,5,S,Macaulay
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",He was a great actor and I was sad to only see a few of his films before he retired .,acting_performance,4,S,Macaulay
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",Another great point about Home Alone being a cult classic is the musical score provided by legendary John Williams .,audio_music,5,S,John Williams
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",He gives the film the final emotional touch that allows us to forever remember Home Alone as being a classic film,audio_music,5,S,John Williams
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","and never forget Macaulay""s performance .",acting_performance,5,S,Macaulay
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","Somewhere in My Memory has always been a favourite track of mine by Williams and it""s just a great piece of music on top of a great film .",audio_music,5,S,John Williams
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","This film is a classic for me ,",viewing_experience,5,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","and I would never say that this isn""t a wonderful film , despite being a tad bit unrealistic .",viewing_experience,4,S,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","But , the fact is , most films exaggerate",themes_messages,3,O,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+",and force you to suspend disbelief .,viewing_experience,3,O,None
+Jerique,8,7,8,7 April 2011," Better than Ebert thinks...
+","Don""t allow for this film not to be a favourite because you don""t think this sort of thing could happen .",recommendation,3,S,None
+lizs1289,10,6,7,17 December 2019," No remakes!
+",This is one of my favourite films,viewing_experience,5,S,None
+lizs1289,10,6,7,17 December 2019," No remakes!
+",but I have read that a new version is to be filmed in early 2020 .,commercial_context,3,O,None
+lizs1289,10,6,7,17 December 2019," No remakes!
+",NOooooooooo ! It does not need to be remade .,recommendation,1,S,None
+lizs1289,10,6,7,17 December 2019," No remakes!
+",It stands the test of time and is as funny now as it was on its release .,viewing_experience,5,S,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","It""s that time of year again , the time of year when it is acceptable to binge on Christmas films .",genre_style,3,O,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+",The first one I watched this year was Home Alone .,viewing_experience,3,O,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","It is a classic for me , certainly a child hood favourite ! The story is a very simple one ; Kevin McCallister ( Macaulay Culkin ) is accidentally left at Home over the Christmas as his whole family fly to Paris .",story_plot,3,O,Macaulay Culkin
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","They board the plane without realising that they have left one of their Children home alone ! Two small time robbers are also in the area , looking to break into houses , they target the McCallister household as they believe they are all away for the Christmas holidays .",story_plot,3,O,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","It is now up to Kevin to protect his house from the burglars by setting up traps and playing pranks , some of which are absolutely brilliant ! The two Robbers ; Marv & Harry , played by Daniel Stern & Joe Pesci , give fantastic performances .",acting_performance,5,S,"Daniel Stern, Joe Pesci"
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+",They portray the classic dumb & dumber routine .,acting_performance,4,S,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","Harry thinks he is the brains and sees himself as the leader & Marv plays the really stupid , gullible one who falls for much more simple traps .",character_development,3,O,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","The on screen chemistry between these two and the relationship they have is fantastic , it comes across very realistic and hilarious .",acting_performance,5,S,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+",Macaulay Culkin was 9 or 10 when Home Alone was filmed,commercial_context,3,O,Macaulay Culkin
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+",and given such a big role with this much screen time must have been a big challenge,commercial_context,3,O,Macaulay Culkin
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+",but he walked it and gave a very convincing performance .,acting_performance,5,S,Macaulay Culkin
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","The Home Alone films are pretty much all he has been known for , which is a shame really , he had a few other films",commercial_context,2,S,Macaulay Culkin
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+",but none are as well - known and successful as these .,commercial_context,3,O,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","Of course this isn""t the most realistic films",story_plot,2,S,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","and it does have massive plot holes and ridiculous scenarios , but who cares .",story_plot,2,S,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","It""s fun ! It""s Christmassy & It""s got great characters with some truly hilarious moments .",character_development,5,S,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","Overall , Home Alone is a very fun movie ; I have the relation to it as it was always on at Christmas when I was a child .",viewing_experience,4,S,None
+MUFCOK,9,6,7,8 December 2014," A Christmas Classic
+","But even if this isn""t the case , I""m sure many adults who are new to this will love it just the same as us who have fond memories of watching it as a child ! 8/10",viewing_experience,4,S,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",I HAVE REVIEWED OVER 400 ( C H R I S T M A S ) MOVIES AND SPECIALS .,commercial_context,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",BEWARE OF SOME REVIEWERS THAT ONLY HAVE ONLY ONE REVIEW .,recommendation,2,S,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",WHEN ITS A POSITIVE THERE IS A GOOD CHANCE THEY WERE INVOLVED WITH THE PRODUCTION .,recommendation,2,S,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",NOW I HAVE NO AGENDA ! I AM HONEST ! I REVIEW MOVIES & SPECIALS AS A WAY TO KEEP TRACK OF WHAT I HAVE SEEN ! I HAVE DISCOVERED MANY GEMS IN MY QUEST TO SEE AS MANY Christmas MOVIES AS I CAN .,recommendation,3,S,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","Maybe the most successful "" Christmas Movie "" of all time",commercial_context,4,S,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","and it""s easy to understand why .",viewing_experience,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",The film made Macaulay Culkin a household name,commercial_context,3,O,Macaulay Culkin
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",and the biggest child star since Shirley Temple .,comparative_analysis,3,O,Shirley Temple
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",In this film a child get left behind on accident in his Chicago home while his family has flown off for Christmas .,story_plot,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","This film takes place in Chicago , the McCallister family is preparing for a Christmas vacation in Paris .",story_plot,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","On the night before their departure , the entire family gathers at Peter and Kate""s home , where their son , Kevin , is ridiculed by his siblings and cousins .",story_plot,3,O,"Peter, Kate, Kevin"
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","After a scuffle with his older brother , Buzz , Kevin is sent to the third floor of the house , where he wishes that his family would disappear .",story_plot,3,O,"Buzz, Kevin"
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","During the night , heavy winds cause damage to power lines , which causes the alarm clocks to reset ; consequently , the family oversleeps .",story_plot,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","In the confusion and rush to get to the airport in time to catch their flight , Kevin is accidentally left behind .",story_plot,3,O,Kevin
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","Later , Kevin wakes up to find the house empty",story_plot,3,O,Kevin
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","and , thinking his wish has come true , is overjoyed with his new - found freedom .",story_plot,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","However , Kevin""s joy turns to fear as he encounters his next door neighbor , "" Old Man "" Marley , who is rumored to have murdered his family with a snow shovel in 1958 ; he also encounters the "" Wet Bandits "" , Harry and Marv , a pair of burglars who have been breaking into other vacant houses in the neighborhood and have targeted the McCallisters "" house .",story_plot,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+","Kevin initially manages to keep them away by making the house look as if the family is home ,",story_plot,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",but they eventually realize the deception .,story_plot,3,O,None
+Christmas-Reviewer,7,9,12,17 December 2016," Funny and has its Charms
+",This film is one of the best Christmas movies however at first it is a little slow on the set - up .,viewing_experience,4,S,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+","If you like a really good family film at Christmas , then there""s a big difference , there is no family in this film ( or at least for most of it ) .",themes_messages,3,S,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+",The McCallister family are preparing a Christmas holiday to Paris .,story_plot,3,O,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+",The night before they leave the youngest child of the family causes trouble,story_plot,3,O,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+",and is sent to bed early .,story_plot,3,O,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+",He wishes that the family would disappear .,story_plot,3,O,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+","The next morning , the family leave",story_plot,3,O,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+","and realise when they are in Paris that they have forgot one thing , Kevin ( Golden Globe nominated Macaulay Culkin ) ! Kevin now has all the fun that he wants .",story_plot,3,O,Macaulay Culkin
+jboothmillard,8,22,35,20 June 2005," Home Alone
+",Only problem is that two crooks Harry and Marv ( Joe Pesci and Daniel Stern ) are trying to get into the large house to loot it .,story_plot,3,O,"Joe Pesci, Daniel Stern"
+jboothmillard,8,22,35,20 June 2005," Home Alone
+","This is just wonderful for goofy live action gags , kids entertainment and Christmas fun .",viewing_experience,4,S,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+","Also starring John Heard as Peter McCallister , Roberts Blossom as Marley and Catherine O""Hara as Kate McCallister .",casting_choices,3,O,"John Heard, Roberts Blossom, Catherine O'Hara"
+jboothmillard,8,22,35,20 June 2005," Home Alone
+","It was nominated for the Oscars for Best Music for John Williams and Best Song for "" Somewhere in My Memory "" , it won the British Comedy Award for Best Comedy Film , and it was nominated the Golden Globe for Best Motion Picture - Comedy / Musical .",commercial_context,4,S,John Williams
+jboothmillard,8,22,35,20 June 2005," Home Alone
+","It was number 22 on The 100 Greatest Family Films ,",commercial_context,3,O,None
+jboothmillard,8,22,35,20 June 2005," Home Alone
+",and it was number 17 on The 100 Greatest Christmas Moments . Very good !,commercial_context,4,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+","My favorite movie is "" Home alone "" .",viewing_experience,4,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+",I think that this movie is interesting .,viewing_experience,3,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+",Because Kevin is intelligent about science .,character_development,3,O,None
+s2423115,7,7,9,17 December 2008," interest movie
+","If I defend my house , I can not defend my house as him .",character_development,3,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+","My most interest scene is Kevin fight thief , I think .",story_plot,3,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+",This scene is laughed scene .,emotion,3,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+",I really like this scene .,emotion,4,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+","And I also like Kevin""s intelligent .",character_development,4,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+","Because I don""t have his intelligent idea .",character_development,3,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+","By the way , There is a sequel in this movie .",commercial_context,3,O,None
+s2423115,7,7,9,17 December 2008," interest movie
+",I think that interesting movie is a sequel .,commercial_context,3,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+",I also like these movies sequel .,commercial_context,4,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+",But I have not remind this movie scene .,story_plot,3,O,None
+s2423115,7,7,9,17 December 2008," interest movie
+",I remind only scene is happy end .,story_plot,3,O,None
+s2423115,7,7,9,17 December 2008," interest movie
+","This movie is representing family is important , I think .",themes_messages,4,S,None
+s2423115,7,7,9,17 December 2008," interest movie
+","Also , Kevin is lonesome .",character_development,3,O,Kevin
+Op_Prime,Null,27,46,16 April 2000," Full of fun
+",Home Alone has a rather thin plot,story_plot,2,S,None
+Op_Prime,Null,27,46,16 April 2000," Full of fun
+",but makes up for it with all that cartoon - like violence .,story_plot,4,S,None
+Op_Prime,Null,27,46,16 April 2000," Full of fun
+",Joe Pesci and Daniel Stern give wonderful performances,acting_performance,5,S,"Joe Pesci, Daniel Stern"
+Op_Prime,Null,27,46,16 April 2000," Full of fun
+",and are the best thing in this movie .,acting_performance,5,S,None
+Op_Prime,Null,27,46,16 April 2000," Full of fun
+","Macaulay Culkin is an okay actor , nothing special , but okay .",acting_performance,3,S,Macaulay Culkin
+Op_Prime,Null,27,46,16 April 2000," Full of fun
+",Home Alone is best watched during the holidays .,recommendation,4,S,None
+Op_Prime,Null,27,46,16 April 2000," Full of fun
+",That is when it can be most enjoyed .,viewing_experience,4,S,None
+LordWimsey,8,3,3,1 January 2020," Chaotic and inventive at the same time
+","I had often heard people talking about this film , sometimes described as a bad one , sometimes described as a kind of must - see .",expectation,3,S,None
+LordWimsey,8,3,3,1 January 2020," Chaotic and inventive at the same time
+","So I watched it this year and am , actually , positively surprised or at least it wasn""t as bad as I sometimes heard .",expectation,4,S,None
+LordWimsey,8,3,3,1 January 2020," Chaotic and inventive at the same time
+","Poor little Kevin is left alone at his home , his family have forgotten him on flight to Paris to celebrate Christmas .",story_plot,3,O,None
+LordWimsey,8,3,3,1 January 2020," Chaotic and inventive at the same time
+","But while enjoying the being all alone , some shrewd burglars make his street unsafe ... Yes , it is sometimes chaotic and illogical",story_plot,2,S,None
+LordWimsey,8,3,3,1 January 2020," Chaotic and inventive at the same time
+","and reminds , as some critics say , in cartoons that wouldn""t work in a real film .",comparative_analysis,2,S,None
+LordWimsey,8,3,3,1 January 2020," Chaotic and inventive at the same time
+","Yet , Kevin acts like a creative and inventive boy to defend his family""s house .",character_development,4,S,None
+LordWimsey,8,3,3,1 January 2020," Chaotic and inventive at the same time
+",It is funny and you should have seen it once .,recommendation,4,S,None
+Zaid_Khoury,9,3,3,27 December 2019," A great Christmas movie
+","This movie type you just have to watch every year on Christmas , its a very cozy and feel good movie , its always nice to watch it with your family , get some hot chocolate ,",recommendation,5,S,None
+Zaid_Khoury,9,3,3,27 December 2019," A great Christmas movie
+",and some hot fudge brownies .,story_plot,3,O,None
+Zaid_Khoury,9,3,3,27 December 2019," A great Christmas movie
+","The plot is very smooth and you just enjoy it throughout , nobody could of played Kevin like Maculay Kulkin .",story_plot,4,S,Macaulay Culkin
+Zaid_Khoury,9,3,3,27 December 2019," A great Christmas movie
+","This movie is very fun , funny and a well rounded movie .",viewing_experience,4,S,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",Home Alone is a familiar movie from childhood .,viewing_experience,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",I was surprised how good that still is .,expectation,4,S,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",I last saw this movie about 15 years ago .,viewing_experience,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",Home Alone is still as fun as it was then before unlike some other movies of childhood .,viewing_experience,4,S,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",A main character is Kevin MacCallister ( Culkin ) who is a wild boy of a large family .,character_development,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",He is accidentally left home when the rest of the family has gone to Paris for the christmas vacation .,story_plot,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",Two other important characters are Harry ( Pesci ) and Marv ( Stern ) who are criminals .,character_development,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",The are going to rob valuable goods of houses which are empty during Christmas .,story_plot,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+","They don""t know Kevin is still at home .",story_plot,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+","Kevin protects home from the burglars while these try to rob his family""s house too .",story_plot,3,O,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",Movie contains some emotional moments along comedic scenes .,viewing_experience,3,S,None
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+","Culkin , Pesci and Stern are very good in this movie .",acting_performance,4,S,"Culkin, Pesci, Stern"
+mikavir,10,3,3,25 December 2019," This movie brings Christmas!
+",I think this is the best Christmas movie I have ever seen . 10/10,viewing_experience,5,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+",This has got to be one of the best Christmas movies ever made .,viewing_experience,5,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+",The story is simple yet unique .,story_plot,4,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+","The acting is not academy award worthy ,",acting_performance,2,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+","but Macaulay Cullkin has just enough charisma to carry the film , and of course Joe Pesci is great .",acting_performance,4,S,"Macaulay Culkin, Joe Pesci"
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+","Then you add John Williams score ,",audio_music,3,O,John Williams
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+",and the whole thing gets elevated to another level .,viewing_experience,4,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+","It has aged a little ,",expectation,3,O,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+",but it is still enjoyable to watch today .,viewing_experience,4,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+","If you""re looking for a movie to put you in the holiday spirit , look no further than Home Alone .",recommendation,4,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+",The sequel is pretty good too .,comparative_analysis,4,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+","A lot of rehashing ,",story_plot,2,S,None
+swaintastic,9,5,6,29 December 2019," Merry Xmas You Filthy Animals
+","but it""s still a good companion piece .",viewing_experience,4,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+",This an absurd storyline .,story_plot,2,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","Hollywood loves to show movies in which kids are smarter than adults , for some reason .",themes_messages,3,O,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","Also , we are expected to believe a big family can go all the way to the airport",story_plot,2,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","and then fly to France before finding out one of their kids was left at home ? ? ! I don""t think so .",story_plot,2,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+",I know a lot of big families,story_plot,3,O,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+",and this would never - in - a - million years happen .,story_plot,2,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","However , it""s just a movie ,",viewing_experience,3,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","and it isn""t real and you can""t take any of it seriously .",viewing_experience,2,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","Thus , the idea is to go along with the wild premise and enjoy the antics that follow ....",viewing_experience,4,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","And there are plenty of those ! A share of the credit for the big success of this film should go to God , who made Maccaulay Culkin""s face .",acting_performance,5,S,Maccaulay Culkin
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","Without it , I doubt this would have been anywhere near the hit is was ,",commercial_context,2,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","but Culkin""s "" cuteness "" helps makes you root for him and his facial expressions provide a lot of laughs .",acting_performance,4,S,Maccaulay Culkin
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+",He turned out to be a fine child actor .,acting_performance,4,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+",The two guys ( Joe Pesci and Daniel Stern ) that play incompetent crooks are funny,acting_performance,4,S,"Joe Pesci, Daniel Stern"
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","and some of the humor is clever , although slapstick "" rules "" in this film .",writing_dialogue,3,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","There are some really nice messages in here , such as "" families suck , "" says the kid .",themes_messages,4,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","Oh , well , some think this film did , too .",viewing_experience,3,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","I am not a big fan of it ,",viewing_experience,2,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+",but I did enjoy it along with most other people .,viewing_experience,4,S,None
+ccthemovieman-1,8,29,56,3 October 2006," That Face Helped Make This A Big Hit
+","I thought the sequel was better , though .",comparative_analysis,3,S,None
+alqassamomair,8,4,5,31 December 2019," Christmas Classic
+","Everyone knows this Christmas Classic , the original Home Alone tells a story about a kid who gets left home accidentally by his family who leave to go on holiday .",story_plot,3,O,None
+alqassamomair,8,4,5,31 December 2019," Christmas Classic
+","Of course , Macaulay Culkin ( McCallister ) decides that he wants to make the most out of this opportunity",character_development,3,O,Macaulay Culkin
+alqassamomair,8,4,5,31 December 2019," Christmas Classic
+",and does the stuff his family never lets him do .,story_plot,3,O,None
+alqassamomair,8,4,5,31 December 2019," Christmas Classic
+","However , this all changes with his chance run - in with the "" Wet Bandits "" , two burglars that are out on Christmas robbing houses .",story_plot,3,O,None
+alqassamomair,8,4,5,31 December 2019," Christmas Classic
+","Joe Pesci makes this movie great with his original personality , Daniel Stern adds the humour to the dynamic duo .",acting_performance,5,S,"Joe Pesci, Daniel Stern"
+alqassamomair,8,4,5,31 December 2019," Christmas Classic
+","All in all , definitely recommended for a family .",recommendation,4,S,None
+critony,10,4,5,28 December 2019," 10/10
+","Well watching this movie can""t stop laughting one of the best commedy ever made : D",viewing_experience,5,S,None
+valeviciutea,10,4,5,15 December 2019," Christmas vibes
+",This film is a very funny story about a boy which was left in the house alone .,story_plot,4,S,None
+valeviciutea,10,4,5,15 December 2019," Christmas vibes
+",This movie is for a family .,recommendation,3,O,None
+valeviciutea,10,4,5,15 December 2019," Christmas vibes
+",I liked it so much ! ! Watched it 10 or more times,viewing_experience,5,S,None
+valeviciutea,10,4,5,15 December 2019," Christmas vibes
+",but everytime it is interesting .,viewing_experience,4,S,None
+valeviciutea,10,4,5,15 December 2019," Christmas vibes
+",Watch it on christmas time ! ! !,recommendation,3,O,None
+pmc69,10,4,5,15 November 2019," Timeless classic
+",A must watch every Christmas for everyone .,recommendation,5,S,None
+pmc69,10,4,5,15 November 2019," Timeless classic
+",I know most adults who love this film . Yes its unrealistic,viewing_experience,3,S,None
+pmc69,10,4,5,15 November 2019," Timeless classic
+","but you take it for what it is , a timeless christmas classic .",themes_messages,4,S,None
+dockerykelli,10,4,5,6 July 2019," The PERFECT CHRISTMAS FILM!!!
+","Home Alone was / STILL IS A WONDERFUL MOVIE ! ! ! It""s PERFECT TO WATCH THROUGH THE HOLIDAY SEASON ! ! ! This movie DID NOT DISAPPOINT ! ! ! It has a GREAT CAST and a great storyline .",viewing_experience,5,S,None
+dockerykelli,10,4,5,6 July 2019," The PERFECT CHRISTMAS FILM!!!
+","It has laughter throughout the movie , love , and thrilling moments as well ! ! ! ! A+++ Film",emotion,5,S,None
+Kirpianuscus,Null,4,5,26 December 2016," special
+",The great virtue - its simplicity .,themes_messages,4,S,None
+Kirpianuscus,Null,4,5,26 December 2016," special
+","A story who escapes from surprises , inspired use of clichÃ © s , the role of life for the young Culkin and family humor in a fascinating style .",story_plot,3,S,None
+Kirpianuscus,Null,4,5,26 December 2016," special
+","Short - one of the dreams of each child , the great fear of each parent . And the danger .",story_plot,3,S,None
+Kirpianuscus,Null,4,5,26 December 2016," special
+","Few lovely scenes , so beautiful than defines the film as perfect , the gags , the resistance against bad guys , the chaos behind the trip , the competition between brothers are prepares for admirable meetings . A Christmas film .",story_plot,4,S,None
+Kirpianuscus,Null,4,5,26 December 2016," special
+",But a real special one .,viewing_experience,4,S,None
+Kirpianuscus,Null,4,5,26 December 2016," special
+",Because it is one of great occasions for rediscover the beauty and joy and force of life .,themes_messages,5,S,None
+Kirpianuscus,Null,4,5,26 December 2016," special
+",As an unique form of miracle .,themes_messages,3,O,None
+Peach-2,8,4,5,20 December 1998," Good family film.
+",Home Alone is a good family film . I enjoyed it .,viewing_experience,4,S,None
+Peach-2,8,4,5,20 December 1998," Good family film.
+",I saw the film with about 500 young children,viewing_experience,3,O,None
+Peach-2,8,4,5,20 December 1998," Good family film.
+",and it was an overwhelming experience .,viewing_experience,4,S,None
+Peach-2,8,4,5,20 December 1998," Good family film.
+","Although I didn""t think the film was as funny as they did , I had a great time listening to them laugh .",viewing_experience,4,S,None
+Peach-2,8,4,5,20 December 1998," Good family film.
+","Kids will laugh more than adults will ,",themes_messages,3,S,None
+Peach-2,8,4,5,20 December 1998," Good family film.
+","but I think that""s what this film is aiming to do .",themes_messages,3,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","When it comes to enjoying that jolly time of year , there are several movies that must be viewed or else it just isn""t Christmas .",recommendation,3,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","One of those is 1990""s "" Home Alone "" .",story_plot,3,O,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","Written and produced by the late , great John Hughes and directed by Chris Columbus , it follows the story of young Kevin McCallister ( Played by Macaulay Culkin , arguably the best child actor since Shirley Temple ) who""s constantly picked on",story_plot,3,O,"John Hughes, Chris Columbus, Macaulay Culkin, Shirley Temple"
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","and looked down upon by his large , extended family but especially by his older and much hated brother , Buzz ( Devin Ratray in what has to be his best role ) .",acting_performance,4,S,Devin Ratray
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","On the eve of the big family vacation , Kevin lashes out",story_plot,3,O,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","and gets sent to the attic by his impatient mom ( The talented and ravishing Catherine O""Hara ) and right then Kevin makes the prophetic wish of never seeing his family again .",acting_performance,4,S,"Catherine O""Hara"
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","Little does he know , his wish is about to come true when due to a convenient power outage , his parents "" alarm clocks fails to go off",story_plot,3,O,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","and the result is sheer holiday hell as everybody scrambles like there""s no tomorrow to catch that flight .",story_plot,3,O,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","Everybody that is , except little Kevin who""s forgotten by everyone and as the title says , is left home alone .",story_plot,3,O,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+",Shock turns to happiness as Kevin realizes his wish has come true .,emotion,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","But it""s not all fun and games as two naughty burglars Harry and Marv ( Joe Pesci and Daniel Stern who give a wonderful performance together as the two bumbling thieves ) are on the rampage in Kevin""s neighborhood .",acting_performance,5,S,"Joe Pesci, Daniel Stern"
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","Rather than running away like most kids might do , Kevin decides to fight back using his creativity and some simple but potentially bone shattering traps .",story_plot,3,O,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","It all might sound like a simple holiday comedy to be watched and then put away ,",genre_style,3,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","but there""s something more to the film that keeps me and many others coming back year after year .",viewing_experience,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","To be sure , the physical comedy of Harry and Marv getting their asses handed to them by Kevin""s traps is nothing short of a laugh riot ( Traps include anything from heated door handles to slippery steps ) .",story_plot,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","But the film also manages to include a lot of heart as Kevin slowly but surely begins to realize that family is what the holidays are all about and without them it""s pretty lonely , a lesson he learns first hand by the at first feared but then loved neighborhood recluse , Old Man Marley ( the late , great character actor Robert Blossom ) .",themes_messages,4,S,Robert Blossom
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+",John Williams score to this is undoubtedly one of his best as it is both grand and yet not overbearing in the least .,audio_music,5,S,John Williams
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","On the contrary , it manages to invoke the spirit of Christmas in all of us while giving us the chills because of its beauty .",emotion,5,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","And of course , who can forget the performance of Macaulay Culkin since the film rests on his shoulders more than anything else .",acting_performance,5,S,Macaulay Culkin
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","With his mischievous grin and resourcefulness , we just can""t help",character_development,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+",but love his character and root for him all the way through the film .,character_development,5,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","I should also mention that the movie includes a small but very memorable performance by the legendary John Candy ( Try not to laugh at the conversation he has with Kevin""s mom in the back of the van ! ) .",acting_performance,4,S,John Candy
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+",""" Home Alone "" is one of those films that no matter how many times you might see it , it just never gets old .",viewing_experience,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","The movie is a time capsule in many ways because it somehow captured not only the holiday spirit but also the magic of the time it was made in , the 90""s , a time where not only were the movies better but so was everything else .",themes_messages,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","It is for that reason that movie will live on forever and ever , much like the spirit of Christmas itself .",themes_messages,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","So without further adieu , I urge you to watch this modern classic",recommendation,4,S,None
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+","and if you""re ever going on big trip with the family , make sure that you have all your children ! Also starring John Heard and a host of other memorable actors .",casting_choices,3,O,John Heard
+bayardhiler,10,5,7,17 December 2013," Never Gets Old
+",Merry Christmas everyone ! ! ! ! ! ! !,emotion,4,S,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+","If you don""t like Home Alone then you""re either a robot or a zombie .",acting_performance,3,S,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",Home Alone was one of the best comedies of 1990 .,genre_style,4,S,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+","Macauley Culkin plays Kevin McAllister who as the title suggests , is left home alone when his family goes on a trip .",character_development,3,O,Macauley Culkin
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+","At first , he enjoys life as he gets the run of the house",story_plot,3,O,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",but soon starts to miss his family .,story_plot,3,O,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+","Then things get worse as two bumbling burglars played by Daniel Sterns and Joe Pesci target his house ... Although I was an adult when I watched this film , I could still see why Kevin McAllister appealed to kids around the world .",story_plot,3,O,"Daniel Stern, Joe Pesci"
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+","What child hasn""t wished they could spend some time alone in their house free to stay up and do what they want ? There are some fun scenes throughout especially one when the pizza delivery man comes calling .",story_plot,3,S,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",The burglars are very well played by Daniel Sterns and Joe Pesci ( both as clumsy as each other ) .,acting_performance,4,S,"Daniel Stern, Joe Pesci"
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+","At first , Kevin fools them making them believe he is not home alone",story_plot,3,O,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",but they soon become wise to his act,story_plot,3,O,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",and break in ... That is when the fun starts as Kevin uses dozens of household items to fight them .,story_plot,3,O,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",Everything from irons ( which he uses to hit their heads ) to christmas decorations with sharp ends which Daniel Sterns steps on .,story_plot,3,O,Daniel Stern
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+","It""s hard not to thoroughly enjoy a film like this , especially as it appeals to all of us ( adults and children ) who have wished we could just have the house to ourself",viewing_experience,4,S,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",and do what we please .,viewing_experience,3,S,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",This is a great film which I thoroughly recommend,recommendation,5,S,None
+Big Movie Fan,Null,5,7,17 November 2002," Fantastic Fun-Filled Film
+",and it was followed by two great sequels .,commercial_context,4,S,None
+bevo-13678,10,2,2,29 March 2020," Timeless classic
+",I like the bit when he slaps on aftershave and then screams,story_plot,4,S,None
+michaeltrivedi,7,2,2,9 December 2019," Really Wanted to Give an 8
+",Incredible movie . Best in class .,viewing_experience,5,S,None
+michaeltrivedi,7,2,2,9 December 2019," Really Wanted to Give an 8
+",Christmas movies at their very best . Culkin is great .,genre_style,5,S,Culkin
+michaeltrivedi,7,2,2,9 December 2019," Really Wanted to Give an 8
+",The antics he pulls are a must see .,story_plot,5,S,None
+michaeltrivedi,7,2,2,9 December 2019," Really Wanted to Give an 8
+",Storyline goes by in a flash but so fun .,story_plot,4,S,None
+michaeltrivedi,7,2,2,9 December 2019," Really Wanted to Give an 8
+",Must see ! ! ! 7 stars,recommendation,5,S,None
+sykesm-25135,8,2,2,17 August 2019," Good VS Evil
+",Dude ... What a great movie ! There are so many things wrong with it,viewing_experience,4,S,None
+sykesm-25135,8,2,2,17 August 2019," Good VS Evil
+",and so many things I could predict,story_plot,3,O,None
+sykesm-25135,8,2,2,17 August 2019," Good VS Evil
+",but dear god was that a good movie ! I WILL watch this movie every single Christmas season to get into the spirit,viewing_experience,5,S,None
+sykesm-25135,8,2,2,17 August 2019," Good VS Evil
+",and I will LOVE every single minute of it every single time ! This is the perfect Christmas movie for anyone who feels alone or hates the season ! It will open your heart,viewing_experience,5,S,None
+sykesm-25135,8,2,2,17 August 2019," Good VS Evil
+","and make you believe again in the things that are good ! It""s a true triumphant battle of good vs evil",themes_messages,4,S,None
+sykesm-25135,8,2,2,17 August 2019," Good VS Evil
+",and is done in such a fashion that is seen by the eyes of an honest child ! Watch this,story_plot,3,O,None
+sykesm-25135,8,2,2,17 August 2019," Good VS Evil
+","and tell me you don""t love it .... Watch it , I dare you !",recommendation,4,S,None
+adhaddadinrockz,10,3,4,15 December 2019," What can I say?
+",A masterpiece . I adore this movie and I adore this movie,viewing_experience,5,S,None
+adhaddadinrockz,10,3,4,15 December 2019," What can I say?
+","and I adore it and that""s it .",viewing_experience,5,S,None
+ericzau,10,3,4,14 December 2019," Absolute timeless classic
+",In my mind the best Christmas movie you can watch we watch it every year around the christmas time and it still holds up so well,viewing_experience,5,S,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",I was two years old when Home Alone came out in 1990 .,story_plot,3,O,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",I grew up watching this as a kid,story_plot,3,O,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",and I still like the film to this day .,viewing_experience,4,S,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",Christmas is coming and I watch it whenever the holidays are coming .,viewing_experience,3,O,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",Joe Pesci and Daniel Stern are hilarious as Harry and Marv .,acting_performance,5,S,"Joe Pesci, Daniel Stern"
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+","The greatest comedy duo of the early 1990""s .",acting_performance,4,S,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+","Kevin""s traps are awesome and funny .",character_development,5,S,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",I laugh when Harry and Marv get hit .,emotion,4,S,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+","Kevin""s the smartest 8 - year - old kid",character_development,4,S,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",and he always win by beating up Harry and Marv .,story_plot,3,O,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+","Everyone needed a good laugh and I""m one of them .",emotion,4,S,None
+abalpn-99472,10,3,4,1 December 2019," It's still a classic and holiday film to me. Well done, Chris Columbus.
+",There are touching moments and hilarious moments .,emotion,4,S,None
+csteinmayer-25141,10,3,4,1 December 2019," Home awesome
+",John Hughes was sent by God to warm our hearts . I love this movie .,filmmaking_direction,5,S,John Hughes
+csteinmayer-25141,10,3,4,1 December 2019," Home awesome
+",Perfect in every way .,viewing_experience,5,S,None
+csteinmayer-25141,10,3,4,1 December 2019," Home awesome
+","Great cast , great story , lots of comedy and heart .",casting_choices,5,S,None
+csteinmayer-25141,10,3,4,1 December 2019," Home awesome
+",Seriously if you hate this movie you must be a sad human being .,emotion,2,S,None
+csteinmayer-25141,10,3,4,1 December 2019," Home awesome
+","It""s not great art ,",themes_messages,2,S,None
+csteinmayer-25141,10,3,4,1 December 2019," Home awesome
+",but it was never meant to be .,themes_messages,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",This is one of my favorite movies of all time as well as one of my favorite Christmas films .,viewing_experience,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","It""s also another one of my childhood gems , it""s was just so much fun for so many reasons",viewing_experience,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",but also heartfelt at the same time .,emotion,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I really like the plotline as it""s sort of a wishfulment fantasy being the man or woman of the house",story_plot,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and just having complete freedom to do whatever you want,story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and make your own rules .,viewing_experience,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","There is so much to like , from the production value , which is great , really like how the traps were set up and conducted .",artistic_design,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Even the music is great , from some soundtrack bits",audio_music,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","but it""s really the score by one of my favorite composers John Williams which makes it the most memorable .",audio_music,5,S,John Williams
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","From that theme song which is one of my favorite themes of all time , as it has both a Christmas tune",audio_music,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",but at the same time a sense of foreboding as it reminds us as fun and cheerful as the film is there is still trouble in paradise .,themes_messages,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But another tune which is "" All of my Memories "" is just beautiful",audio_music,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and perfectly reflects the theme of the film .,themes_messages,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I really like the characters , from the Wet Bandits Harry and Marv played well by Joe Pechi and Daniel Stern .",acting_performance,4,S,"Joe Pechi, Daniel Stern"
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Both your classic comic duo much like Abbot and Costello and any other you can think about , both are so much fun as both are pretty much numb skulls .",comparative_analysis,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",Well Harry is more the smart one of the bunch as it seems like he the only one that really supplies the brain power of their schemes .,character_development,3,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","However , this guy is no genius as his Achilles heel is that he""s arrogant thinking he""s so clever",character_development,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and listens too much to his own greed which we know both these things can make people stupid or do some stupid crap .,themes_messages,3,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Marv is pretty much Harry""s flunky as he""s dumb .",character_development,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But what makes him really funny is how he""s a bit of a man child sometimes , like having these delusions of grangur in being one of the most famous criminals in history by leaving the water running as their calling card as "" The Wet Bandits "" , despite the fact he clearly needs a reality check as he""s just increased their chances of getting caught and identified .",character_development,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But I really love some of his lines , he""s got some great lines , one of my favorites "" he sounded like a snake "" I know a small line",writing_dialogue,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","but it""s funny on two counts .",writing_dialogue,3,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But of course , my favorite character is the main protagonist Kevin McCallister played well by Macaulay Culkin .",acting_performance,4,S,Macaulay Culkin
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I really like that he""s not some stereotypical annoying all smiles kid .",character_development,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Kevin really felt like a real kid whom is a relatable character as some of what he""s gone though is some of the things that we may have experienced a time or two in our lives when we were kids .",character_development,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","It""s interesting what kind of household he lives in which must be the busiest household I""ve ever seen as it seems populated with twenty plus people .",story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I remember whenever I watch the film , I always wonder who that person or the other in the family is .",story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I honestly wouldn""t mind if they made some sort of TV program ( on a premium channel ) called "" The McCallister""s "" where we could see Kevin and the rest of the family years later , get to know the rest of them and see what shanagans they get into .",story_plot,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","If not there""s always a licensed comic book , follow up ;",commercial_context,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and if one or both these happened it would be the true third sequel .,commercial_context,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Well , it""s a nice thought anyway .",emotion,3,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Alright back to Kevin , he""s charismatic , has some of the best lines in the film .",character_development,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","My favorite from him is "" This is it , don""t get scared now "" yeah that""s the kind of line I use whenever there is a final battle in certain Horror movies or survival horror video games .",writing_dialogue,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","The film is almost at times like a one man play sometimes as in most scenes Kevin has only himself to talk to ,",character_development,3,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","but he does it so well because he""s got a lot of interesting things to say .",acting_performance,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I really love how smart he is , this guy you could say could almost be a genius as he""s a tactician , from building those elaborate traps .",character_development,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","However , he is still naive like a child which increases the relatability factor as we""ve been through that .",character_development,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Like one of my favorite scenes is seeing Kevin dig though Buzz""s trunk",story_plot,4,S,"Kevin, Buzz"
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and he first looks though a Playboy magazine,story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","and says one really funny line that cracked me up "" No clothes on anyone sickening "" , yeah that what most of us and myself felt at Kevin""s age .",writing_dialogue,4,S,Kevin
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","However , the one thing about him that makes him the most enduring is he is highly sympathetic . He has a big family",character_development,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","but he is the only one that is the most underappreciated , doesn""t really get much attention nor help when he needs",character_development,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","and asks for it , none of the breaks and for some fraked up reason seems to be the target of ridicule for most family members , seriously what the frak is everyone""s problem .",character_development,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Like in one scene he is trying to ask some people to help him pack a suitcase as he""s never done it before , which is understandable because he""s still really little which means there are a lot of things , he""s never done himself before .",story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But of course no one is or wants to help him do it , seriously not one member could take five to ten minutes of their life to show / help him pack , it wouldn""t of killed them instead they act like they have more important things to do which they don""t .",story_plot,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","The worst of all is Buzz , this is a guy you sort of love to hate as he""s kind of funny or even just plain hate as he really presses a wrong button with you .",character_development,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","What I really don""t like about the guy is that he""s is just so full of crap ; from that story he tells both Kevin and another brother about a neighbor you just see as he""s telling that he has a crap eating grin on his face , so you know the story is bull crap just to get cheap amusement .",character_development,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","And another which was eating Kevin""s Cheese Pizza on purpose and insulting Kevin once more , thinking he""s so funny which pushes Kevin over the edge .",story_plot,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I really love that Kevin retaliated , I""d do the same thing any bully that ever takes away my Cheese Pizza or even video game playing are going to meet Goku and Vegetta ( my left and right fists ) ; I know that sounds bold",emotion,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",but human right need to be defended .,themes_messages,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Sadly , Kevin unfortunately get punished for something that wasn""t his fault , let alone doesn""t even have dinner .",story_plot,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But the last part of that scene are really sad when instead of the mom talking and exercising understanding with Kevin to hear what really happened , she just retorts in a mocking and insulting tone , which I thought was uncool , I guess she forgot the old saying "" if you have nothing nice to say , don""t say anything at all "" At that moment I just knew that was the final straw",character_development,2,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and Karma was about to come down on the family hard .,story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","There are so many great and memorable scenes and moments throughout the film , so there is hardly a dull moment .",viewing_experience,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",One of my favorite scenes no doubt is when Kevin is watching a gangster pic,story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","and of course he""s eating probably the biggest ice cream sundae I""ve ever seen , man I can never eat that many scoops .",viewing_experience,3,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","That film he watches is great , I honestly thought that was a real movie but no it""s not .",viewing_experience,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",This is something as kids we always dreamed about which was to see Rated R films without restrictions .,viewing_experience,3,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",I just love the exaggerated nature of the film as we see the lead gangster Johnny solve his dilemma with a Tommy Gun ( yeah that does work every time in those pics ),story_plot,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","and he just says one of my favorite movie quotes that cracked me up , "" Keep the change you filthy animal .",writing_dialogue,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",""" But I really like Kevin""s reaction to that film as he""s closing his eyes despite the fact there is no gore or squib effects .",character_development,4,S,Kevin
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But for a kid his age that would be considered graphically violent and not something he""s totally used to seeing .",story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",And this joke with the gangster movie gets funnier as we see it used in two different scenes in two different ways .,story_plot,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","And of course , there is the famous big battle near the end of the film which is in my book one of my favorite battles of all time .",story_plot,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","It""s basically a home invasion battle which I think is cool because it""s sort of like a strategy game battle , since the battle takes place on your own turf it makes you the general , giving you plenty of opportunities to tactically take out invaders whichever area they occupy .",story_plot,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","But of course , it""s pretty much a slap stick/ physical comedy fest as we see the Wet Bandits constantly getting hurt by Kevin""s traps",genre_style,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","and miraculously surviving , this was just hilarity at it""s best , it made me laugh till it hurt .",emotion,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","I""ll just say a couple of my favorites as I don""t want to give too much away , from the first scene seeing Kevin use the BB gun on both robbers , it""s just funny how Harry reacts to the pain and he is just saying a bunch of gibberish in frustration .",story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Another of course is the nail trap , it""s funny because of just the delayed reaction as it pain doesn""t even register until a little latter",story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",and I just laughed along the way .,emotion,5,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","However , despite all the fun of the film this film has heart as the revolving theme is about appreciating family .",themes_messages,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","There is one scene I found sad when Kevin is looking at a family whom is home for the holiday""s enjoying Christmas , he has a sad look on his face , which I""ll admit put a tear in my eye .",emotion,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",That scene shows what Kevin truly wanted which was simply to have Christmas with his family .,themes_messages,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","Or even some bits with the family feeling guilt over the loss of Kevin from the mom evaluating her own parenting and a member or two not enjoying their time in Paris as they know in their hearts it""s not a real vacation as their family is incomplete .",story_plot,3,O,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+","This just makes the pay off even sweeter , I""ll just say both Kevin and the Macalister""s get what they want for Christmas .",story_plot,4,S,None
+hellraiser7,10,3,4,28 November 2019," Home for the Holidays
+",No one is ever alone for the holidays as long as there are still people that love you . Rating : 4 stars,themes_messages,4,S,None
+pobodysnerfect-90918,10,3,4,16 November 2019," So funny! A true classic
+","I""d wager that out of 100 people at LEAST 99 people would like this movie .",viewing_experience,4,S,None
+pobodysnerfect-90918,10,3,4,16 November 2019," So funny! A true classic
+","It""s funny , timeless , and actually has a plot , unlike a lot of kids movies .",story_plot,4,S,None
+pobodysnerfect-90918,10,3,4,16 November 2019," So funny! A true classic
+","It""s a must see for your Christmas season !",recommendation,4,S,None
+view_and_review,9,3,4,10 November 2019," Timeless Classic
+",Home Alone was made by the last half - hour of that movie .,story_plot,2,S,None
+view_and_review,9,3,4,10 November 2019," Timeless Classic
+","Not that the rest of the movie wasn""t good , it""s just that the end was so spectacular .",story_plot,4,S,None
+view_and_review,9,3,4,10 November 2019," Timeless Classic
+",Till this day the most memorable parts of the movie are the traps Kevin ( Macaulay Culkin ) set for the thieves .,story_plot,5,S,Macaulay Culkin
+view_and_review,9,3,4,10 November 2019," Timeless Classic
+","They were ingenious , effective , hilarious , and timeless .",story_plot,5,S,None
+view_and_review,9,3,4,10 November 2019," Timeless Classic
+",My daughter laughed at the same things I laughed at 29 years ago .,emotion,4,S,None
+hlazzelltyler,10,3,4,28 October 2019," A Yearly Christmas Tradition
+",Home Alone has turned into a Christmas classic that has become a must watch every year for my family .,commercial_context,4,S,None
+hlazzelltyler,10,3,4,28 October 2019," A Yearly Christmas Tradition
+","It joins other Christmas favorites such as Elf , The Santa Clause , Christmas With The Kranks , (",comparative_analysis,3,O,None
+hlazzelltyler,10,3,4,28 October 2019," A Yearly Christmas Tradition
+",and of course Die Hard ) .,comparative_analysis,3,O,None
+hlazzelltyler,10,3,4,28 October 2019," A Yearly Christmas Tradition
+","These cult classics have earned their place beside the older favorites like A Christmas Carol , Miracle on 34th Street , and It""s a Wonderful Life .",comparative_analysis,3,O,None
+axelbuddy,9,3,4,8 October 2019," Undeniable classic
+",This is one of the most heartwarming and touching Christmas movies ever made .,emotion,5,S,None
+axelbuddy,9,3,4,8 October 2019," Undeniable classic
+","It has the right amount of comedy , emotional moments etc .",viewing_experience,4,S,None
+axelbuddy,9,3,4,8 October 2019," Undeniable classic
+",That you would want .,viewing_experience,3,O,None
+axelbuddy,9,3,4,8 October 2019," Undeniable classic
+",It also has a good message in the movie .,themes_messages,4,S,None
+axelbuddy,9,3,4,8 October 2019," Undeniable classic
+",I would definitely recommend it .,recommendation,5,S,None
+ToonEugen6812,10,3,4,1 June 2019," Awesome and comedic movie
+","It""s a movie that I really have laughed at in certain sections ! The plotline is also interesting , as it takes place during Christmas . Great classic !",viewing_experience,5,S,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+",Home alone is a classic comedy and adventure movie which was made in 1990 .,genre_style,3,O,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","It stars Macaulay Culkin ( Kevin ) , who played Kevin .",character_development,3,O,Macaulay Culkin
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+",The movie does a great job showing some themes like broken family .,themes_messages,4,S,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","Kevin is left alone by himself not on purpose ,",story_plot,3,O,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+",but he has to take responsibility .,character_development,3,O,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","He is brave and doesn""t fear anyone .",character_development,4,S,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","Also , the movie raises a variety of scary moments .",story_plot,3,O,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","Strange noises play an important role , those normally scare children ,",audio_music,3,O,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","but for Kevin it didn""t scare him , when the bad guys were trying to kidnap him .",emotion,3,O,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+",He set traps for them meaning he was not scared of anyone .,character_development,3,O,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","His ingenuity , approach to problems , kept the movie entertaining ,",viewing_experience,4,S,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","and always kept me to my seat , wondering what would happen next .",story_plot,4,S,None
+oliviaamoako,9,3,4,22 April 2019," Classic movie
+","I would rate this a 4 out of 5 , this is one of my favorite movies .",recommendation,4,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",Home Alone directed by Chris Columbus is easily the best Christmas comedy ever made .,commercial_context,5,S,Chris Columbus
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+","Growing up with this film means there""s definitely a sentimental love for it .",emotion,4,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",But upon recent viewing I can really see why this movie has been loved for decades .,expectation,4,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+","The writing , casting and direction is prefect .",writing_dialogue,5,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",Home Alone is such a well made film .,filmmaking_direction,4,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",The performances are some of the best in the genre .,acting_performance,5,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",The script is so compelling with its successful humour and authentic line delivery .,writing_dialogue,5,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",One thing that makes this movie so memorable is the outstanding score by John Williams .,audio_music,5,S,John Williams
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",He captures everything from the Christmas spirit to moments of serious tension .,themes_messages,4,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+","This movie also contains such a deep message around family with necessary character arcs , which are able to relate to both adults and children .",themes_messages,4,S,None
+charbelelaro,9,3,4,2 April 2019," Home Alone will forever be a Christmas classic
+",Home Alone will forever be a Christmas classic so therefore I give it a 9 .,viewing_experience,5,S,None
+leepiffy84,9,3,4,15 November 2018," THE best christmas film Ever!
+","I m 34 now and i watch all the corny cheesy xmas movies , i love them .",viewing_experience,5,S,None
+leepiffy84,9,3,4,15 November 2018," THE best christmas film Ever!
+",But this is number 1 for me and home alone 2 is my 2nd favourite .,viewing_experience,5,S,None
+leepiffy84,9,3,4,15 November 2018," THE best christmas film Ever!
+",Yes its unrealistic and a little cheesy,story_plot,2,S,None
+leepiffy84,9,3,4,15 November 2018," THE best christmas film Ever!
+","but my god its funny ! Harry and marv are just as good as kevin in the movie with marv being particulary funny ! It has christmas spirit , it has laughs galore some good acting and a decent but unrealistic story , the kids will love it ! I only wish they made the 3rd with the same characters it could genuinley have been one of the greatest trilogies ever made ! How its at 7 .",viewing_experience,5,S,None
+leepiffy84,9,3,4,15 November 2018," THE best christmas film Ever!
+","5 on here is beyond me ! The best christmas movie ever made , a classic !",viewing_experience,5,S,None
+Ajk2386,10,3,4,15 November 2018," Childhood classic Christmas movie
+",Kevin McCallister is part of a huge family including his big brother Buzz and his uncle Frank,character_development,3,O,None
+Ajk2386,10,3,4,15 November 2018," Childhood classic Christmas movie
+","and he feels that everyone is against him because his parents don""t like his behavior and he gets sent up to the attic and wishes he never had to see his family again .",character_development,3,O,None
+Ajk2386,10,3,4,15 November 2018," Childhood classic Christmas movie
+",Kevin is accidentally left home alone while his family is on vacation,story_plot,3,O,None
+Ajk2386,10,3,4,15 November 2018," Childhood classic Christmas movie
+",and of course he is very happy about making his family disappear,emotion,4,S,None
+Ajk2386,10,3,4,15 November 2018," Childhood classic Christmas movie
+",but now he has to defend himself and his house from two burglars .,story_plot,3,O,None
+Ajk2386,10,3,4,15 November 2018," Childhood classic Christmas movie
+",This is a funny and well directed movie with great preformances,filmmaking_direction,5,S,None
+Ajk2386,10,3,4,15 November 2018," Childhood classic Christmas movie
+",and it will never get old .,viewing_experience,5,S,None
+areatw,8,3,4,24 December 2016," There's only one Home Alone
+","Well ... There""s 5 , but there""s only one Home Alone series , and no matter how many movies try to copy the idea , none of them will ever come close to the original Home Alone .",comparative_analysis,3,S,None
+areatw,8,3,4,24 December 2016," There's only one Home Alone
+","This is one of the most enjoyable , fun movies ever made ,",viewing_experience,5,S,None
+areatw,8,3,4,24 December 2016," There's only one Home Alone
+",and will continue to be for years to come .,viewing_experience,5,S,None
+areatw,8,3,4,24 December 2016," There's only one Home Alone
+",""" Home Alone "" is such an iconic Christmas movie",themes_messages,4,S,None
+areatw,8,3,4,24 December 2016," There's only one Home Alone
+","and there isn""t a year goes by without it appearing on our televisions over the festive period .",commercial_context,3,O,None
+areatw,8,3,4,24 December 2016," There's only one Home Alone
+","It is such a crowd - pleaser , a movie that can be enjoyed by anyone , regardless of age and movie preference .",viewing_experience,5,S,None
+areatw,8,3,4,24 December 2016," There's only one Home Alone
+","Frankly , if you don""t like "" Home Alone "" , there must be something wrong with you ! Merry Christmas ya filthy animals !",viewing_experience,4,S,None
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+",This movie is a classic in so many ways .,viewing_experience,4,S,None
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+",Macaulay Culkin is brilliant in his most famous role .,acting_performance,5,S,Macaulay Culkin
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+",I have watched Home Alone many times,viewing_experience,3,O,None
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+","and have never tired of Mac""s genius and incredible talent .",acting_performance,5,S,Macaulay Culkin
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+","It""s amazing how such a young actor can carry a movie with such seemingly effortless style and boundless enthusiasm .",acting_performance,5,S,Macaulay Culkin
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+",The movie works on so many levels .,viewing_experience,4,S,None
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+","Enjoy it as a carefree comic romp , or a comment on the dysfunctionality of the modern family , or a tribute to the independent spirit of the younger generation .",themes_messages,4,S,None
+RaveCulk,10,4,6,20 November 1998," The best comedy ever made
+",Culkin is a genius !,acting_performance,5,S,Macaulay Culkin
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",The first time I saw this film was when I was a child,viewing_experience,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",and it pleased me a lot because I only saw its comic side .,viewing_experience,4,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","I saw it recently and it disappointed me although the story is original : during Christmas holidays , the McCallister family decided to celebrate Christmas at Paris , unfortunately they forgot one of their children .",story_plot,2,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","First of all , Kevin is elated",character_development,4,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",but he realizes that two thieves want to burgle his house .,story_plot,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","In order to get rid of them , he puts in several traps ; the thieves are under arrested",story_plot,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",and Kevin finds again his family .,story_plot,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","If I had to choose one adjective to judge this film , it would be the term : conventional .",viewing_experience,2,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",Several sides of the film are showing it .,viewing_experience,3,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","For example , Kevin""s family seem to ignore and despise him",character_development,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","and consequently he feels rejected and outraged and , at the end , his family and especially his mother discovers how much she loves him , moreover , they say that Kevin""s neighbour is a killer and he""s got a wicked reputation",story_plot,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","but Kevin finds out that he""s not a murderer",story_plot,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",and he had an unhappy life .,character_development,3,O,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",Not only is the film conventional,writing_dialogue,2,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","but the screenplay is sometimes predictable : when Kevin finds out that is "" home alone "" he wants to have fun as much as he can , and finer feelings are often put forward .",writing_dialogue,2,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","Nevertheless , Daniel Stern and Joe Pesci , the two thieves are very entertaining and the sequence where they have to endure Kevin""s traps is very funny .",acting_performance,4,S,"Daniel Stern, Joe Pesci"
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+","At last , I think that this film was especially made for children and young teenagers",recommendation,3,S,None
+dbdumonteil,Null,9,18,10 June 2002," an average conventional comedy
+",and it was useless to make it follow by two poor sequels .,commercial_context,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Take a cheeky eight - year - old , put him in a situation he has to slapstick his way out of with the kind of antics most cartoon characters wouldn""t survive , and what you have is one of the most wildly popular , commercially successful comedies of all time .",commercial_context,5,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","And when it""s over , though most likely you""ll have had a good time , you""ll be tempted to ask the question : Why ? Because ` Home Alone , "" directed by Chris Columbus and written by John Hughes , is mediocre at best , though it does have it""s moments .",filmmaking_direction,2,S,"Chris Columbus, John Hughes"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","It""s a matter of the filmmakers being very astute , perhaps , and wisely mixing in a potpourri of elements with universal appeal and touching upon that common nerve they calculated would give just about anyone in the audience something to which they could relate .",filmmaking_direction,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",And they were right .,viewing_experience,3,O,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Kids , Christmas , family , vacation , independence , a scary situation ; it""s all in here .",story_plot,3,O,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","But , interestingly enough , it lacks the sentimental value that would seemingly have made this a movie one could truly embrace .",themes_messages,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","As it is , it""s engaging fare ,",viewing_experience,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","but somehow manages to keep the viewer at arm""s length .",viewing_experience,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Then again , maybe that""s even part of the appeal ; it may be that audiences at this particular time and place were more comfortable just watching without having to invest anything of themselves in order to have a good time .",themes_messages,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","This was , after all , 1990 , and this film played to a generation weaned on more than a decade of Saturday Night Live , whose keen sense of biting satire and parody definitely had an influence on the mind - set of audiences everywhere .",comparative_analysis,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","And is that a bad thing ? No , absolutely not .",viewing_experience,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",It merely points up one possible reason why a film centered around an eight - year - old with a somewhat derisive attitude could be so wholeheartedly received .,story_plot,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Also , it may be that the second half of the film , with it""s over - the - top slapstick , is what made the final impression on the audience .",editing_pacing,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","And this IS funny stuff ; and it""s going to get to even those who usually prefer humor that doesn""t involve slapstick , because it""s so well done .",viewing_experience,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Again , credit the filmmakers with having their fingers on the pulse of our culture and standards at the time .",filmmaking_direction,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","But you also have to give credit to Joe Pesci and Daniel Stern who bring the ` Wet Bandits , "" Harry and Marv , to life ,",acting_performance,4,S,"Joe Pesci, Daniel Stern"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","and know how to put across this kind of comedy , which is no easy task .",acting_performance,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","The story itself is simple : The extended McCallister family sets off for a Christmas vacation in Paris ,",story_plot,3,O,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","and inadvertently , Kevin ( Macaulay Culkin ) gets left behind . Left alone . At home .",story_plot,3,O,Macaulay Culkin
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Where , rising to the occasion beyond anything even the most prodigious teenager could manage , he discovers the thrill of being independent",character_development,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",and thwarts a pair of bungling burglars in the balance .,story_plot,3,O,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Meanwhile , mom and dad ( Catherine O""Hara as Kate , John Heard as Peter ) go out of their minds when they get to Paris",story_plot,3,O,"Catherine O'Hara, John Heard"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",and discover what has happened .,story_plot,3,O,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","If only they knew what an ingenious and imaginative son they had ... Culkin is certainly a cute kid ,",casting_choices,4,S,Culkin
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","but can he act ? Well , the jury is still out on that one .",acting_performance,3,S,Culkin
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","It""s hard to say , since the dialogue he is given is so ridiculously above that of an eight - year - old ,",writing_dialogue,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","and the situations he encounters are so far - fetched , that there is no real frame of reference by which to consider it objectively .",story_plot,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","His timing and rhythm are lacking , however , that much is clear .",acting_performance,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","His responses-- or , if you will , the punch lines he delivers-- are always a beat behind what they should be .",acting_performance,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","And it robs the humor of the spontaneity that would have made it funnier , even hilarious .",acting_performance,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","As it is , the only real laughs come from Kevin""s assault on the Wet Bandits ,",story_plot,3,O,Kevin
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",and there are plenty to be had there .,story_plot,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Pesci and Stern become the real stars of the show as they play out their slapstick antics , which are truly deserving of the laughs they generate .",acting_performance,5,S,"Pesci, Stern"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",Their expressions of incredulity in the face of the violence that is visited upon them is what makes this movie .,acting_performance,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Everything else merely sets the stage for Harry and Marv""s descent into the maelstrom .",story_plot,3,O,"Harry, Marv"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","And what Pesci and Stern do here should not be taken for granted , nor taken lightly artistically .",acting_performance,4,S,"Pesci, Stern"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","To put this kind of humor across takes some real talent on the part of consummate professionals ,",acting_performance,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",and Pesci and Stern certainly deliver it .,acting_performance,5,S,"Pesci, Stern"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Their secret ? They play it straight , which keeps the silliness out of it .",acting_performance,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Had they played it strictly as farce , it simply wouldn""t have had the same impact ;",acting_performance,3,O,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","but by playing to the characters in the situation , rather than to a situation involving characters , it works .",acting_performance,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","And , once again , chalk up another one for Columbus and Hughes , who really know how to deliver this kind of material .",filmmaking_direction,4,S,"Columbus, Hughes"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","The only truly poignant moment in the film involves Kevin""s encounter with a mysterious neighbor , ` Old Man Marley , "" played wonderfully by character actor / poet Roberts Blossom .",acting_performance,5,S,Roberts Blossom
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","The revelation of his secret earlier in the film sets up the purest moment of the ending ,",story_plot,3,O,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","and though it is brief , it""s inspired and adds a much needed perspective to the story .",story_plot,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","The supporting cast includes Devin Ratray ( Buzz ) , Angela Goethals ( Linnie ) , Gerry Bamman ( Uncle Frank ) , Hillary Wolf ( Aunt Leslie ) , Ralph Foody ( Gangster Johnny ) , Billie Bird ( Irene ) , Bill Erwin ( Ed ) and John Candy , memorable in the role of Gus Polinski , the Polka Band shuttle Chief .",casting_choices,4,S,"Devin Ratray, Angela Goethals, Gerry Bamman, Hillary Wolf, Ralph Foody, Billie Bird, Bill Erwin, John Candy"
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","Considering the ratio between this movie""s substance and the success it still enjoys today , ` Home Alone "" is something of an anomaly in the history of the genre . It lacks insight ,",genre_style,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",yet delivers some real belly laughs .,viewing_experience,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","It lacks a single character the audience can truly embrace ,",character_development,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",yet is accepted overwhelmingly as is .,viewing_experience,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","It lacks inspiration ,",themes_messages,2,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",yet is an inspired film in the way it is crafted and delivered .,filmmaking_direction,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","It""s one you""re probably going to like and enjoy ,",viewing_experience,4,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","but upon reflection may wonder , ` Why .",emotion,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+",""" And the answer ? Who can say . Go figure .",emotion,3,S,None
+jhclues,6,5,9,18 December 2001," An Anomaly of the Genre
+","It""s the magic of the movies . 6/10 .",viewing_experience,3,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",This is just one movie that I can not stand .,viewing_experience,1,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+","I am not wild about movies that are mainly about kids who get the best of adults ,",themes_messages,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",and this definitely fits the bill as one of those movies .,themes_messages,3,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+","What really gets me , is this kid would not have gotten into all the trouble he did if he wasn""t such a brat .",character_development,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+","The family is trying to organize this big trip with all these other relatives ,",story_plot,3,O,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",and all the their younger son can do is whine and complain .,character_development,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",""" I don""t want to sleep with that kid "" , "" I have to have my pizza a certain way "" , stuff like that ...",character_development,3,O,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",And he is supposed to be the kid we are pulling for ? We get to see him left alone,character_development,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",and do all the things kids do when they are left alone .,story_plot,3,O,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",Watch black and white old movies .,recommendation,3,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+","Yes , and this kid is such a wimp that a black and white mobster pick scares him .",character_development,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+","Though he uses it so wisely later in the movie ( yeah right , that would work ) .",story_plot,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",This kid somehow outsmarts the two thieves even though earlier one of them is smart enough to impersonate a police officer and check all the security of the houses in the neighborhood .,story_plot,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",I guess his intelligence went down a notch or two .,character_development,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",Then there are the many clever traps that usually consist of someone getting hit in the groin area ... Ha ha ha ! It is always so funny to see someone get hit there,story_plot,4,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",and writhe in agony .,emotion,4,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",All in all this is just one bad movie that I did not care for at all .,viewing_experience,2,S,None
+Aaron1375,2,17,44,2 April 2003," If it wasn't for Pesci, I would have given it a 1.
+",I just wish the kid got into some kind of trouble for all the problems he caused .,story_plot,2,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","Everybody tries hard ,",acting_performance,3,O,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","but "" Home Alone "" doesn""t work nearly as well as its popularity suggests .",comparative_analysis,2,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","Macaulay Culkin became a household name starring as Kevin McCallister , a precocious eight - year - old accidentally left behind when his family heads out on a holiday vacation .",casting_choices,4,S,Macaulay Culkin
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","If fending for himself weren""t enough , Kevin must also contend with two bumbling burglars ( Joe Pesci and Daniel Stern ) , who have targeted the family home .",story_plot,3,O,"Joe Pesci, Daniel Stern"
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","I first saw "" Home Alone "" when I was 10 years old .",expectation,3,O,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","I didn""t find it at all funny then ,",emotion,2,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+",and its genius still eludes me .,emotion,2,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","The alleged "" humor "" that everyone seems to love stems mainly from a series of violent booby traps Kevin sets up to stop the bad guys .",story_plot,2,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","Among the deterrents the burglars so wittingly fall for is a red - hot doorknob . Looks painful , but hardly funny .",story_plot,3,O,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","The film tries to handle such physical abuse like an old Road Runner cartoon ,",story_plot,2,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","but when the action involves real people instead of an animated coyote , something is lost .",story_plot,2,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","Yet "" Home Alone "" isn""t a total disaster .",viewing_experience,3,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","The performances are great and the story is at times quite charming , particularly the subplot involving the supposedly scary old neighborhood man .",acting_performance,4,S,None
+ReelCheese,4,14,36,11 August 2006," Does It Deserve Its Popularity?
+","Interestingly , the sequel -- "" Home Alone 2 : Lost in New York "" -- marked a notable improvement .",comparative_analysis,4,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+",If I had to pick a movie that was a smash that did absolutely nothing for me Home Alone would be at the top of the list .,emotion,2,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","Oh , I""m not saying the movie was awful .",emotion,3,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","But overated yes and after all these years , I still don""t get the appeal .",emotion,2,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","I""m an adult but was fairly young when this came out -",expectation,3,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+",and I love all types of movies .,viewing_experience,4,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","This movie""s premise bothered me , seeing a kid get terrorized by robbers , even in a comedic sense , was not my cup of tea",story_plot,2,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+",and I spent most of the movie feeling sorry for the poor kid who got left behind and wishing the movie would end .,emotion,2,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","Yes , Mcauley Culkin was cute -",acting_performance,4,S,Macaulay Culkin
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","but aside from that , I don""t think Home Alone rates more then a 5 . 5 maybe a 6 .",viewing_experience,2,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","I have definetly seen better kid movies , family movies etc .",comparative_analysis,2,S,None
+triple8,5,7,16,3 December 2003," Sickeningly sweet-TO SWEET.
+","It was hyped so much and so sickeningly sappy , the most I could say about it is that it""s a "" cute "" little movie .",viewing_experience,3,S,None
+pathumgunath-93252,10,3,5,22 December 2019," Never gets Bored
+",Never matter how many times you spend to watch this movie .. Its never gets bored . ❤ 😍 🔥,viewing_experience,5,S,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+","It is recommended because it is excellent , because it has excellent history , excellent script",recommendation,5,S,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+",and is a movie for the whole family,story_plot,3,O,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+",and because the performances are the best of all .,acting_performance,5,S,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+",Excellent Christmas movie and masterpiece by Chris Columbus .,filmmaking_direction,5,S,Chris Columbus
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+","Excellent movie , I loved the performance of Macaulay Culkin the best , Joe Pesci and Daniel Stern also , the best performance of all , I wonder what happened to Macaulay Culkin ? Home Alone is a movie to see as a family , a movie to watch at Christmas . I loved . 10 points .",acting_performance,5,S,"Macaulay Culkin, Joe Pesci, Daniel Stern"
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+",And the man with the excellent shovel .,story_plot,3,O,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+","As I said the best performance of all , the part that Kevin puts the tarantula to the thief Marv ( Daniel Stern ) killed me with laughter and the face that Joe Pesci puts on when he leaves in the police car made me laugh . Safety pin . Very recommended .",acting_performance,5,S,"Daniel Stern, Joe Pesci"
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+","I suppose everyone saw it , the one who did not see it , I recommend it , you can see it .",recommendation,4,S,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+",It is a film suitable for all audiences .,recommendation,3,O,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+","The McCalister family goes on vacation to France , they leave Kevin ( Macaulay Culkin ) alone at home , Kevin learns to fend for himself and even protect himself , cheat him and confront some thieves who come to Harry""s house ( Joe Pesci ) and Marv ( Daniel Stern ) are two thieves who intend to raid all the closed houses in their neighborhood .",story_plot,3,O,"Macaulay Culkin, Joe Pesci, Daniel Stern"
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+","When his mother realizes that he forgot about him , he makes a trip back to Chicago to recover his son .",story_plot,3,O,None
+stormhawk2020,10,3,5,12 November 2017," This is my house, and I must defend it
+","It""s fun , entertaining , comical , dramatic and also for the Christmas season .",viewing_experience,4,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","It""s not without it""s flaws , that""s for sure .",viewing_experience,3,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","The acting isn""t amazing , some plot points aren""t great ,",acting_performance,2,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","and it doesn""t have a dialogue that""s anything special .",writing_dialogue,2,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+",But this is an American treasure .,viewing_experience,5,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","I would never call it one of the top 10 movies i""ve ever seen ,",viewing_experience,2,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+",but it is definitely one of my top 10 favorite movies .,viewing_experience,5,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","It""s a movie that if you haven""t watched , you haven""t lived .",viewing_experience,5,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","It""s one of the most defining Christmas movies with values and life lessons entrenched in the plot .",themes_messages,5,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","It""s just such a fun movie that everyone will love even if they don""t think its a great movie in and of itself .",viewing_experience,5,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","It""s kind of hard to explain ,",viewing_experience,3,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","but you just have to watch this movie if you""ve never seen it .",recommendation,4,S,None
+rick-jatti,9,3,5,28 November 2016," more of a must see than great movie
+","You definitely won""t regret it .",recommendation,4,S,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+","In the movie "" Home Alone "" Kevin does a great job making his character likable",character_development,4,S,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+","and fun to watch , The bad guys in the movie depict not so smart villains ,",character_development,3,O,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+",but create a slapstick style comedy for the whole family to enjoy .,genre_style,4,S,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+",This is a great holiday movie to sit down and watch with your family .,recommendation,4,S,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+","Although the movie is unrealistic , it is a movie so that""s OK .",story_plot,3,O,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+",The creative traps set by Kevin let the viewed think of what else they might do to protect their house against burglaries .,story_plot,4,S,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+","Grab a cup of hot chocolate , popcorn , friends and family",viewing_experience,3,O,None
+rodriguez-christopher8,9,3,5,10 December 2014," Laughed out loud, great family fun!
+",and enjoy this classic !,recommendation,4,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+","Home Alone is a very funny Christmas classic of the early 1990""s .",genre_style,5,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+","I thought that this film would be good ,",expectation,3,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+","but it""s much better than that .",expectation,4,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",The story is about a young child whose family leaves him at home when they all go to Paris .,story_plot,3,O,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",Two dim - witted burglars realize that as well .,story_plot,3,O,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",They planned on robbing the house with no one in their way .,story_plot,3,O,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",Little did they know that Kevin would be the hero of the household .,story_plot,3,O,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",The acting in this film is good especially the robbers played by Joe Pesci and Daniel Stern .,acting_performance,4,S,"Joe Pesci, Daniel Stern"
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",They were the funniest part of the film .,acting_performance,4,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+","I also like the music in this film then again I always liked John Williams "" music .",audio_music,4,S,John Williams
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",The only thing a little wrong is the violence .,story_plot,3,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",A PG-13 rating would have been more suitable .,commercial_context,3,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+","Otherwise , this is perfect .",viewing_experience,5,S,None
+g-bodyl,10,3,5,8 July 2008," Very Funny!
+",I rate this film a 10/10 .,viewing_experience,5,S,None
+cheeseboy80,Null,4,8,7 October 2000," Dull and Unfunny
+","This movie sucks ! What""s so funny about two burglars getting hurt by wire booby traps that a little kid set up . Nothing at all .",viewing_experience,1,S,None
+cheeseboy80,Null,4,8,7 October 2000," Dull and Unfunny
+","The jokes on this movie were not funny at all , maybe a person with a IQ of two or lower will find this movie somewhat funny .",viewing_experience,1,S,None
+cheeseboy80,Null,4,8,7 October 2000," Dull and Unfunny
+","The other sequels are the same thing , people getting hurt by booby traps .",story_plot,3,S,None
+cheeseboy80,Null,4,8,7 October 2000," Dull and Unfunny
+","It""s the same thing over and over again .",story_plot,2,S,None
+cheeseboy80,Null,4,8,7 October 2000," Dull and Unfunny
+",AVOID ! ! ! ! ! I give this movie 3 out of 10,recommendation,1,S,None
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+",Mackauly Culkin played the perfect role of Kevin McCallister in this genre defining Christmas comedy .,casting_choices,5,S,Mackauly Culkin
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+",It is full of the iconic gags and heartfelt story that everyone has grown to love over the years .,story_plot,4,S,None
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+","Every Christmas it is tradition that I""ll sit down and watch Home Alone and laugh every time .",viewing_experience,4,S,None
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+","Kevin was comedic genius in the movie with Joe Peschi and the other actor I can""t remember as Harry and Marv , the wet bandits .",character_development,4,S,Joe Peschi
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+","The McCallister house is an iconic location when it comes to Christmas movies with memorable and quirky characters such as Buzz , Kevin""s brother as well as Kevin""s parents which Kevin hates for some reason .",artistic_design,3,O,None
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+","When Kevin is left alone at home though , he has the house to himself and hilarious folly ensues .",story_plot,4,S,None
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+",Kevin acting is great as the movie goes on .,acting_performance,4,S,None
+coasterdude44,8,2,3,19 December 2019," Always hilarious every time. A christmas film that will never age or lose it's magic touch
+",And the movie has a very heartwarming ending,story_plot,4,S,None
+Ahmad_pilehvar,8,2,3,15 December 2019," Great Classic movie
+",I saw this movie years ago when i was a child .,expectation,3,O,None
+Ahmad_pilehvar,8,2,3,15 December 2019," Great Classic movie
+","And as child i couldn""t describe how it was amazing to me .",emotion,4,S,None
+Ahmad_pilehvar,8,2,3,15 December 2019," Great Classic movie
+",The play of those two thieve was amazing,acting_performance,4,S,None
+Ahmad_pilehvar,8,2,3,15 December 2019," Great Classic movie
+","and couldn""t be more hateful of them .",emotion,1,S,None
+Ahmad_pilehvar,8,2,3,15 December 2019," Great Classic movie
+",And also the play of the kid was great .,acting_performance,4,S,None
+snadertje,8,2,3,15 December 2019," Still a real funny masterpiece
+",In this movie everything comes together perfectly .,viewing_experience,5,S,None
+snadertje,8,2,3,15 December 2019," Still a real funny masterpiece
+","Fun , fear , adventure , comedy , slapstick and ofcource that family feeling around Christmas .",genre_style,4,S,None
+snadertje,8,2,3,15 December 2019," Still a real funny masterpiece
+","A must see ! Disney should not be re - making this , it will fail instantly .",recommendation,2,S,None
+Rurextrexx34,9,2,3,12 December 2019," OMG who doesn't LOVE THIS
+",I have to watch this every year .,viewing_experience,4,S,None
+Rurextrexx34,9,2,3,12 December 2019," OMG who doesn't LOVE THIS
+",Soooooo good still .,viewing_experience,5,S,None
+Rurextrexx34,9,2,3,12 December 2019," OMG who doesn't LOVE THIS
+","Love it and the story / themes and message . Can""t get enough .",themes_messages,5,S,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","Review:""Home Alone "" is a comedy film directed by Chris Columbus .",filmmaking_direction,3,O,Chris Columbus
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","If you were to ask a room full of people what movie they watch the most around the Holiday""s , the majority would say "" Home Alone "" .",commercial_context,3,O,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","This is such a fun tale from writer John Hughes ,",writing_dialogue,4,S,John Hughes
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+",and it brings some suspense to Christmas while keeping it child friendly .,story_plot,4,S,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+",The story follows eight - year - old Kevin McCallister ( Macaulay Culkin ) who is mistakenly left behind when his family flies to Paris for their Christmas vacation .,story_plot,3,O,Macaulay Culkin
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","Kevin initially relishes being home alone ,",story_plot,3,O,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","but he soon has to contend with two burglars : Harry Lyme ( Joe Pesci ) and Marv Merchants ( Daniel Stern ) , who are known as the "" Wet Bandits "" .",story_plot,3,O,"Joe Pesci, Daniel Stern"
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","Macaulay Culkin is a standout in this movie not only because he is in almost every scene ,",acting_performance,4,S,Macaulay Culkin
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+",but his acting was very good .,acting_performance,4,S,Macaulay Culkin
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+",He was nominated for the Golden Globe Award for Best Actor in a Musical or Comedy after all .,acting_performance,3,O,Macaulay Culkin
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+",He really holds his own among all the adults in the film,acting_performance,4,S,Macaulay Culkin
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","and it isn""t slim picks when you have Joe Pesci , John Heard and Catherine O""Hara .",casting_choices,4,S,"Joe Pesci, John Heard, Catherine O'Hara"
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","It""s quite unrealistic about how dumb the burglars are ,",story_plot,2,S,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","but honestly , this is a terrific family film .",viewing_experience,5,S,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","Joe Pesci and Daniel Stern are a great comedy duo of two idiots who can""t rob the place because a child has out witted them",acting_performance,5,S,"Joe Pesci, Daniel Stern"
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+",and set some clever and very funny traps around the house .,story_plot,4,S,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","Overall , aside from its unrealistic plot , the movie is fun and very entertaining .",viewing_experience,4,S,None
+RhapsodyReviews,9,2,3,10 December 2019," Holiday Classic.
+","It""s a movie my family watches multiple times throughout the year and it never gets old . 4 . 5/5",viewing_experience,5,S,None
+anyalegs,10,2,3,8 December 2019," Meaning of Christmas ðŸ’“
+",Heartwarming film that shows the true meaning of Christmas .,themes_messages,5,S,None
+anyalegs,10,2,3,8 December 2019," Meaning of Christmas ðŸ’“
+","Can""t have a holiday season without it !",viewing_experience,3,O,None
+hosart,10,2,3,6 December 2019," Christmas classic
+",So many good Childhood memories with this movie hopefully we get remake,viewing_experience,4,S,None
+neverstopdreaming-89381,10,2,3,21 November 2019," Best Family/Christmas Themed Movie
+",I loved this movie ever since I was a child .,emotion,5,S,None
+neverstopdreaming-89381,10,2,3,21 November 2019," Best Family/Christmas Themed Movie
+","I watched it so many times , the cover of our VHS was hanging together by a thread .",viewing_experience,3,S,None
+neverstopdreaming-89381,10,2,3,21 November 2019," Best Family/Christmas Themed Movie
+","25 years later , my children enjoy this movie as much as I did .",viewing_experience,5,S,None
+neverstopdreaming-89381,10,2,3,21 November 2019," Best Family/Christmas Themed Movie
+",I would definitely recommend .,recommendation,4,S,None
+9thgraders,9,2,3,11 February 2019," The best film
+","It""s a comedy and family film .",genre_style,3,O,None
+9thgraders,9,2,3,11 February 2019," The best film
+",It was released in 1990 .,commercial_context,3,O,None
+9thgraders,9,2,3,11 February 2019," The best film
+","It""s directed by Chris Columbus and John Hughes is the director .",filmmaking_direction,3,O,"Chris Columbus, John Hughes"
+9thgraders,9,2,3,11 February 2019," The best film
+","The main actors are Macaulay Culking who plays Kevin , Joe Pesci who plays Harry and Daniel Stern who plays Marvin .",character_development,3,O,"Macaulay Culkin, Joe Pesci, Daniel Stern"
+9thgraders,9,2,3,11 February 2019," The best film
+",Kevin is a boy and he lives in England .,character_development,3,O,None
+9thgraders,9,2,3,11 February 2019," The best film
+","He lives in the biggest home with his family ( cousins , uncle ... ) For Christmas his family go to Paris",story_plot,3,O,None
+9thgraders,9,2,3,11 February 2019," The best film
+","and ... Go watch the film ! I""m a fan of this film , it""s so funny .",recommendation,5,S,None
+9thgraders,9,2,3,11 February 2019," The best film
+","Kevin is brave and he doesn""t get scared .",character_development,3,O,None
+9thgraders,9,2,3,11 February 2019," The best film
+",He builds traps to keep burglars .,story_plot,3,O,None
+9thgraders,9,2,3,11 February 2019," The best film
+","It""s an amazing film ! Kevin runs around .",viewing_experience,5,S,None
+9thgraders,9,2,3,11 February 2019," The best film
+","It""s a great cast because Macaulay Culking ( Kevin ) is the most talented actor .",casting_choices,5,S,Macaulay Culkin
+9thgraders,9,2,3,11 February 2019," The best film
+",The soundtrack is stressful .,audio_music,2,S,None
+9thgraders,9,2,3,11 February 2019," The best film
+","It""s a great film and to me it""s the best film I""ve ever seen .",viewing_experience,5,S,None
+9thgraders,9,2,3,11 February 2019," The best film
+","The cast is perfect , the music is perfect",casting_choices,5,S,None
+9thgraders,9,2,3,11 February 2019," The best film
+","but there aren""t visuals effects .",technical_visuals,2,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",This film is gripping and the acting is perfect .,viewing_experience,5,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",Home alone is in my opinion best film at X - mas .,recommendation,5,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",I really enjoy watching this film .,viewing_experience,4,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",ItÂ´s the best family comedy which I have ever seen .,genre_style,5,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",The story is about young boy . His name is Kevin . He is small,story_plot,3,O,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",but he is big trouble - maker .,character_development,3,O,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+","In this film he did a lot of crazy , good and bad things , which you will see when you watch this great film .",story_plot,4,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",I think the main character ( Kevin ) was created for this role ! He was really good actor .,acting_performance,4,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+","In this film you can see how Kevin did a traps for two guys , who want to rob his house .",story_plot,3,O,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",It is really entertaining .,viewing_experience,4,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+","In film there are some stunts , which are real .",technical_visuals,3,O,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",There were no stunt - man or stunt - woman .,technical_visuals,3,O,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",The characters perfomed stunts themselves .,acting_performance,3,O,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+","ThatÂ´s crazy ! Characters : Kevin are brave , impressive and wily and bandits are thoughtless , bad , sharp .",character_development,4,S,Kevin
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",And one interesting thing about this film is that at the end one of the guys tries to bit Kevin to his forefinger,story_plot,3,O,Kevin
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",and he bit him for real and after shooting Kevin has a real scar .,story_plot,3,O,Kevin
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",So at the end I must say that it was a great film,viewing_experience,5,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",and you must watch this .,recommendation,5,S,None
+imdb-58910,10,2,3,24 January 2019," The best family comedy
+",Thank you for reading .,viewing_experience,3,S,None
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","I remember this coming out and to be fair I remember it taking the world by storm ( or at least kids world""s ) .",commercial_context,3,S,None
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","I even remember having to pre - order it in Woolworths and then going back on release day with my ticket , as if I had found one of the 5 Golden tickets from Charlie and the Chocolate Factory haha ! Macaulay Culkin""s performance is brilliant , as is Pesci & Stern""s who play the bungling thieves perfectly .",acting_performance,5,S,"Macaulay Culkin, Pesci, Stern"
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","It""s surprising how quickly this film has become most people""s , go to Christmas film .",commercial_context,4,S,None
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","It""s not Christmas until you have seen Home Alone .",story_plot,3,O,None
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","The film is well shot , the location scouts selected the McCallister residence brilliantly .",artistic_design,4,S,None
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","To be fair this has to be one of , if not the most iconic properties on film .",commercial_context,3,O,None
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","The whole thing is just perfect ,",viewing_experience,5,S,None
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+","and to top it off John Williams created the score for it ! ! 10 out of 10 all day long , I never tire of this film",audio_music,5,S,John Williams
+ashleyst78,10,2,3,15 January 2019," I Made All the Other Reviews Disappear ;)
+",and it always gives you the feel good factor .,emotion,4,S,None
+gmailsucks,10,2,3,25 December 2018," Simply the best Christmas movie of all time
+","From the John Williams score , to the terrific acting of literally every character , to the wonderful plot , this is not just one of the best Christmas movies of all time but one of the best movies ever .",audio_music,5,S,John Williams
+gmailsucks,10,2,3,25 December 2018," Simply the best Christmas movie of all time
+",Hard to believe how dumb some of the critics are ... Must be a depressing existence .,emotion,1,S,None
+Braveheart1626,10,2,3,8 September 2001," The greatest family film ever made.
+",Home Alone is a lovely movie and I consider it the greatest family film ever made because of the storyline and the well developed plot .,story_plot,5,S,None
+Braveheart1626,10,2,3,8 September 2001," The greatest family film ever made.
+",The actors are fantastic also .,acting_performance,5,S,None
+Braveheart1626,10,2,3,8 September 2001," The greatest family film ever made.
+","I""m not going to comment on it much ,",viewing_experience,3,O,None
+Braveheart1626,10,2,3,8 September 2001," The greatest family film ever made.
+","but my suggestion is that if you haven""t seen this movie , you should .",recommendation,4,S,None
+Braveheart1626,10,2,3,8 September 2001," The greatest family film ever made.
+",You will feel better throughout the movie .,emotion,4,S,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","Macaulay Culkin stars as Kevin , a hapless 8 year old lad who was left alone at the house , when the family mad dashes out falling behind after sleeping in too late ,",character_development,3,O,Macaulay Culkin
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+",and making a special trip out yonder for the holidays .,story_plot,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","This leaves Kevin all alone , and he thinks he "" made his family disappear "" after an argument left him claiming that he wishes they would all just go away .",story_plot,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","So now what ? Well , at first , its all fun",story_plot,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","and games , as he roams and zooms",story_plot,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","and gets into mischief , with nobody to stop him or tell him what to do .",story_plot,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","Then , it gets a little tricky : Two bumbling bandits ( Stern and Pesci ) catch wind that he""s all alone in the house ,",story_plot,3,O,"Stern, Pesci"
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+",and they make plans to rob the house blind .,story_plot,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","I mean , what defense does an 8 year old have against them , anyways ? Apparently you never met Kevin , who has more tricks up his sleeve then a magician , as he outsmarts , outplays ,",character_development,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+",and sets up childish pranks and traps for them to fall in .,story_plot,3,O,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","It""s a parade of laughs ,",viewing_experience,4,S,None
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","but will Kevin successfully be able to keep the home safe before his family comes back , or will his luck run out ? It""s a must see for the entire family , an early 90""s Christmas movie from writer John Hughes ,",story_plot,4,S,John Hughes
+tdrish,7,1,1,9 January 2020," He's got the house all to himself....and he's protecting it from two bumbling bandits!
+","and directed by Chris Columbus ( Adventures In Babysitting ) , Home Alone is sure to keep you laughing all the way to the finish line !",filmmaking_direction,4,S,Chris Columbus
+andrewchristianjr,8,1,1,4 January 2020," A CHRISTMAS CLASSIC
+",A christmas classic since the moment it was released .,viewing_experience,5,S,None
+andrewchristianjr,8,1,1,4 January 2020," A CHRISTMAS CLASSIC
+","Great comedy , sweet and funny . Never getting old .",genre_style,5,S,None
+MissSimonetta,8,1,1,23 December 2019," Nostalgia-proofed holiday classic
+","Like many other people of my vintage , HOME ALONE has been a staple of the holidays for as long as I can remember .",viewing_experience,4,S,None
