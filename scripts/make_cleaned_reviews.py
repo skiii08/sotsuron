@@ -4,8 +4,8 @@ import html
 import unicodedata
 
 # 入力ファイルと出力ファイルのパス
-INPUT_FILE = "/data/current data/sampled_reviews.csv"
-OUTPUT_FILE = "/data/current data/cleaned_reviews.csv"
+INPUT_FILE = "/Users/watanabesaki/PycharmProjects/sotsuron/Toy Story 1995.csv"
+OUTPUT_FILE = "/Users/watanabesaki/PycharmProjects/sotsuron/Cleanded_Toy Story 1995.csv"
 
 
 def clean_text(text):

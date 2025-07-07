@@ -146,9 +146,11 @@ def process_file(input_file, output_file):
 
         for row in tqdm(reader, desc="Processing reviews", total=total_rows):
             try:
-                movie = row['movie']
-                username = row['username']
-                review = row['review']
+                # usernameカラムの取得（ログ用、存在しない場合は"unknown"）
+                username = row.get('username', 'unknown')
+
+                # reviewカラムの取得
+                review = row.get('review', '')
 
                 if not review or not review.strip():
                     continue
@@ -203,9 +205,9 @@ def process_file(input_file, output_file):
     print(f"出力ファイル: {output_file}")
 
 
-# ファイルパス
-input_file = "/Users/watanabesaki/PycharmProjects/sotsuron/Cleanded_Harry Potter and the Sorcerer's Stone 2001.csv"
-output_file = "/Users/watanabesaki/PycharmProjects/sotsuron/segmented_Harry Potter and the Sorcerer's Stone 2001.csv"
+# ファイルパス（適宜変更してください）
+input_file = "/Users/watanabesaki/PycharmProjects/sotsuron/Cleanded_Pitch Perfect 2012.csv"
+output_file = "/Users/watanabesaki/PycharmProjects/sotsuron/segmented_Pitch Perfect 2012.csv"
 
 if __name__ == "__main__":
     process_file(input_file, output_file)
